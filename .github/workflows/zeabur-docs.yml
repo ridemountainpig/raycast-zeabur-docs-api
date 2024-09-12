@@ -1,0 +1,48 @@
+name: Generate Raycast Zeabur Docs
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+        pip install beautifulsoup4
+
+    - name: Run zeabur-docs.py
+      run: python zeabur-docs.py
+
+    - name: Configure git
+      run: |
+        git config --global user.name github-actions
+        git config --global user.email github-actions[bot]@users.noreply.github.com
+
+    - name: Commit and push changes
+      run: |
+        if git diff-index --quiet HEAD --; then
+          echo "No changes detected."
+        else
+          git add .
+          git commit -m "chore: update zeabur docs"
+        fi
+      continue-on-error: true
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        branch: main
+        github_token: ${{ secrets.GITHUB_TOKEN }}
