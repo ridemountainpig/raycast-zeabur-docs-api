@@ -3,6 +3,7 @@ import re
 import xml.etree.ElementTree as ET
 import json
 from bs4 import BeautifulSoup
+from concurrent.futures import ThreadPoolExecutor
 
 
 def get_docs_languages():
@@ -19,8 +20,7 @@ def get_docs_languages():
             r"\{[^}]*locale:\s*'([^']+)',\s*text:\s*'([^']+)'\s*\}", language_array
         )
 
-        language_list = [{"locale": locale, "text": text}
-                         for locale, text in languages]
+        language_list = [{"locale": locale, "text": text} for locale, text in languages]
         return language_list
 
 
@@ -39,14 +39,18 @@ def get_sitemap_urls():
     root = ET.fromstring(sitemap_xml)
     docs_languages = get_docs_languages()
 
+    with ThreadPoolExecutor() as executor:
+        root_metas = list(
+            executor.map(
+                get_root_meta, [language["locale"] for language in docs_languages]
+            )
+        )
+
     urls = {}
-    for language in docs_languages:
-        temp_urls = {}
+    all_urls = []
 
-        root_meta = get_root_meta(language["locale"])
-
-        for meta in root_meta:
-            temp_urls[root_meta[meta]] = {}
+    for language, root_meta in zip(docs_languages, root_metas):
+        temp_urls = {root_meta[meta]: {} for meta in root_meta}
 
         for url in root.findall(".//{http://www.sitemaps.org/schemas/sitemap/0.9}loc"):
             if language["locale"] == "en-US":
@@ -56,41 +60,51 @@ def get_sitemap_urls():
                         check = False
                         break
                 if check:
-                    title = get_docs_title(url.text)
-                    for meta in root_meta:
-                        if meta in url.text:
-                            temp_urls[root_meta[meta]][title] = url.text
-                            break
+                    all_urls.append((url.text, root_meta, temp_urls))
             else:
                 if language["locale"] in url.text:
-                    title = get_docs_title(url.text)
-                    for meta in root_meta:
-                        if meta in url.text:
-                            temp_urls[root_meta[meta]][title] = url.text
-                            break
+                    all_urls.append((url.text, root_meta, temp_urls))
+
         urls[language["locale"]] = temp_urls
+
+    with ThreadPoolExecutor() as executor:
+        executor.map(process_url, all_urls)
 
     return urls
 
 
-def get_docs_title(url):
-    print(url)
-    response = requests.get(url)
-    html = response.text
-    soup = BeautifulSoup(html, "html.parser")
-    title = ""
-    h1_tag = soup.find("h1")
-    h2_tag = soup.find("h2")
-    h3_tag = soup.find("h3")
+def process_url(params):
+    url, root_meta, temp_urls = params
+    title = get_docs_content(url)
+    for meta in root_meta:
+        if meta in url:
+            temp_urls[root_meta[meta]][title] = url
+            break
 
-    if h1_tag:
-        title = h1_tag.text
-    elif h2_tag:
-        title = h2_tag.text
-    elif h3_tag:
-        title = h3_tag.text
 
-    return title
+def get_docs_content(url):
+    try:
+        print(f"Fetching {url}")
+        response = requests.get(url)
+        html = response.text
+        soup = BeautifulSoup(html, "html.parser")
+        title = ""
+
+        h1_tag = soup.find("h1")
+        h2_tag = soup.find("h2")
+        h3_tag = soup.find("h3")
+
+        if h1_tag:
+            title = h1_tag.text
+        elif h2_tag:
+            title = h2_tag.text
+        elif h3_tag:
+            title = h3_tag.text
+
+        return title
+    except requests.RequestException as e:
+        print(f"Failed to fetch {url}: {e}")
+        return "Error"
 
 
 def generate_docs_language_json():
