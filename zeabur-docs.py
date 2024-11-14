@@ -4,6 +4,7 @@ import xml.etree.ElementTree as ET
 import json
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
+import ast
 
 
 def get_docs_languages():
@@ -17,18 +18,20 @@ def get_docs_languages():
     if match:
         language_array = match.group(1)
         languages = re.findall(
-            r"\{[^}]*locale:\s*'([^']+)',\s*text:\s*'([^']+)'\s*\}", language_array
+            r"\{[^}]*locale:\s*'([^']+)',\s*name:\s*'([^']+)'\s*\}", language_array
         )
 
-        language_list = [{"locale": locale, "text": text} for locale, text in languages]
+        language_list = [{"locale": locale, "name": name} for locale, name in languages]
         return language_list
 
 
 def get_root_meta(locale):
-    root_meta_url = f"https://raw.githubusercontent.com/zeabur/zeabur/main/docs/pages/_meta.{locale}.json"
+    root_meta_url = f"https://raw.githubusercontent.com/zeabur/zeabur/main/docs/pages/{locale}/_meta.ts"
     response = requests.get(root_meta_url)
-    root_meta = response.json()
-    return root_meta
+    ts_content = response.text
+    cleaned_content = ts_content.replace("export default ", "").strip()
+    root_meta = ast.literal_eval(cleaned_content)
+    return json.dumps(root_meta, ensure_ascii=False, indent=2)
 
 
 def get_sitemap_urls():
@@ -50,20 +53,12 @@ def get_sitemap_urls():
     all_urls = []
 
     for language, root_meta in zip(docs_languages, root_metas):
+        root_meta = json.loads(root_meta)
         temp_urls = {root_meta[meta]: {} for meta in root_meta}
 
         for url in root.findall(".//{http://www.sitemaps.org/schemas/sitemap/0.9}loc"):
-            if language["locale"] == "en-US":
-                check = True
-                for l in docs_languages:
-                    if l["locale"] in url.text:
-                        check = False
-                        break
-                if check:
-                    all_urls.append((url.text, root_meta, temp_urls))
-            else:
-                if language["locale"] in url.text:
-                    all_urls.append((url.text, root_meta, temp_urls))
+            if language["locale"] in url.text:
+                all_urls.append((url.text, root_meta, temp_urls))
 
         urls[language["locale"]] = temp_urls
 
