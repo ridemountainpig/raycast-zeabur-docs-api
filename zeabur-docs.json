@@ -5,19 +5,19 @@
             "Get Started": "https://zeabur.com/docs/en-US/get-started"
         },
         "Deploy": {
-            "Create Project": "https://zeabur.com/docs/en-US/deploy/create-project",
             "Backup Service": "https://zeabur.com/docs/en-US/deploy/backup",
             "Execute Commands": "https://zeabur.com/docs/en-US/deploy/command-execution",
-            "Custom Prebuilt": "https://zeabur.com/docs/en-US/deploy/customize-prebuilt",
+            "Create Project": "https://zeabur.com/docs/en-US/deploy/create-project",
             "Editing Configuration Files": "https://zeabur.com/docs/en-US/deploy/config-edit",
-            "Deploy Service in Zeabur CLI": "https://zeabur.com/docs/en-US/deploy/deploy-in-cli",
+            "Custom Prebuilt": "https://zeabur.com/docs/en-US/deploy/customize-prebuilt",
             "Deploy Button": "https://zeabur.com/docs/en-US/deploy/deploy-button",
+            "Deploy Service in Zeabur CLI": "https://zeabur.com/docs/en-US/deploy/deploy-in-cli",
             "Deploying with Dockerfile": "https://zeabur.com/docs/en-US/deploy/dockerfile",
             "Integrate GitHub": "https://zeabur.com/docs/en-US/deploy/github",
-            "Update Image Reference of the Docker Service": "https://zeabur.com/docs/en-US/deploy/update-image-reference",
-            "Custom Root Directory": "https://zeabur.com/docs/en-US/deploy/root-directory",
             "Special Variables": "https://zeabur.com/docs/en-US/deploy/special-variables",
             "Setting Environment Variables": "https://zeabur.com/docs/en-US/deploy/variables",
+            "Update Image Reference of the Docker Service": "https://zeabur.com/docs/en-US/deploy/update-image-reference",
+            "Custom Root Directory": "https://zeabur.com/docs/en-US/deploy/root-directory",
             "Watch Paths": "https://zeabur.com/docs/en-US/deploy/watch-paths"
         },
         "Template": {
@@ -31,18 +31,18 @@
         "Guides": {
             "Deploy ElysiaJS App": "https://zeabur.com/docs/en-US/guides/bun/elysiajs",
             "Hono": "https://zeabur.com/docs/en-US/guides/bun/hono",
-            "Deploying Flutter on Zeabur": "https://zeabur.com/docs/en-US/guides/dart/flutter",
             "Bun": "https://zeabur.com/docs/en-US/guides/bun",
+            "Deploying Flutter on Zeabur": "https://zeabur.com/docs/en-US/guides/dart/flutter",
             "Deploy Fresh App": "https://zeabur.com/docs/en-US/guides/deno/fresh",
             "Deploy Deno App in TypeScript": "https://zeabur.com/docs/en-US/guides/deno/typescript",
-            "Deploy .NET App": "https://zeabur.com/docs/en-US/guides/dotnet",
             "Deploy Go App": "https://zeabur.com/docs/en-US/guides/go",
+            "Deploy .NET App": "https://zeabur.com/docs/en-US/guides/dotnet",
             "Deploy Spring Boot": "https://zeabur.com/docs/en-US/guides/java/spring-boot",
-            "Deploying Java Projects": "https://zeabur.com/docs/en-US/guides/java",
             "Deploy Astro on Zeabur": "https://zeabur.com/docs/en-US/guides/nodejs/astro",
+            "Deploying Java Projects": "https://zeabur.com/docs/en-US/guides/java",
             "Deploy Express App": "https://zeabur.com/docs/en-US/guides/nodejs/express",
-            "Deploy NestJS App": "https://zeabur.com/docs/en-US/guides/nodejs/nestjs",
             "Deploy Next.js": "https://zeabur.com/docs/en-US/guides/nodejs/nextjs",
+            "Deploy NestJS App": "https://zeabur.com/docs/en-US/guides/nodejs/nestjs",
             "Deploy Nuxt App": "https://zeabur.com/docs/en-US/guides/nodejs/nuxt",
             "Deploy Nue App": "https://zeabur.com/docs/en-US/guides/nodejs/nue",
             "Deploy Qwik Project": "https://zeabur.com/docs/en-US/guides/nodejs/qwik",
@@ -51,56 +51,56 @@
             "Deploy Umi": "https://zeabur.com/docs/en-US/guides/nodejs/umi",
             "Deploy Vite": "https://zeabur.com/docs/en-US/guides/nodejs/vite",
             "Deploy Waku": "https://zeabur.com/docs/en-US/guides/nodejs/waku",
-            "Deploying Node.js App": "https://zeabur.com/docs/en-US/guides/nodejs",
             "Deploy Laravel": "https://zeabur.com/docs/en-US/guides/php/laravel",
+            "Deploying Node.js App": "https://zeabur.com/docs/en-US/guides/nodejs",
             "Deploying PHP apps": "https://zeabur.com/docs/en-US/guides/php",
             "Deploy Django": "https://zeabur.com/docs/en-US/guides/python/django",
             "Deploy Flask": "https://zeabur.com/docs/en-US/guides/python/flask",
             "Deploying Reflex Project": "https://zeabur.com/docs/en-US/guides/python/reflex",
-            "Deploy Python Projects": "https://zeabur.com/docs/en-US/guides/python",
             "Deploying Rust Applications": "https://zeabur.com/docs/en-US/guides/rust",
             "Hugo": "https://zeabur.com/docs/en-US/guides/static/hugo",
+            "Deploy Python Projects": "https://zeabur.com/docs/en-US/guides/python",
             "MkDocs": "https://zeabur.com/docs/en-US/guides/static/mkdocs",
             "Deploy Vapor Project": "https://zeabur.com/docs/en-US/guides/swift/vapor"
         },
         "Project Manage": {
             "Project Budget": "https://zeabur.com/docs/en-US/manage/budget",
-            "Invite Member": "https://zeabur.com/docs/en-US/manage/invite",
-            "Service Usage": "https://zeabur.com/docs/en-US/manage/metric"
+            "Service Usage": "https://zeabur.com/docs/en-US/manage/metric",
+            "Invite Member": "https://zeabur.com/docs/en-US/manage/invite"
         },
         "Service Marketplace": {
-            "Deploy Dragonfly Service": "https://zeabur.com/docs/en-US/marketplace/dragonfly",
             "Deploy Flowise": "https://zeabur.com/docs/en-US/marketplace/flowise",
+            "Deploy Dragonfly Service": "https://zeabur.com/docs/en-US/marketplace/dragonfly",
             "Deploy Focalboard": "https://zeabur.com/docs/en-US/marketplace/focalboard",
             "Deploy Ghost": "https://zeabur.com/docs/en-US/marketplace/ghost",
             "Deploy Halo Service": "https://zeabur.com/docs/en-US/marketplace/halo",
             "Deploying Likit": "https://zeabur.com/docs/en-US/marketplace/likit",
             "Deploy Linkwarden on Zeabur": "https://zeabur.com/docs/en-US/marketplace/linkwarden",
-            "Deploy Logto Service": "https://zeabur.com/docs/en-US/marketplace/logto",
-            "Deploy Memos on Zeabur": "https://zeabur.com/docs/en-US/marketplace/memos",
             "Deploying MongoDB": "https://zeabur.com/docs/en-US/marketplace/mongodb",
-            "Deploy MySQL": "https://zeabur.com/docs/en-US/marketplace/mysql",
+            "Deploy Memos on Zeabur": "https://zeabur.com/docs/en-US/marketplace/memos",
+            "Deploy Logto Service": "https://zeabur.com/docs/en-US/marketplace/logto",
             "Deploy n8n": "https://zeabur.com/docs/en-US/marketplace/n8n",
+            "Deploy MySQL": "https://zeabur.com/docs/en-US/marketplace/mysql",
             "PostgreSQL Service": "https://zeabur.com/docs/en-US/marketplace/postgresql",
             "Deploy RabbitMQ Service": "https://zeabur.com/docs/en-US/marketplace/rabbitmq",
             "Deploy Redis Service": "https://zeabur.com/docs/en-US/marketplace/redis",
-            "Deploy Tiny Tiny RSS Service": "https://zeabur.com/docs/en-US/marketplace/ttrss",
             "Deploy Umami": "https://zeabur.com/docs/en-US/marketplace/umami",
-            "Deploy RSSHub Service": "https://zeabur.com/docs/en-US/marketplace/rsshub",
+            "Deploy Tiny Tiny RSS Service": "https://zeabur.com/docs/en-US/marketplace/ttrss",
             "Deploy Uptime Kuma": "https://zeabur.com/docs/en-US/marketplace/uptime-kuma",
             "Deploy WeWe RSS on Zeabur": "https://zeabur.com/docs/en-US/marketplace/wewe-rss",
+            "Deploy RSSHub Service": "https://zeabur.com/docs/en-US/marketplace/rsshub",
             "Deploy WordPress": "https://zeabur.com/docs/en-US/marketplace/wordpress"
         },
         "Legal and Policies": {
-            "Privacy Policy": "https://zeabur.com/docs/en-US/legal/privacy",
             "Fair use Guidelines": "https://zeabur.com/docs/en-US/legal/fair-use-guideline",
+            "Privacy Policy": "https://zeabur.com/docs/en-US/legal/privacy",
             "Terms of Service": "https://zeabur.com/docs/en-US/legal/terms"
         },
         "Payments and Billing": {
             "Subscription": "https://zeabur.com/docs/en-US/billing/subscription",
+            "Pricing": "https://zeabur.com/docs/en-US/billing/pricing",
             "Referral": "https://zeabur.com/docs/en-US/billing/referral",
             "Contribution Reward Program": "https://zeabur.com/docs/en-US/billing/reward",
-            "Pricing": "https://zeabur.com/docs/en-US/billing/pricing",
             "Sponsor": "https://zeabur.com/docs/en-US/billing/sponsor",
             "Plans": "https://zeabur.com/docs/en-US/billing/plans"
         },
@@ -126,16 +126,16 @@
             "執行命令": "https://zeabur.com/docs/zh-TW/deploy/command-execution",
             "編輯設定檔": "https://zeabur.com/docs/zh-TW/deploy/config-edit",
             "建立專案": "https://zeabur.com/docs/zh-TW/deploy/create-project",
-            "自訂 Prebuilt": "https://zeabur.com/docs/zh-TW/deploy/customize-prebuilt",
             "一鍵部署": "https://zeabur.com/docs/zh-TW/deploy/deploy-button",
+            "自訂 Prebuilt": "https://zeabur.com/docs/zh-TW/deploy/customize-prebuilt",
             "Dockerfile 部署": "https://zeabur.com/docs/zh-TW/deploy/dockerfile",
             "使用 CLI 部署服務": "https://zeabur.com/docs/zh-TW/deploy/deploy-in-cli",
             "整合 GitHub": "https://zeabur.com/docs/zh-TW/deploy/github",
             "自訂根目錄": "https://zeabur.com/docs/zh-TW/deploy/root-directory",
-            "特殊變數": "https://zeabur.com/docs/zh-TW/deploy/special-variables",
             "更新 Docker 服務的映像引用": "https://zeabur.com/docs/zh-TW/deploy/update-image-reference",
-            "環境變數設定": "https://zeabur.com/docs/zh-TW/deploy/variables",
-            "觸發路徑": "https://zeabur.com/docs/zh-TW/deploy/watch-paths"
+            "特殊變數": "https://zeabur.com/docs/zh-TW/deploy/special-variables",
+            "觸發路徑": "https://zeabur.com/docs/zh-TW/deploy/watch-paths",
+            "環境變數設定": "https://zeabur.com/docs/zh-TW/deploy/variables"
         },
         "模板": {
             "從模板服務 Fork 程式碼": "https://zeabur.com/docs/zh-TW/template/fork-git-repo-from-template",
@@ -149,10 +149,10 @@
             "部署 ElysiaJS 專案": "https://zeabur.com/docs/zh-TW/guides/bun/elysiajs",
             "Hono": "https://zeabur.com/docs/zh-TW/guides/bun/hono",
             "Bun": "https://zeabur.com/docs/zh-TW/guides/bun",
-            "在 Zeabur 上部署 Flutter": "https://zeabur.com/docs/zh-TW/guides/dart/flutter",
             "部署 Fresh 專案": "https://zeabur.com/docs/zh-TW/guides/deno/fresh",
-            "部署 Deno 專案": "https://zeabur.com/docs/zh-TW/guides/deno/typescript",
+            "在 Zeabur 上部署 Flutter": "https://zeabur.com/docs/zh-TW/guides/dart/flutter",
             "部署 .NET 專案": "https://zeabur.com/docs/zh-TW/guides/dotnet",
+            "部署 Deno 專案": "https://zeabur.com/docs/zh-TW/guides/deno/typescript",
             "部署 Go 專案": "https://zeabur.com/docs/zh-TW/guides/go",
             "部署 Spring Boot 專案": "https://zeabur.com/docs/zh-TW/guides/java/spring-boot",
             "部署 Java 專案": "https://zeabur.com/docs/zh-TW/guides/java",
@@ -181,8 +181,8 @@
             "部署 Vapor 專案": "https://zeabur.com/docs/zh-TW/guides/swift/vapor"
         },
         "專案管理": {
-            "邀請成員": "https://zeabur.com/docs/zh-TW/manage/invite",
             "專案預算": "https://zeabur.com/docs/zh-TW/manage/budget",
+            "邀請成員": "https://zeabur.com/docs/zh-TW/manage/invite",
             "使用量分析": "https://zeabur.com/docs/zh-TW/manage/metric"
         },
         "服務市集": {
@@ -190,21 +190,21 @@
             "部署 Flowise": "https://zeabur.com/docs/zh-TW/marketplace/flowise",
             "在 Zeabur 部署 Focalboard": "https://zeabur.com/docs/zh-TW/marketplace/focalboard",
             "部署 Ghost": "https://zeabur.com/docs/zh-TW/marketplace/ghost",
+            "在 Zeabur 部署 Likit": "https://zeabur.com/docs/zh-TW/marketplace/likit",
             "在 Zeabur 部署 Halo": "https://zeabur.com/docs/zh-TW/marketplace/halo",
             "在 Zeabur 上部署 Linkwarden": "https://zeabur.com/docs/zh-TW/marketplace/linkwarden",
-            "在 Zeabur 部署 Likit": "https://zeabur.com/docs/zh-TW/marketplace/likit",
             "部署 Logto 服務": "https://zeabur.com/docs/zh-TW/marketplace/logto",
             "在 Zeabur 上部署 Memos": "https://zeabur.com/docs/zh-TW/marketplace/memos",
             "在 Zeabur 部署 MongoDB": "https://zeabur.com/docs/zh-TW/marketplace/mongodb",
             "在 Zeabur 部署 MySQL": "https://zeabur.com/docs/zh-TW/marketplace/mysql",
-            "在 Zeabur 部署 PostgreSQL": "https://zeabur.com/docs/zh-TW/marketplace/postgresql",
             "部署 n8n": "https://zeabur.com/docs/zh-TW/marketplace/n8n",
-            "在 Zeabur 部署 Redis": "https://zeabur.com/docs/zh-TW/marketplace/redis",
+            "在 Zeabur 部署 PostgreSQL": "https://zeabur.com/docs/zh-TW/marketplace/postgresql",
             "在 Zeabur 部署 RabbitMQ": "https://zeabur.com/docs/zh-TW/marketplace/rabbitmq",
+            "在 Zeabur 部署 Redis": "https://zeabur.com/docs/zh-TW/marketplace/redis",
             "在 Zeabur 部署 RSSHub": "https://zeabur.com/docs/zh-TW/marketplace/rsshub",
             "在 Zeabur 部署 Tiny Tiny RSS": "https://zeabur.com/docs/zh-TW/marketplace/ttrss",
-            "在 Zeabur 上部署 Uptime Kuma": "https://zeabur.com/docs/zh-TW/marketplace/uptime-kuma",
             "在 Zeabur 部署 Umami": "https://zeabur.com/docs/zh-TW/marketplace/umami",
+            "在 Zeabur 上部署 Uptime Kuma": "https://zeabur.com/docs/zh-TW/marketplace/uptime-kuma",
             "在 Zeabur 上部署 WeWe RSS": "https://zeabur.com/docs/zh-TW/marketplace/wewe-rss",
             "部署 WordPress": "https://zeabur.com/docs/zh-TW/marketplace/wordpress"
         },
@@ -214,16 +214,16 @@
             "服務條款": "https://zeabur.com/docs/zh-TW/legal/terms"
         },
         "付款與帳單": {
-            "訂閱方案": "https://zeabur.com/docs/zh-TW/billing/plans",
             "價格": "https://zeabur.com/docs/zh-TW/billing/pricing",
-            "推薦": "https://zeabur.com/docs/zh-TW/billing/referral",
+            "訂閱方案": "https://zeabur.com/docs/zh-TW/billing/plans",
             "貢獻獎勵計劃": "https://zeabur.com/docs/zh-TW/billing/reward",
+            "推薦": "https://zeabur.com/docs/zh-TW/billing/referral",
             "贊助": "https://zeabur.com/docs/zh-TW/billing/sponsor",
             "訂閱": "https://zeabur.com/docs/zh-TW/billing/subscription"
         },
         "社群": {
-            "尋求幫助": "https://zeabur.com/docs/zh-TW/community/help",
-            "在 Discord 驗證你的帳戶": "https://zeabur.com/docs/zh-TW/community/verify"
+            "在 Discord 驗證你的帳戶": "https://zeabur.com/docs/zh-TW/community/verify",
+            "尋求幫助": "https://zeabur.com/docs/zh-TW/community/help"
         },
         "進階": {
             "構建原理": "https://zeabur.com/docs/zh-TW/advanced/builds"
@@ -263,8 +263,8 @@
             "公网存取": "https://zeabur.com/docs/zh-CN/networking/public"
         },
         "教程": {
-            "部署 ElysiaJS 项目": "https://zeabur.com/docs/zh-CN/guides/bun/elysiajs",
             "Hono": "https://zeabur.com/docs/zh-CN/guides/bun/hono",
+            "部署 ElysiaJS 项目": "https://zeabur.com/docs/zh-CN/guides/bun/elysiajs",
             "Bun": "https://zeabur.com/docs/zh-CN/guides/bun",
             "在 Zeabur 上部署 Flutter": "https://zeabur.com/docs/zh-CN/guides/dart/flutter",
             "部署 Fresh 应用": "https://zeabur.com/docs/zh-CN/guides/deno/fresh",
@@ -281,25 +281,25 @@
             "部署 Nuxt 项目": "https://zeabur.com/docs/zh-CN/guides/nodejs/nuxt",
             "部署 Qwik 项目": "https://zeabur.com/docs/zh-CN/guides/nodejs/qwik",
             "部署 Remix": "https://zeabur.com/docs/zh-CN/guides/nodejs/remix",
-            "部署 Umi": "https://zeabur.com/docs/zh-CN/guides/nodejs/umi",
             "部署 Svelte Kit 项目": "https://zeabur.com/docs/zh-CN/guides/nodejs/svelte-kit",
+            "部署 Umi": "https://zeabur.com/docs/zh-CN/guides/nodejs/umi",
             "部署 Vite": "https://zeabur.com/docs/zh-CN/guides/nodejs/vite",
             "在 Zeabur 上部署 Waku": "https://zeabur.com/docs/zh-CN/guides/nodejs/waku",
             "部署 Node.js 项目": "https://zeabur.com/docs/zh-CN/guides/nodejs",
             "部署 Laravel 项目": "https://zeabur.com/docs/zh-CN/guides/php/laravel",
-            "部署 Django 项目": "https://zeabur.com/docs/zh-CN/guides/python/django",
             "部署 PHP 项目": "https://zeabur.com/docs/zh-CN/guides/php",
-            "部署 Reflex 项目": "https://zeabur.com/docs/zh-CN/guides/python/reflex",
+            "部署 Django 项目": "https://zeabur.com/docs/zh-CN/guides/python/django",
             "部署 Flask 项目": "https://zeabur.com/docs/zh-CN/guides/python/flask",
-            "部署 Rust 应用程序": "https://zeabur.com/docs/zh-CN/guides/rust",
+            "部署 Reflex 项目": "https://zeabur.com/docs/zh-CN/guides/python/reflex",
             "部署 Python 项目": "https://zeabur.com/docs/zh-CN/guides/python",
+            "部署 Rust 应用程序": "https://zeabur.com/docs/zh-CN/guides/rust",
             "Hugo": "https://zeabur.com/docs/zh-CN/guides/static/hugo",
             "MkDocs": "https://zeabur.com/docs/zh-CN/guides/static/mkdocs",
             "部署 Vapor 项目": "https://zeabur.com/docs/zh-CN/guides/swift/vapor"
         },
         "项目管理": {
-            "项目预算": "https://zeabur.com/docs/zh-CN/manage/budget",
             "邀请成员": "https://zeabur.com/docs/zh-CN/manage/invite",
+            "项目预算": "https://zeabur.com/docs/zh-CN/manage/budget",
             "服务用量": "https://zeabur.com/docs/zh-CN/manage/metric"
         },
         "服务市场": {
@@ -309,15 +309,15 @@
             "部署 Ghost": "https://zeabur.com/docs/zh-CN/marketplace/ghost",
             "部署 Halo 服务": "https://zeabur.com/docs/zh-CN/marketplace/halo",
             "在 Zeabur 部署 Likit": "https://zeabur.com/docs/zh-CN/marketplace/likit",
-            "部署 Logto 服务": "https://zeabur.com/docs/zh-CN/marketplace/logto",
             "在 Zeabur 上部署 Linkwarden": "https://zeabur.com/docs/zh-CN/marketplace/linkwarden",
-            "部署 memos 服务": "https://zeabur.com/docs/zh-CN/marketplace/memos",
+            "部署 Logto 服务": "https://zeabur.com/docs/zh-CN/marketplace/logto",
             "部署 MongoDB 服务": "https://zeabur.com/docs/zh-CN/marketplace/mongodb",
-            "部署 n8n": "https://zeabur.com/docs/zh-CN/marketplace/n8n",
+            "部署 memos 服务": "https://zeabur.com/docs/zh-CN/marketplace/memos",
             "MySQL 服务": "https://zeabur.com/docs/zh-CN/marketplace/mysql",
+            "部署 n8n": "https://zeabur.com/docs/zh-CN/marketplace/n8n",
             "部署 PostgreSQL 服务": "https://zeabur.com/docs/zh-CN/marketplace/postgresql",
-            "部署 RabbitMQ 服务": "https://zeabur.com/docs/zh-CN/marketplace/rabbitmq",
             "在 Zeabur 部署 Redis": "https://zeabur.com/docs/zh-CN/marketplace/redis",
+            "部署 RabbitMQ 服务": "https://zeabur.com/docs/zh-CN/marketplace/rabbitmq",
             "Deploy RSSHub Service": "https://zeabur.com/docs/zh-CN/marketplace/rsshub",
             "Deploy Tiny Tiny RSS Service": "https://zeabur.com/docs/zh-CN/marketplace/ttrss",
             "部署 Umami 服务": "https://zeabur.com/docs/zh-CN/marketplace/umami",
@@ -332,8 +332,8 @@
         },
         "付款与账单": {
             "订阅方案": "https://zeabur.com/docs/zh-CN/billing/plans",
-            "推荐": "https://zeabur.com/docs/zh-CN/billing/referral",
             "价格": "https://zeabur.com/docs/zh-CN/billing/pricing",
+            "推荐": "https://zeabur.com/docs/zh-CN/billing/referral",
             "贡献奖励计划": "https://zeabur.com/docs/zh-CN/billing/reward",
             "赞助": "https://zeabur.com/docs/zh-CN/billing/sponsor",
             "订阅": "https://zeabur.com/docs/zh-CN/billing/subscription"
@@ -358,8 +358,8 @@
         "デプロイ": {
             "バックアップサービス": "https://zeabur.com/docs/ja-JP/deploy/backup",
             "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/command-execution",
-            "設定ファイルを編集する": "https://zeabur.com/docs/ja-JP/deploy/config-edit",
             "プロジェクトを作成": "https://zeabur.com/docs/ja-JP/deploy/create-project",
+            "設定ファイルを編集する": "https://zeabur.com/docs/ja-JP/deploy/config-edit",
             "Custom Prebuilt": "https://zeabur.com/docs/ja-JP/deploy/customize-prebuilt",
             "デプロイボタン": "https://zeabur.com/docs/ja-JP/deploy/deploy-button",
             "CLIを使用したサービスのデプロイ": "https://zeabur.com/docs/ja-JP/deploy/deploy-in-cli",
@@ -381,16 +381,16 @@
         },
         "ガイド": {
             "ElysiaJSアプリのデプロイ": "https://zeabur.com/docs/ja-JP/guides/bun/elysiajs",
-            "バン": "https://zeabur.com/docs/ja-JP/guides/bun",
             "Hono": "https://zeabur.com/docs/ja-JP/guides/bun/hono",
+            "バン": "https://zeabur.com/docs/ja-JP/guides/bun",
             "フレッシュアプリをデプロイする": "https://zeabur.com/docs/ja-JP/guides/deno/fresh",
             "ZeaburでFlutterをデプロイする": "https://zeabur.com/docs/ja-JP/guides/dart/flutter",
             "TypeScriptでDenoアプリをデプロイ": "https://zeabur.com/docs/ja-JP/guides/deno/typescript",
             ".NET アプリのデプロイ": "https://zeabur.com/docs/ja-JP/guides/dotnet",
             "Goアプリをデプロイ": "https://zeabur.com/docs/ja-JP/guides/go",
             "スプリングブートのデプロイ": "https://zeabur.com/docs/ja-JP/guides/java/spring-boot",
-            "ZeaburでAstroをデプロイする": "https://zeabur.com/docs/ja-JP/guides/nodejs/astro",
             "Java プロジェクトのデプロイ": "https://zeabur.com/docs/ja-JP/guides/java",
+            "ZeaburでAstroをデプロイする": "https://zeabur.com/docs/ja-JP/guides/nodejs/astro",
             "エクスプレスアプリのデプロイ": "https://zeabur.com/docs/ja-JP/guides/nodejs/express",
             "NestJSアプリのデプロイ": "https://zeabur.com/docs/ja-JP/guides/nodejs/nestjs",
             "Next.jsのデプロイ": "https://zeabur.com/docs/ja-JP/guides/nodejs/nextjs",
@@ -427,16 +427,16 @@
             "Deploy Halo Service": "https://zeabur.com/docs/ja-JP/marketplace/halo",
             "Likitのデプロイ": "https://zeabur.com/docs/ja-JP/marketplace/likit",
             "Zeabur で Linkwarden をデプロイ": "https://zeabur.com/docs/ja-JP/marketplace/linkwarden",
-            "Logto サービスをデプロイする": "https://zeabur.com/docs/ja-JP/marketplace/logto",
             "メモのデプロイ": "https://zeabur.com/docs/ja-JP/marketplace/memos",
+            "Logto サービスをデプロイする": "https://zeabur.com/docs/ja-JP/marketplace/logto",
             "MongoDBのデプロイ": "https://zeabur.com/docs/ja-JP/marketplace/mongodb",
             "MySQLのデプロイ": "https://zeabur.com/docs/ja-JP/marketplace/mysql",
             "n8n をデプロイする": "https://zeabur.com/docs/ja-JP/marketplace/n8n",
             "PostgreSQLサービス": "https://zeabur.com/docs/ja-JP/marketplace/postgresql",
             "ラビットMQのサービスデプロイ": "https://zeabur.com/docs/ja-JP/marketplace/rabbitmq",
             "Redisサービスのデプロイ": "https://zeabur.com/docs/ja-JP/marketplace/redis",
-            "RSSHubサービスのデプロイ": "https://zeabur.com/docs/ja-JP/marketplace/rsshub",
             "Tiny Tiny RSSサービスのデプロイ": "https://zeabur.com/docs/ja-JP/marketplace/ttrss",
+            "RSSHubサービスのデプロイ": "https://zeabur.com/docs/ja-JP/marketplace/rsshub",
             "Deploy Umami": "https://zeabur.com/docs/ja-JP/marketplace/umami",
             "Uptime Kumaのデプロイ": "https://zeabur.com/docs/ja-JP/marketplace/uptime-kuma",
             "Zeabur で WeWe RSS をデプロイする": "https://zeabur.com/docs/ja-JP/marketplace/wewe-rss",
@@ -448,16 +448,16 @@
             "利用規約": "https://zeabur.com/docs/ja-JP/legal/terms"
         },
         "支払いと請求": {
-            "料金設定": "https://zeabur.com/docs/ja-JP/billing/pricing",
             "プラン": "https://zeabur.com/docs/ja-JP/billing/plans",
+            "料金設定": "https://zeabur.com/docs/ja-JP/billing/pricing",
             "紹介": "https://zeabur.com/docs/ja-JP/billing/referral",
             "貢献報酬プログラム": "https://zeabur.com/docs/ja-JP/billing/reward",
-            "スポンサー": "https://zeabur.com/docs/ja-JP/billing/sponsor",
-            "定期購読": "https://zeabur.com/docs/ja-JP/billing/subscription"
+            "定期購読": "https://zeabur.com/docs/ja-JP/billing/subscription",
+            "スポンサー": "https://zeabur.com/docs/ja-JP/billing/sponsor"
         },
         "コミュニティ": {
-            "ヘルプを取得する": "https://zeabur.com/docs/ja-JP/community/help",
-            "アカウントを確認してください": "https://zeabur.com/docs/ja-JP/community/verify"
+            "アカウントを確認してください": "https://zeabur.com/docs/ja-JP/community/verify",
+            "ヘルプを取得する": "https://zeabur.com/docs/ja-JP/community/help"
         },
         "高度な内容": {
             "ビルド": "https://zeabur.com/docs/ja-JP/advanced/builds"
@@ -478,8 +478,8 @@
             "Editing Configuration Files": "https://zeabur.com/docs/es-ES/deploy/config-edit",
             "Custom Prebuilt": "https://zeabur.com/docs/es-ES/deploy/customize-prebuilt",
             "Deploy Button": "https://zeabur.com/docs/es-ES/deploy/deploy-button",
-            "Deploy Service in Zeabur CLI": "https://zeabur.com/docs/es-ES/deploy/deploy-in-cli",
             "Deploying with Dockerfile": "https://zeabur.com/docs/es-ES/deploy/dockerfile",
+            "Deploy Service in Zeabur CLI": "https://zeabur.com/docs/es-ES/deploy/deploy-in-cli",
             "Deploying GitHub Personal Repositories": "https://zeabur.com/docs/es-ES/deploy/github",
             "Custom Root Directory": "https://zeabur.com/docs/es-ES/deploy/root-directory",
             "Special Variables": "https://zeabur.com/docs/es-ES/deploy/special-variables",
@@ -492,48 +492,48 @@
             "Creating Templates from YAML": "https://zeabur.com/docs/es-ES/template/template-in-code"
         },
         "Redes": {
-            "Red pública": "https://zeabur.com/docs/es-ES/networking/public",
-            "Red privada": "https://zeabur.com/docs/es-ES/networking/private"
+            "Red privada": "https://zeabur.com/docs/es-ES/networking/private",
+            "Red pública": "https://zeabur.com/docs/es-ES/networking/public"
         },
         "Guías": {
             "Deploy ElysiaJS App": "https://zeabur.com/docs/es-ES/guides/bun/elysiajs",
             "Hono": "https://zeabur.com/docs/es-ES/guides/bun/hono",
             "Bun": "https://zeabur.com/docs/es-ES/guides/bun",
-            "Deploying Flutter on Zeabur": "https://zeabur.com/docs/es-ES/guides/dart/flutter",
             "Deploy Fresh App": "https://zeabur.com/docs/es-ES/guides/deno/fresh",
-            "Deploy Deno App in TypeScript": "https://zeabur.com/docs/es-ES/guides/deno/typescript",
+            "Deploying Flutter on Zeabur": "https://zeabur.com/docs/es-ES/guides/dart/flutter",
             "Deploy .NET App": "https://zeabur.com/docs/es-ES/guides/dotnet",
+            "Deploy Deno App in TypeScript": "https://zeabur.com/docs/es-ES/guides/deno/typescript",
             "Deploy Go App": "https://zeabur.com/docs/es-ES/guides/go",
             "Deploy Spring Boot": "https://zeabur.com/docs/es-ES/guides/java/spring-boot",
             "Deploying Java Projects": "https://zeabur.com/docs/es-ES/guides/java",
             "Deploy Astro on Zeabur": "https://zeabur.com/docs/es-ES/guides/nodejs/astro",
-            "Deploy NestJS App": "https://zeabur.com/docs/es-ES/guides/nodejs/nestjs",
             "Deploy Express App": "https://zeabur.com/docs/es-ES/guides/nodejs/express",
+            "Deploy NestJS App": "https://zeabur.com/docs/es-ES/guides/nodejs/nestjs",
             "Deploy Next.js": "https://zeabur.com/docs/es-ES/guides/nodejs/nextjs",
             "Deploy Nue App": "https://zeabur.com/docs/es-ES/guides/nodejs/nue",
-            "Deploy Nuxt App": "https://zeabur.com/docs/es-ES/guides/nodejs/nuxt",
             "Deploy Qwik Project": "https://zeabur.com/docs/es-ES/guides/nodejs/qwik",
+            "Deploy Nuxt App": "https://zeabur.com/docs/es-ES/guides/nodejs/nuxt",
             "Deploy Remix": "https://zeabur.com/docs/es-ES/guides/nodejs/remix",
             "Deploy Svelte Kit": "https://zeabur.com/docs/es-ES/guides/nodejs/svelte-kit",
             "Deploy Vite": "https://zeabur.com/docs/es-ES/guides/nodejs/vite",
             "Deploy Umi": "https://zeabur.com/docs/es-ES/guides/nodejs/umi",
-            "Deploy Waku": "https://zeabur.com/docs/es-ES/guides/nodejs/waku",
             "Deploying Node.js App": "https://zeabur.com/docs/es-ES/guides/nodejs",
+            "Deploy Waku": "https://zeabur.com/docs/es-ES/guides/nodejs/waku",
             "Deploy Laravel": "https://zeabur.com/docs/es-ES/guides/php/laravel",
             "Deploying PHP apps": "https://zeabur.com/docs/es-ES/guides/php",
             "Deploy Django": "https://zeabur.com/docs/es-ES/guides/python/django",
             "Deploy Flask": "https://zeabur.com/docs/es-ES/guides/python/flask",
             "Despliegue de proyecto Reflex": "https://zeabur.com/docs/es-ES/guides/python/reflex",
-            "Desplegar aplicaciones de Rust": "https://zeabur.com/docs/es-ES/guides/rust",
             "Despliega Proyectos Python": "https://zeabur.com/docs/es-ES/guides/python",
+            "Desplegar aplicaciones de Rust": "https://zeabur.com/docs/es-ES/guides/rust",
             "Hugo": "https://zeabur.com/docs/es-ES/guides/static/hugo",
             "MkDocs": "https://zeabur.com/docs/es-ES/guides/static/mkdocs",
             "Deploy Vapor Project": "https://zeabur.com/docs/es-ES/guides/swift/vapor"
         },
         "Gestión de Proyectos": {
-            "Service Usage": "https://zeabur.com/docs/es-ES/manage/metric",
             "Project Budget": "https://zeabur.com/docs/es-ES/manage/budget",
-            "Invite Member": "https://zeabur.com/docs/es-ES/manage/invite"
+            "Invite Member": "https://zeabur.com/docs/es-ES/manage/invite",
+            "Service Usage": "https://zeabur.com/docs/es-ES/manage/metric"
         },
         "Mercado de Servicios": {
             "Deploy Botway CE on Zeabur": "https://zeabur.com/docs/es-ES/marketplace/botwayce",
@@ -550,8 +550,8 @@
             "Deploy MySQL": "https://zeabur.com/docs/es-ES/marketplace/mysql",
             "Deploy n8n": "https://zeabur.com/docs/es-ES/marketplace/n8n",
             "PostgreSQL Service": "https://zeabur.com/docs/es-ES/marketplace/postgresql",
-            "Deploy Redis Service": "https://zeabur.com/docs/es-ES/marketplace/redis",
             "Deploy RabbitMQ Service": "https://zeabur.com/docs/es-ES/marketplace/rabbitmq",
+            "Deploy Redis Service": "https://zeabur.com/docs/es-ES/marketplace/redis",
             "Deploy RSSHub Service": "https://zeabur.com/docs/es-ES/marketplace/rsshub",
             "Deploy Tiny Tiny RSS Service": "https://zeabur.com/docs/es-ES/marketplace/ttrss",
             "Deploy Umami": "https://zeabur.com/docs/es-ES/marketplace/umami",
@@ -580,8 +580,8 @@
             "Builds": "https://zeabur.com/docs/es-ES/advanced/builds"
         },
         "Desarrollador": {
-            "Public API Reference": "https://zeabur.com/docs/es-ES/developer/public-api",
-            "Introduction": "https://zeabur.com/docs/es-ES/developer/use-api-key"
+            "Introduction": "https://zeabur.com/docs/es-ES/developer/use-api-key",
+            "Public API Reference": "https://zeabur.com/docs/es-ES/developer/public-api"
         }
     }
 }
