@@ -25,11 +25,17 @@ def get_docs_languages():
         return language_list
 
 
+def fix_keys(content):
+    return re.sub(r'(?<!["\'])\b(\w+)\b(?=\s*:)', r'"\1"', content)
+
+
 def get_root_meta(locale):
-    root_meta_url = f"https://raw.githubusercontent.com/zeabur/zeabur/main/docs/pages/{locale}/_meta.ts"
+    root_meta_url = f"https://raw.githubusercontent.com/zeabur/zeabur/refs/heads/main/docs/pages/{locale}/_meta.ts"
     response = requests.get(root_meta_url)
     ts_content = response.text
     cleaned_content = ts_content.replace("export default ", "").strip()
+    cleaned_content = cleaned_content.replace("'", '"')
+    cleaned_content = fix_keys(cleaned_content)
     root_meta = ast.literal_eval(cleaned_content)
     return json.dumps(root_meta, ensure_ascii=False, indent=2)
 
@@ -37,7 +43,7 @@ def get_root_meta(locale):
 def get_sitemap_urls():
     sitemap_url = "https://zeabur.com/docs/sitemap.xml"
     response = requests.get(sitemap_url)
-    sitemap_xml = response.content
+    sitemap_xml = response.text
 
     root = ET.fromstring(sitemap_xml)
     docs_languages = get_docs_languages()
@@ -54,7 +60,18 @@ def get_sitemap_urls():
 
     for language, root_meta in zip(docs_languages, root_metas):
         root_meta = json.loads(root_meta)
-        temp_urls = {root_meta[meta]: {} for meta in root_meta}
+        temp_urls = {
+            (
+                root_meta[meta]
+                if not isinstance(root_meta[meta], dict)
+                else root_meta[meta].get("title", meta)
+            ): (
+                {root_meta[meta].get("title", meta): root_meta[meta].get("href", "")}
+                if isinstance(root_meta[meta], dict)
+                else {}
+            )
+            for meta in root_meta
+        }
 
         for url in root.findall(".//{http://www.sitemaps.org/schemas/sitemap/0.9}loc"):
             if language["locale"] in url.text:
