@@ -130,7 +130,25 @@ def generate_docs_json():
     with open("zeabur-docs.json", "w") as f:
         json.dump(urls, f, indent=4, ensure_ascii=False)
 
+def sort_docs_json():
+    with open("zeabur-docs.json", "r") as f:
+        data = json.load(f)
+
+    sorted_data = {}
+    for locale, categories in data.items():
+        sorted_categories = {}
+        for category, pages in categories.items():
+            if isinstance(pages, dict):
+                sorted_pages = dict(sorted(pages.items()))
+                sorted_categories[category] = sorted_pages
+            else:
+                sorted_categories[category] = pages
+        sorted_data[locale] = sorted_categories
+
+    with open("zeabur-docs.json", "w") as f:
+        json.dump(sorted_data, f, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
     generate_docs_language_json()
     generate_docs_json()
+    sort_docs_json()
