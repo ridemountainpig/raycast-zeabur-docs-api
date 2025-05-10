@@ -10,6 +10,9 @@
             "Custom Root Directory": "https://zeabur.com/docs/en-US/deploy/root-directory",
             "Deploy Button": "https://zeabur.com/docs/en-US/deploy/deploy-button",
             "Deploy Service in Zeabur CLI": "https://zeabur.com/docs/en-US/deploy/deploy-in-cli",
+            "Deploying Services with Chrome Extension": "https://zeabur.com/docs/en-US/deploy/deploy-with-chrome-extension",
+            "Deploying Services with Raycast Extension": "https://zeabur.com/docs/en-US/deploy/deploy-with-raycast-extension",
+            "Deploying Services with VS Code Extension": "https://zeabur.com/docs/en-US/deploy/deploy-with-vscode-extension",
             "Deploying with Dockerfile": "https://zeabur.com/docs/en-US/deploy/dockerfile",
             "Execute Commands": "https://zeabur.com/docs/en-US/deploy/command-execution",
             "Export Project": "https://zeabur.com/docs/en-US/deploy/export-project",
@@ -114,6 +117,9 @@
             "Dockerfile 部署": "https://zeabur.com/docs/zh-TW/deploy/dockerfile",
             "一鍵部署": "https://zeabur.com/docs/zh-TW/deploy/deploy-button",
             "使用 CLI 部署服務": "https://zeabur.com/docs/zh-TW/deploy/deploy-in-cli",
+            "使用 Chrome 插件部署服務": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-chrome-extension",
+            "使用 Raycast 插件部署服務": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-raycast-extension",
+            "使用 VS Code 插件部署服務": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-vscode-extension",
             "匯出專案": "https://zeabur.com/docs/zh-TW/deploy/export-project",
             "執行命令": "https://zeabur.com/docs/zh-TW/deploy/command-execution",
             "建立專案": "https://zeabur.com/docs/zh-TW/deploy/create-project",
@@ -220,6 +226,9 @@
             "Dockerfile 部署": "https://zeabur.com/docs/zh-CN/deploy/dockerfile",
             "一键部署": "https://zeabur.com/docs/zh-CN/deploy/deploy-button",
             "使用 CLI 部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-in-cli",
+            "使用 Chrome 插件部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-chrome-extension",
+            "使用 Raycast 插件部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-raycast-extension",
+            "使用 VS Code 插件部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-vscode-extension",
             "创建项目": "https://zeabur.com/docs/zh-CN/deploy/create-project",
             "导出项目": "https://zeabur.com/docs/zh-CN/deploy/export-project",
             "更新 Docker 服务的映像引用": "https://zeabur.com/docs/zh-CN/deploy/update-image-reference",
@@ -247,7 +256,8 @@
         },
         "网络": {
             "公网存取": "https://zeabur.com/docs/zh-CN/networking/public",
-            "服务内网": "https://zeabur.com/docs/zh-CN/networking/private"
+            "服务内网": "https://zeabur.com/docs/zh-CN/networking/private",
+            "预备案子域名": "https://zeabur.com/docs/zh-CN/networking/pre-icp-subdomain"
         },
         "教程": {
             "Bun": "https://zeabur.com/docs/zh-CN/guides/bun",
@@ -324,10 +334,13 @@
         },
         "デプロイ": {
             "CLIを使用したサービスのデプロイ": "https://zeabur.com/docs/ja-JP/deploy/deploy-in-cli",
+            "Chrome 拡張機能を使ってサービスをデプロイする": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-chrome-extension",
             "Custom Prebuilt": "https://zeabur.com/docs/ja-JP/deploy/customize-prebuilt",
             "Docker サービスのイメージ参照を更新する": "https://zeabur.com/docs/ja-JP/deploy/update-image-reference",
             "Dockerfile を使用したデプロイ": "https://zeabur.com/docs/ja-JP/deploy/dockerfile",
             "GitHub 連携": "https://zeabur.com/docs/ja-JP/deploy/github",
+            "Raycast 拡張機能を使ってサービスをデプロイする": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-raycast-extension",
+            "VS Code 拡張機能を使ってサービスをデプロイする": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-vscode-extension",
             "ウォッチパス": "https://zeabur.com/docs/ja-JP/deploy/watch-paths",
             "カスタムルートディレクトリ": "https://zeabur.com/docs/ja-JP/deploy/root-directory",
             "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/command-execution",
@@ -437,9 +450,12 @@
             "Ejecutar Comandos": "https://zeabur.com/docs/es-ES/deploy/command-execution",
             "Exportar Proyecto": "https://zeabur.com/docs/es-ES/deploy/export-project",
             "Implementación con Dockerfile": "https://zeabur.com/docs/es-ES/deploy/dockerfile",
+            "Implementar servicios con extensiones": "https://zeabur.com/docs/es-ES/deploy/deploy-with-chrome-extension",
             "Integración con GitHub": "https://zeabur.com/docs/es-ES/deploy/github",
             "Setting Environment Variables": "https://zeabur.com/docs/es-ES/deploy/variables",
             "Special Variables": "https://zeabur.com/docs/es-ES/deploy/special-variables",
+            "Usar el complemento de Chrome para desplegar servicios": "https://zeabur.com/docs/es-ES/deploy/deploy-with-raycast-extension",
+            "Usar el complemento de VS Code para desplegar servicios": "https://zeabur.com/docs/es-ES/deploy/deploy-with-vscode-extension",
             "Watch Paths": "https://zeabur.com/docs/es-ES/deploy/watch-paths"
         },
         "Plantilla": {
