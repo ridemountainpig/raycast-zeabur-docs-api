@@ -104,8 +104,8 @@
             "Builds": "https://zeabur.com/docs/en-US/advanced/builds"
         },
         "Developer": {
-            "Introduction": "https://zeabur.com/docs/en-US/developer/use-api-key",
-            "Public API Reference": "https://zeabur.com/docs/en-US/developer/public-api"
+            "Create and Use API Keys": "https://zeabur.com/docs/en-US/developer/use-api-key",
+            "Public API": "https://zeabur.com/docs/en-US/developer/public-api"
         }
     },
     "zh-TW": {
@@ -213,7 +213,7 @@
             "構建原理": "https://zeabur.com/docs/zh-TW/advanced/builds"
         },
         "開發者": {
-            "介紹": "https://zeabur.com/docs/zh-TW/developer/use-api-key",
+            "建立和使用 API 金鑰": "https://zeabur.com/docs/zh-TW/developer/use-api-key",
             "開放 API": "https://zeabur.com/docs/zh-TW/developer/public-api"
         }
     },
@@ -323,7 +323,7 @@
             "构建原理": "https://zeabur.com/docs/zh-CN/advanced/builds"
         },
         "开发者": {
-            "介绍": "https://zeabur.com/docs/zh-CN/developer/use-api-key",
+            "创建和使用 API 密钥": "https://zeabur.com/docs/zh-CN/developer/use-api-key",
             "开放 API": "https://zeabur.com/docs/zh-CN/developer/public-api"
         }
     },
@@ -432,8 +432,8 @@
             "ビルド": "https://zeabur.com/docs/ja-JP/advanced/builds"
         },
         "開発者": {
-            "": "https://zeabur.com/docs/ja-JP/developer/public-api",
-            "紹介": "https://zeabur.com/docs/ja-JP/developer/use-api-key"
+            "API キーの作成と使用": "https://zeabur.com/docs/ja-JP/developer/use-api-key",
+            "オープン API": "https://zeabur.com/docs/ja-JP/developer/public-api"
         }
     },
     "es-ES": {
@@ -540,8 +540,8 @@
             "Builds": "https://zeabur.com/docs/es-ES/advanced/builds"
         },
         "Desarrollador": {
-            "Introduction": "https://zeabur.com/docs/es-ES/developer/use-api-key",
-            "Public API Reference": "https://zeabur.com/docs/es-ES/developer/public-api"
+            "API Pública": "https://zeabur.com/docs/es-ES/developer/public-api",
+            "Crear y Usar Claves de API": "https://zeabur.com/docs/es-ES/developer/use-api-key"
         }
     }
 }
