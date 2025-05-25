@@ -249,8 +249,8 @@
         },
         "数据管理": {
             "备份服务": "https://zeabur.com/docs/zh-CN/data-management/backup",
-            "持久存储空间": "https://zeabur.com/docs/zh-CN/data-management/volumes",
             "文件管理": "https://zeabur.com/docs/zh-CN/data-management/file-management",
+            "注意事项": "https://zeabur.com/docs/zh-CN/data-management/volumes",
             "编辑配置文件": "https://zeabur.com/docs/zh-CN/data-management/config-edit",
             "还原备份": "https://zeabur.com/docs/zh-CN/data-management/restore"
         },
