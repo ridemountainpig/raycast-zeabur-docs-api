@@ -5,6 +5,7 @@
             "Get Started": "https://zeabur.com/docs/en-US/get-started"
         },
         "Deploy": {
+            "Copy Project": "https://zeabur.com/docs/en-US/deploy/copy-project",
             "Create Project": "https://zeabur.com/docs/en-US/deploy/create-project",
             "Custom Docker image": "https://zeabur.com/docs/en-US/deploy/customize-prebuilt",
             "Custom Root Directory": "https://zeabur.com/docs/en-US/deploy/root-directory",
@@ -18,7 +19,6 @@
             "Export Project": "https://zeabur.com/docs/en-US/deploy/export-project",
             "GitHub Integration": "https://zeabur.com/docs/en-US/deploy/github",
             "Setting Environment Variables": "https://zeabur.com/docs/en-US/deploy/variables",
-            "Special Variables": "https://zeabur.com/docs/en-US/deploy/special-variables",
             "Update Image Reference of the Docker Service": "https://zeabur.com/docs/en-US/deploy/update-image-reference",
             "Watch Paths": "https://zeabur.com/docs/en-US/deploy/watch-paths"
         },
@@ -125,10 +125,10 @@
             "建立專案": "https://zeabur.com/docs/zh-TW/deploy/create-project",
             "整合 GitHub": "https://zeabur.com/docs/zh-TW/deploy/github",
             "更新 Docker 服務的映像引用": "https://zeabur.com/docs/zh-TW/deploy/update-image-reference",
-            "特殊變數": "https://zeabur.com/docs/zh-TW/deploy/special-variables",
             "環境變數設定": "https://zeabur.com/docs/zh-TW/deploy/variables",
             "自訂 Docker 映像檔": "https://zeabur.com/docs/zh-TW/deploy/customize-prebuilt",
             "自訂根目錄": "https://zeabur.com/docs/zh-TW/deploy/root-directory",
+            "複製專案": "https://zeabur.com/docs/zh-TW/deploy/copy-project",
             "觸發路徑": "https://zeabur.com/docs/zh-TW/deploy/watch-paths"
         },
         "模板": {
@@ -230,10 +230,10 @@
             "使用 Raycast 插件部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-raycast-extension",
             "使用 VS Code 插件部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-vscode-extension",
             "创建项目": "https://zeabur.com/docs/zh-CN/deploy/create-project",
+            "复制项目": "https://zeabur.com/docs/zh-CN/deploy/copy-project",
             "导出项目": "https://zeabur.com/docs/zh-CN/deploy/export-project",
             "更新 Docker 服务的映像引用": "https://zeabur.com/docs/zh-CN/deploy/update-image-reference",
             "添加变量": "https://zeabur.com/docs/zh-CN/deploy/variables",
-            "特殊变量": "https://zeabur.com/docs/zh-CN/deploy/special-variables",
             "监控路径": "https://zeabur.com/docs/zh-CN/deploy/watch-paths",
             "自定义 Docker 镜像": "https://zeabur.com/docs/zh-CN/deploy/customize-prebuilt",
             "自定义根目录": "https://zeabur.com/docs/zh-CN/deploy/root-directory",
@@ -344,9 +344,9 @@
             "カスタム Docker イメージ": "https://zeabur.com/docs/ja-JP/deploy/customize-prebuilt",
             "カスタムルートディレクトリ": "https://zeabur.com/docs/ja-JP/deploy/root-directory",
             "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/command-execution",
-            "スペシャル変数": "https://zeabur.com/docs/ja-JP/deploy/special-variables",
             "デプロイボタン": "https://zeabur.com/docs/ja-JP/deploy/deploy-button",
             "プロジェクトのエクスポート": "https://zeabur.com/docs/ja-JP/deploy/export-project",
+            "プロジェクトをコピー": "https://zeabur.com/docs/ja-JP/deploy/copy-project",
             "プロジェクトを作成": "https://zeabur.com/docs/ja-JP/deploy/create-project",
             "環境変数の設定": "https://zeabur.com/docs/ja-JP/deploy/variables"
         },
@@ -443,6 +443,7 @@
         },
         "Implementar": {
             "Actualizar la referencia de imagen del servicio Docker": "https://zeabur.com/docs/es-ES/deploy/update-image-reference",
+            "Copiar Proyecto": "https://zeabur.com/docs/es-ES/deploy/copy-project",
             "Custom Root Directory": "https://zeabur.com/docs/es-ES/deploy/root-directory",
             "Deploy Button": "https://zeabur.com/docs/es-ES/deploy/deploy-button",
             "Deploy Service in Zeabur CLI": "https://zeabur.com/docs/es-ES/deploy/deploy-in-cli",
@@ -453,7 +454,6 @@
             "Implementar servicios con extensiones": "https://zeabur.com/docs/es-ES/deploy/deploy-with-chrome-extension",
             "Integración con GitHub": "https://zeabur.com/docs/es-ES/deploy/github",
             "Setting Environment Variables": "https://zeabur.com/docs/es-ES/deploy/variables",
-            "Special Variables": "https://zeabur.com/docs/es-ES/deploy/special-variables",
             "Usar el complemento de Chrome para desplegar servicios": "https://zeabur.com/docs/es-ES/deploy/deploy-with-raycast-extension",
             "Usar el complemento de VS Code para desplegar servicios": "https://zeabur.com/docs/es-ES/deploy/deploy-with-vscode-extension",
             "Watch Paths": "https://zeabur.com/docs/es-ES/deploy/watch-paths"
