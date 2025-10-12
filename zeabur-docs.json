@@ -2,7 +2,7 @@
     "en-US": {
         "Introduction": {},
         "Get Started": {
-            "Get Started": "https://zeabur.com/docs/en-US/get-started"
+            "Getting Started": "https://zeabur.com/docs/en-US/get-started"
         },
         "Deploy": {
             "Copy Project": "https://zeabur.com/docs/en-US/deploy/copy-project",
@@ -220,7 +220,7 @@
     "zh-CN": {
         "基本介绍": {},
         "快速开始": {
-            "快速开始": "https://zeabur.com/docs/zh-CN/get-started"
+            "快速入门": "https://zeabur.com/docs/zh-CN/get-started"
         },
         "部署": {
             "Dockerfile 部署": "https://zeabur.com/docs/zh-CN/deploy/dockerfile",
@@ -330,7 +330,7 @@
     "ja-JP": {
         "イントロダクション": {},
         "スタート": {
-            "スタート": "https://zeabur.com/docs/ja-JP/get-started"
+            "クイックスタート": "https://zeabur.com/docs/ja-JP/get-started"
         },
         "デプロイ": {
             "CLIを使用したサービスのデプロイ": "https://zeabur.com/docs/ja-JP/deploy/deploy-in-cli",
@@ -439,7 +439,7 @@
     "es-ES": {
         "Introducción": {},
         "Empezar": {
-            "Empezar": "https://zeabur.com/docs/es-ES/get-started"
+            "Primeros Pasos": "https://zeabur.com/docs/es-ES/get-started"
         },
         "Implementar": {
             "Actualizar la referencia de imagen del servicio Docker": "https://zeabur.com/docs/es-ES/deploy/update-image-reference",
