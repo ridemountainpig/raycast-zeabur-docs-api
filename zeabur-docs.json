@@ -37,6 +37,7 @@
             "Volumes": "https://zeabur.com/docs/en-US/data-management/volumes"
         },
         "Networking": {
+            "High Availability Architecture": "https://zeabur.com/docs/en-US/networking/high-availability",
             "Private Networking": "https://zeabur.com/docs/en-US/networking/private",
             "Public Networking": "https://zeabur.com/docs/en-US/networking/public"
         },
@@ -147,7 +148,8 @@
         },
         "網路": {
             "公網存取": "https://zeabur.com/docs/zh-TW/networking/public",
-            "服務內網": "https://zeabur.com/docs/zh-TW/networking/private"
+            "服務內網": "https://zeabur.com/docs/zh-TW/networking/private",
+            "高可用性架構": "https://zeabur.com/docs/zh-TW/networking/high-availability"
         },
         "教學": {
             "Bun": "https://zeabur.com/docs/zh-TW/guides/bun",
@@ -257,7 +259,8 @@
         "网络": {
             "公网存取": "https://zeabur.com/docs/zh-CN/networking/public",
             "服务内网": "https://zeabur.com/docs/zh-CN/networking/private",
-            "预备案子域名": "https://zeabur.com/docs/zh-CN/networking/pre-icp-subdomain"
+            "预备案子域名": "https://zeabur.com/docs/zh-CN/networking/pre-icp-subdomain",
+            "高可用性架构": "https://zeabur.com/docs/zh-CN/networking/high-availability"
         },
         "教程": {
             "Bun": "https://zeabur.com/docs/zh-CN/guides/bun",
@@ -366,7 +369,8 @@
         },
         "ネットワーキング": {
             "プライベートネットワーキング": "https://zeabur.com/docs/ja-JP/networking/private",
-            "ルートドメインの DNS 設定": "https://zeabur.com/docs/ja-JP/networking/public"
+            "ルートドメインの DNS 設定": "https://zeabur.com/docs/ja-JP/networking/public",
+            "高可用性アーキテクチャ": "https://zeabur.com/docs/ja-JP/networking/high-availability"
         },
         "ガイド": {
             "": "https://zeabur.com/docs/ja-JP/guides/nodejs/waku",
@@ -473,6 +477,7 @@
             "Volúmenes": "https://zeabur.com/docs/es-ES/data-management/volumes"
         },
         "Redes": {
+            "Arquitectura de Alta Disponibilidad": "https://zeabur.com/docs/es-ES/networking/high-availability",
             "Red privada": "https://zeabur.com/docs/es-ES/networking/private",
             "Red pública": "https://zeabur.com/docs/es-ES/networking/public"
         },
