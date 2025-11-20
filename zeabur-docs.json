@@ -81,6 +81,7 @@
         "Project Manage": {
             "Invite Member": "https://zeabur.com/docs/en-US/manage/invite",
             "Project Budget": "https://zeabur.com/docs/en-US/manage/budget",
+            "Security Report": "https://zeabur.com/docs/en-US/manage/security-report",
             "Service Usage": "https://zeabur.com/docs/en-US/manage/metric"
         },
         "Legal and Policies": {
@@ -190,6 +191,7 @@
         },
         "專案管理": {
             "使用量分析": "https://zeabur.com/docs/zh-TW/manage/metric",
+            "安全報告": "https://zeabur.com/docs/zh-TW/manage/security-report",
             "專案預算": "https://zeabur.com/docs/zh-TW/manage/budget",
             "邀請成員": "https://zeabur.com/docs/zh-TW/manage/invite"
         },
@@ -300,6 +302,7 @@
             "部署静态网页": "https://zeabur.com/docs/zh-CN/guides/static"
         },
         "项目管理": {
+            "安全报告": "https://zeabur.com/docs/zh-CN/manage/security-report",
             "服务用量": "https://zeabur.com/docs/zh-CN/manage/metric",
             "邀请成员": "https://zeabur.com/docs/zh-CN/manage/invite",
             "项目预算": "https://zeabur.com/docs/zh-CN/manage/budget"
@@ -411,6 +414,7 @@
         },
         "プロジェクト管理": {
             "": "https://zeabur.com/docs/ja-JP/manage/metric",
+            "セキュリティレポート": "https://zeabur.com/docs/ja-JP/manage/security-report",
             "プロジェクト予算": "https://zeabur.com/docs/ja-JP/manage/budget",
             "メンバーを招待する": "https://zeabur.com/docs/ja-JP/manage/invite"
         },
@@ -519,6 +523,7 @@
             "MkDocs": "https://zeabur.com/docs/es-ES/guides/static/mkdocs"
         },
         "Gestión de Proyectos": {
+            "Informe de seguridad": "https://zeabur.com/docs/es-ES/manage/security-report",
             "Invite Member": "https://zeabur.com/docs/es-ES/manage/invite",
             "Project Budget": "https://zeabur.com/docs/es-ES/manage/budget",
             "Service Usage": "https://zeabur.com/docs/es-ES/manage/metric"
