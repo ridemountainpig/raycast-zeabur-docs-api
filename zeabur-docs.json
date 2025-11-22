@@ -5,13 +5,14 @@
             "Getting Started": "https://zeabur.com/docs/en-US/get-started"
         },
         "Deploy": {
+            "Chrome Extension": "https://zeabur.com/docs/en-US/deploy/deploy-with-chrome-extension",
             "Copy Project": "https://zeabur.com/docs/en-US/deploy/copy-project",
             "Create Project": "https://zeabur.com/docs/en-US/deploy/create-project",
             "Custom Docker image": "https://zeabur.com/docs/en-US/deploy/customize-prebuilt",
             "Custom Root Directory": "https://zeabur.com/docs/en-US/deploy/root-directory",
             "Deploy Button": "https://zeabur.com/docs/en-US/deploy/deploy-button",
+            "Deploy Gemini Canvas Projects": "https://zeabur.com/docs/en-US/deploy/deploy-with-chrome-extension/gemini",
             "Deploy Service in Zeabur CLI": "https://zeabur.com/docs/en-US/deploy/deploy-in-cli",
-            "Deploying Services with Chrome Extension": "https://zeabur.com/docs/en-US/deploy/deploy-with-chrome-extension",
             "Deploying Services with Raycast Extension": "https://zeabur.com/docs/en-US/deploy/deploy-with-raycast-extension",
             "Deploying Services with VS Code Extension": "https://zeabur.com/docs/en-US/deploy/deploy-with-vscode-extension",
             "Deploying with Dockerfile": "https://zeabur.com/docs/en-US/deploy/dockerfile",
@@ -116,13 +117,14 @@
             "快速開始": "https://zeabur.com/docs/zh-TW/get-started"
         },
         "部署": {
+            "Chrome 插件": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-chrome-extension",
             "Dockerfile 部署": "https://zeabur.com/docs/zh-TW/deploy/dockerfile",
             "一鍵部署": "https://zeabur.com/docs/zh-TW/deploy/deploy-button",
             "使用 CLI 部署服務": "https://zeabur.com/docs/zh-TW/deploy/deploy-in-cli",
-            "使用 Chrome 插件部署服務": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-chrome-extension",
             "使用 Raycast 插件部署服務": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-raycast-extension",
             "使用 VS Code 插件部署服務": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-vscode-extension",
             "匯出專案": "https://zeabur.com/docs/zh-TW/deploy/export-project",
+            "在 Gemini Canvas 使用 Chrome 插件部署": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-chrome-extension/gemini",
             "執行命令": "https://zeabur.com/docs/zh-TW/deploy/command-execution",
             "建立專案": "https://zeabur.com/docs/zh-TW/deploy/create-project",
             "整合 GitHub": "https://zeabur.com/docs/zh-TW/deploy/github",
@@ -153,8 +155,8 @@
             "高可用性架構": "https://zeabur.com/docs/zh-TW/networking/high-availability"
         },
         "教學": {
+            "": "https://zeabur.com/docs/zh-TW/guides/bun/hono",
             "Bun": "https://zeabur.com/docs/zh-TW/guides/bun",
-            "Hono": "https://zeabur.com/docs/zh-TW/guides/bun/hono",
             "Hugo": "https://zeabur.com/docs/zh-TW/guides/static/hugo",
             "MkDocs": "https://zeabur.com/docs/zh-TW/guides/static/mkdocs",
             "Symfony 部署說明": "https://zeabur.com/docs/zh-TW/guides/php/symfony",
@@ -227,13 +229,14 @@
             "快速入门": "https://zeabur.com/docs/zh-CN/get-started"
         },
         "部署": {
+            "Chrome 插件": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-chrome-extension",
             "Dockerfile 部署": "https://zeabur.com/docs/zh-CN/deploy/dockerfile",
             "一键部署": "https://zeabur.com/docs/zh-CN/deploy/deploy-button",
             "使用 CLI 部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-in-cli",
-            "使用 Chrome 插件部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-chrome-extension",
             "使用 Raycast 插件部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-raycast-extension",
             "使用 VS Code 插件部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-vscode-extension",
             "创建项目": "https://zeabur.com/docs/zh-CN/deploy/create-project",
+            "在 Gemini Canvas 使用 Chrome 插件部署": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-chrome-extension/gemini",
             "复制项目": "https://zeabur.com/docs/zh-CN/deploy/copy-project",
             "导出项目": "https://zeabur.com/docs/zh-CN/deploy/export-project",
             "更新 Docker 服务的映像引用": "https://zeabur.com/docs/zh-CN/deploy/update-image-reference",
@@ -340,9 +343,10 @@
         },
         "デプロイ": {
             "CLIを使用したサービスのデプロイ": "https://zeabur.com/docs/ja-JP/deploy/deploy-in-cli",
-            "Chrome 拡張機能を使ってサービスをデプロイする": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-chrome-extension",
+            "Chrome 拡張機能": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-chrome-extension",
             "Docker サービスのイメージ参照を更新する": "https://zeabur.com/docs/ja-JP/deploy/update-image-reference",
             "Dockerfile を使用したデプロイ": "https://zeabur.com/docs/ja-JP/deploy/dockerfile",
+            "Gemini Canvas から Chrome 拡張機能でデプロイする": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-chrome-extension/gemini",
             "GitHub 連携": "https://zeabur.com/docs/ja-JP/deploy/github",
             "Raycast 拡張機能を使ってサービスをデプロイする": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-raycast-extension",
             "VS Code 拡張機能を使ってサービスをデプロイする": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-vscode-extension",
@@ -459,6 +463,7 @@
             "Exportar Proyecto": "https://zeabur.com/docs/es-ES/deploy/export-project",
             "Imagen Docker personalizada": "https://zeabur.com/docs/es-ES/deploy/customize-prebuilt",
             "Implementación con Dockerfile": "https://zeabur.com/docs/es-ES/deploy/dockerfile",
+            "Implementar proyectos de Gemini Canvas con la extensión de Chrome": "https://zeabur.com/docs/es-ES/deploy/deploy-with-chrome-extension/gemini",
             "Implementar servicios con extensiones": "https://zeabur.com/docs/es-ES/deploy/deploy-with-chrome-extension",
             "Integración con GitHub": "https://zeabur.com/docs/es-ES/deploy/github",
             "Setting Environment Variables": "https://zeabur.com/docs/es-ES/deploy/variables",
