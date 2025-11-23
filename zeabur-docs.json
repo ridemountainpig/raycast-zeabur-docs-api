@@ -155,8 +155,8 @@
             "高可用性架構": "https://zeabur.com/docs/zh-TW/networking/high-availability"
         },
         "教學": {
-            "": "https://zeabur.com/docs/zh-TW/guides/bun/hono",
             "Bun": "https://zeabur.com/docs/zh-TW/guides/bun",
+            "Hono": "https://zeabur.com/docs/zh-TW/guides/bun/hono",
             "Hugo": "https://zeabur.com/docs/zh-TW/guides/static/hugo",
             "MkDocs": "https://zeabur.com/docs/zh-TW/guides/static/mkdocs",
             "Symfony 部署說明": "https://zeabur.com/docs/zh-TW/guides/php/symfony",
