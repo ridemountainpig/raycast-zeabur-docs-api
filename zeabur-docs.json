@@ -30,6 +30,11 @@
         "Template Catalog": {
             "Template Catalog": "https://zeabur.com/templates"
         },
+        "Zeabur AI Hub": {
+            "Using Zeabur AI Hub in SillyTavern": "https://zeabur.com/docs/en-US/ai-hub/sillytavern-integration",
+            "Using Zeabur AI Hub in n8n": "https://zeabur.com/docs/en-US/ai-hub/n8n-integration",
+            "Zeabur AI Hub": "https://zeabur.com/docs/en-US/ai-hub"
+        },
         "Data Management": {
             "Backup your Service": "https://zeabur.com/docs/en-US/data-management/backup",
             "Config Editor": "https://zeabur.com/docs/en-US/data-management/config-edit",
@@ -142,6 +147,11 @@
         "Zeabur 模板目錄": {
             "Zeabur 模板目錄": "https://zeabur.com/templates"
         },
+        "Zeabur AI Hub": {
+            "Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub",
+            "在 SillyTavern 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub/sillytavern-integration",
+            "在 n8n 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub/n8n-integration"
+        },
         "資料管理": {
             "備份服務": "https://zeabur.com/docs/zh-TW/data-management/backup",
             "持久儲存空間": "https://zeabur.com/docs/zh-TW/data-management/volumes",
@@ -253,6 +263,11 @@
         },
         "Zeabur 模板目录": {
             "Zeabur 模板目录": "https://zeabur.com/templates"
+        },
+        "Zeabur AI Hub": {
+            "Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub",
+            "在 SillyTavern 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub/sillytavern-integration",
+            "在 n8n 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub/n8n-integration"
         },
         "数据管理": {
             "备份服务": "https://zeabur.com/docs/zh-CN/data-management/backup",
@@ -367,6 +382,11 @@
         "Zeaburテンプレートカタログ": {
             "Zeaburテンプレートカタログ": "https://zeabur.com/templates"
         },
+        "Zeabur AI Hub": {
+            "SillyTavern で Zeabur AI Hub を使用する": "https://zeabur.com/docs/ja-JP/ai-hub/sillytavern-integration",
+            "Zeabur AI Hub": "https://zeabur.com/docs/ja-JP/ai-hub",
+            "n8n で Zeabur AI Hub を使用する": "https://zeabur.com/docs/ja-JP/ai-hub/n8n-integration"
+        },
         "データ管理": {
             "バックアップの復元": "https://zeabur.com/docs/ja-JP/data-management/restore",
             "バックアップサービス": "https://zeabur.com/docs/ja-JP/data-management/backup",
@@ -477,6 +497,11 @@
         },
         "Catálogo de Plantillas": {
             "Catálogo de Plantillas": "https://zeabur.com/templates"
+        },
+        "Zeabur AI Hub": {
+            "Usar Zeabur AI Hub en SillyTavern": "https://zeabur.com/docs/es-ES/ai-hub/sillytavern-integration",
+            "Usar Zeabur AI Hub en n8n": "https://zeabur.com/docs/es-ES/ai-hub/n8n-integration",
+            "Zeabur AI Hub": "https://zeabur.com/docs/es-ES/ai-hub"
         },
         "Gestión de Datos": {
             "Copia de Seguridad de tu Servicio": "https://zeabur.com/docs/es-ES/data-management/backup",
