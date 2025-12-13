@@ -91,6 +91,7 @@
             "Service Usage": "https://zeabur.com/docs/en-US/manage/metric"
         },
         "Legal and Policies": {
+            "Abuse Reporting Guidelines": "https://zeabur.com/docs/en-US/legal/abuse-report",
             "Fair use Guidelines": "https://zeabur.com/docs/en-US/legal/fair-use-guideline",
             "Privacy Policy": "https://zeabur.com/docs/en-US/legal/privacy",
             "Terms of Service": "https://zeabur.com/docs/en-US/legal/terms"
@@ -210,6 +211,7 @@
         "法律及政策": {
             "公平使用指南": "https://zeabur.com/docs/zh-TW/legal/fair-use-guideline",
             "服務條款": "https://zeabur.com/docs/zh-TW/legal/terms",
+            "濫用回報指引": "https://zeabur.com/docs/zh-TW/legal/abuse-report",
             "隱私權政策": "https://zeabur.com/docs/zh-TW/legal/privacy"
         },
         "付款與帳單": {
@@ -328,6 +330,7 @@
         "法律及政策": {
             "公平使用指南": "https://zeabur.com/docs/zh-CN/legal/fair-use-guideline",
             "服务条款": "https://zeabur.com/docs/zh-CN/legal/terms",
+            "滥用举报指引": "https://zeabur.com/docs/zh-CN/legal/abuse-report",
             "隐私权政策": "https://zeabur.com/docs/zh-CN/legal/privacy"
         },
         "付款与账单": {
@@ -445,6 +448,7 @@
         "法律とポリシー": {
             "フェアユースガイドライン": "https://zeabur.com/docs/ja-JP/legal/fair-use-guideline",
             "プライバシーポリシー": "https://zeabur.com/docs/ja-JP/legal/privacy",
+            "不正利用の報告ガイドライン": "https://zeabur.com/docs/ja-JP/legal/abuse-report",
             "利用規約": "https://zeabur.com/docs/ja-JP/legal/terms"
         },
         "支払いと請求": {
@@ -559,7 +563,8 @@
             "Service Usage": "https://zeabur.com/docs/es-ES/manage/metric"
         },
         "Legal y Políticas": {
-            "Fair use Guidelines": "https://zeabur.com/docs/es-ES/legal/fair-use-guideline",
+            "Guía de uso justo": "https://zeabur.com/docs/es-ES/legal/fair-use-guideline",
+            "Guía para reportar abusos": "https://zeabur.com/docs/es-ES/legal/abuse-report",
             "Privacy Policy": "https://zeabur.com/docs/es-ES/legal/privacy",
             "Terms of Service": "https://zeabur.com/docs/es-ES/legal/terms"
         },
