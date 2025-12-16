@@ -8,6 +8,7 @@
             "Chrome Extension": "https://zeabur.com/docs/en-US/deploy/deploy-with-chrome-extension",
             "Copy Project": "https://zeabur.com/docs/en-US/deploy/copy-project",
             "Create Project": "https://zeabur.com/docs/en-US/deploy/create-project",
+            "Create Service": "https://zeabur.com/docs/en-US/deploy/create-service",
             "Custom Docker image": "https://zeabur.com/docs/en-US/deploy/customize-prebuilt",
             "Custom Root Directory": "https://zeabur.com/docs/en-US/deploy/root-directory",
             "Deploy Button": "https://zeabur.com/docs/en-US/deploy/deploy-button",
@@ -133,6 +134,7 @@
             "在 Gemini Canvas 使用 Chrome 插件部署": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-chrome-extension/gemini",
             "執行命令": "https://zeabur.com/docs/zh-TW/deploy/command-execution",
             "建立專案": "https://zeabur.com/docs/zh-TW/deploy/create-project",
+            "建立服務": "https://zeabur.com/docs/zh-TW/deploy/create-service",
             "整合 GitHub": "https://zeabur.com/docs/zh-TW/deploy/github",
             "更新 Docker 服務的映像引用": "https://zeabur.com/docs/zh-TW/deploy/update-image-reference",
             "環境變數設定": "https://zeabur.com/docs/zh-TW/deploy/variables",
@@ -247,6 +249,7 @@
             "使用 CLI 部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-in-cli",
             "使用 Raycast 插件部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-raycast-extension",
             "使用 VS Code 插件部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-vscode-extension",
+            "创建服务": "https://zeabur.com/docs/zh-CN/deploy/create-service",
             "创建项目": "https://zeabur.com/docs/zh-CN/deploy/create-project",
             "在 Gemini Canvas 使用 Chrome 插件部署": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-chrome-extension/gemini",
             "复制项目": "https://zeabur.com/docs/zh-CN/deploy/copy-project",
@@ -372,6 +375,7 @@
             "カスタム Docker イメージ": "https://zeabur.com/docs/ja-JP/deploy/customize-prebuilt",
             "カスタムルートディレクトリ": "https://zeabur.com/docs/ja-JP/deploy/root-directory",
             "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/command-execution",
+            "サービスの作成": "https://zeabur.com/docs/ja-JP/deploy/create-service",
             "デプロイボタン": "https://zeabur.com/docs/ja-JP/deploy/deploy-button",
             "プロジェクトのエクスポート": "https://zeabur.com/docs/ja-JP/deploy/export-project",
             "プロジェクトをコピー": "https://zeabur.com/docs/ja-JP/deploy/copy-project",
@@ -480,6 +484,7 @@
         "Implementar": {
             "Actualizar la referencia de imagen del servicio Docker": "https://zeabur.com/docs/es-ES/deploy/update-image-reference",
             "Copiar Proyecto": "https://zeabur.com/docs/es-ES/deploy/copy-project",
+            "Crear Servicio": "https://zeabur.com/docs/es-ES/deploy/create-service",
             "Custom Root Directory": "https://zeabur.com/docs/es-ES/deploy/root-directory",
             "Deploy Button": "https://zeabur.com/docs/es-ES/deploy/deploy-button",
             "Deploy Service in Zeabur CLI": "https://zeabur.com/docs/es-ES/deploy/deploy-in-cli",
@@ -565,7 +570,7 @@
         "Legal y Políticas": {
             "Guía de uso justo": "https://zeabur.com/docs/es-ES/legal/fair-use-guideline",
             "Guía para reportar abusos": "https://zeabur.com/docs/es-ES/legal/abuse-report",
-            "Privacy Policy": "https://zeabur.com/docs/es-ES/legal/privacy",
+            "Política de privacidad": "https://zeabur.com/docs/es-ES/legal/privacy",
             "Terms of Service": "https://zeabur.com/docs/es-ES/legal/terms"
         },
         "Pagos y Facturación": {
