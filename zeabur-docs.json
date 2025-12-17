@@ -116,6 +116,13 @@
         "Developer": {
             "Create and Use API Keys": "https://zeabur.com/docs/en-US/developer/use-api-key",
             "Public API": "https://zeabur.com/docs/en-US/developer/public-api"
+        },
+        "Import Guides": {
+            "How to Deploy Your Bolt.new Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/tutorials/bolt",
+            "How to Deploy Your Lovable.dev Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/tutorials/lovable",
+            "How to Deploy Your Replit Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/tutorials/replit",
+            "How to Export Your Google AI Studio Project to GitHub": "https://zeabur.com/docs/en-US/tutorials/aistudio",
+            "How to Migrate from Emergent to Zeabur": "https://zeabur.com/docs/en-US/tutorials/emergent"
         }
     },
     "zh-TW": {
@@ -235,6 +242,13 @@
         "開發者": {
             "建立和使用 API 金鑰": "https://zeabur.com/docs/zh-TW/developer/use-api-key",
             "開放 API": "https://zeabur.com/docs/zh-TW/developer/public-api"
+        },
+        "導入指南": {
+            "如何使用 Zeabur 將 Bolt.new 專案部署到網絡": "https://zeabur.com/docs/zh-TW/tutorials/bolt",
+            "如何使用 Zeabur 將 Lovable.dev 專案部署到網路": "https://zeabur.com/docs/zh-TW/tutorials/lovable",
+            "如何使用 Zeabur 將 Replit 專案部署到網路": "https://zeabur.com/docs/zh-TW/tutorials/replit",
+            "如何將 Google AI Studio 專案匯出到 GitHub": "https://zeabur.com/docs/zh-TW/tutorials/aistudio",
+            "如何從 Emergent 遷移到 Zeabur": "https://zeabur.com/docs/zh-TW/tutorials/emergent"
         }
     },
     "zh-CN": {
@@ -355,6 +369,13 @@
         "开发者": {
             "创建和使用 API 密钥": "https://zeabur.com/docs/zh-CN/developer/use-api-key",
             "开放 API": "https://zeabur.com/docs/zh-CN/developer/public-api"
+        },
+        "导入指南": {
+            "如何从 Emergent 迁移到 Zeabur": "https://zeabur.com/docs/zh-CN/tutorials/emergent",
+            "如何使用 Zeabur 将 Bolt.new 项目部署到网络": "https://zeabur.com/docs/zh-CN/tutorials/bolt",
+            "如何使用 Zeabur 将 Lovable.dev 项目部署到网络": "https://zeabur.com/docs/zh-CN/tutorials/lovable",
+            "如何使用 Zeabur 将 Replit 项目部署到网络": "https://zeabur.com/docs/zh-CN/tutorials/replit",
+            "如何将 Google AI Studio 项目导出到 GitHub": "https://zeabur.com/docs/zh-CN/tutorials/aistudio"
         }
     },
     "ja-JP": {
@@ -474,6 +495,13 @@
         "開発者": {
             "API キーの作成と使用": "https://zeabur.com/docs/ja-JP/developer/use-api-key",
             "オープン API": "https://zeabur.com/docs/ja-JP/developer/public-api"
+        },
+        "インポートガイド": {
+            "Bolt.newプロジェクトをZeaburを使用してウェブにデプロイする方法": "https://zeabur.com/docs/ja-JP/tutorials/bolt",
+            "EmergentからZeaburへの移行方法": "https://zeabur.com/docs/ja-JP/tutorials/emergent",
+            "Google AI StudioプロジェクトをGitHubにエクスポートする方法": "https://zeabur.com/docs/ja-JP/tutorials/aistudio",
+            "Lovable.devプロジェクトをZeaburでウェブに展開する方法": "https://zeabur.com/docs/ja-JP/tutorials/lovable",
+            "Replit プロジェクトを Zeabur でウェブにデプロイする方法": "https://zeabur.com/docs/ja-JP/tutorials/replit"
         }
     },
     "es-ES": {
@@ -592,6 +620,13 @@
         "Desarrollador": {
             "API Pública": "https://zeabur.com/docs/es-ES/developer/public-api",
             "Crear y Usar Claves de API": "https://zeabur.com/docs/es-ES/developer/use-api-key"
+        },
+        "Guías de Importación": {
+            "Cómo desplegar tu proyecto Bolt.new en la web con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/bolt",
+            "Cómo desplegar tu proyecto de Replit en la web con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/replit",
+            "Cómo exportar tu proyecto de Google AI Studio a GitHub": "https://zeabur.com/docs/es-ES/tutorials/aistudio",
+            "Cómo implementar tu proyecto Lovable.dev en la web con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/lovable",
+            "Cómo migrar de Emergent a Zeabur": "https://zeabur.com/docs/es-ES/tutorials/emergent"
         }
     }
 }
