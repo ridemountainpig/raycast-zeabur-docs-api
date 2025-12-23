@@ -115,7 +115,8 @@
         },
         "Developer": {
             "Create and Use API Keys": "https://zeabur.com/docs/en-US/developer/use-api-key",
-            "Public API": "https://zeabur.com/docs/en-US/developer/public-api"
+            "Public API": "https://zeabur.com/docs/en-US/developer/public-api",
+            "WebSocket Connection Guide": "https://zeabur.com/docs/en-US/developer/websocket-guide"
         },
         "Import Guides": {
             "How to Deploy Your Bolt.new Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/tutorials/bolt",
@@ -241,6 +242,7 @@
             "構建原理": "https://zeabur.com/docs/zh-TW/advanced/builds"
         },
         "開發者": {
+            "WebSocket 連線指南": "https://zeabur.com/docs/zh-TW/developer/websocket-guide",
             "建立和使用 API 金鑰": "https://zeabur.com/docs/zh-TW/developer/use-api-key",
             "開放 API": "https://zeabur.com/docs/zh-TW/developer/public-api"
         },
@@ -369,6 +371,7 @@
             "构建原理": "https://zeabur.com/docs/zh-CN/advanced/builds"
         },
         "开发者": {
+            "WebSocket 连接指南": "https://zeabur.com/docs/zh-CN/developer/websocket-guide",
             "创建和使用 API 密钥": "https://zeabur.com/docs/zh-CN/developer/use-api-key",
             "开放 API": "https://zeabur.com/docs/zh-CN/developer/public-api"
         },
@@ -497,6 +500,7 @@
         },
         "開発者": {
             "API キーの作成と使用": "https://zeabur.com/docs/ja-JP/developer/use-api-key",
+            "WebSocket 接続ガイド": "https://zeabur.com/docs/ja-JP/developer/websocket-guide",
             "オープン API": "https://zeabur.com/docs/ja-JP/developer/public-api"
         },
         "インポートガイド": {
@@ -623,7 +627,8 @@
         },
         "Desarrollador": {
             "API Pública": "https://zeabur.com/docs/es-ES/developer/public-api",
-            "Crear y Usar Claves de API": "https://zeabur.com/docs/es-ES/developer/use-api-key"
+            "Crear y Usar Claves de API": "https://zeabur.com/docs/es-ES/developer/use-api-key",
+            "Guía de Conexión WebSocket": "https://zeabur.com/docs/es-ES/developer/websocket-guide"
         },
         "Guías de Importación": {
             "Cómo desplegar tu proyecto Bolt.new en la web con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/bolt",
