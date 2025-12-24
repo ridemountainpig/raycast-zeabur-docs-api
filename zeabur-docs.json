@@ -122,6 +122,8 @@
             "How to Deploy Your Bolt.new Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/tutorials/bolt",
             "How to Deploy Your Lovable.dev Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/tutorials/lovable",
             "How to Deploy Your Replit Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/tutorials/replit",
+            "How to Deploy Your v0 Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/tutorials/v0",
+            "How to Deploy a GitHub Repository with Zeabur": "https://zeabur.com/docs/en-US/tutorials/github",
             "How to Export Your Google AI Studio Project to GitHub": "https://zeabur.com/docs/en-US/tutorials/aistudio",
             "How to Migrate from Emergent to Zeabur": "https://zeabur.com/docs/en-US/tutorials/emergent",
             "Import Guides": "https://zeabur.com/docs/en-US/tutorials"
@@ -250,6 +252,8 @@
             "如何使用 Zeabur 將 Bolt.new 專案部署到網絡": "https://zeabur.com/docs/zh-TW/tutorials/bolt",
             "如何使用 Zeabur 將 Lovable.dev 專案部署到網路": "https://zeabur.com/docs/zh-TW/tutorials/lovable",
             "如何使用 Zeabur 將 Replit 專案部署到網路": "https://zeabur.com/docs/zh-TW/tutorials/replit",
+            "如何使用 Zeabur 將您的 v0 專案部署到網絡": "https://zeabur.com/docs/zh-TW/tutorials/v0",
+            "如何使用 Zeabur 部署 GitHub 儲存庫": "https://zeabur.com/docs/zh-TW/tutorials/github",
             "如何將 Google AI Studio 專案匯出到 GitHub": "https://zeabur.com/docs/zh-TW/tutorials/aistudio",
             "如何從 Emergent 遷移到 Zeabur": "https://zeabur.com/docs/zh-TW/tutorials/emergent",
             "導入指南": "https://zeabur.com/docs/zh-TW/tutorials"
@@ -380,6 +384,8 @@
             "如何使用 Zeabur 将 Bolt.new 项目部署到网络": "https://zeabur.com/docs/zh-CN/tutorials/bolt",
             "如何使用 Zeabur 将 Lovable.dev 项目部署到网络": "https://zeabur.com/docs/zh-CN/tutorials/lovable",
             "如何使用 Zeabur 将 Replit 项目部署到网络": "https://zeabur.com/docs/zh-CN/tutorials/replit",
+            "如何使用 Zeabur 将您的 v0 项目部署到网络": "https://zeabur.com/docs/zh-CN/tutorials/v0",
+            "如何使用 Zeabur 部署 GitHub 仓库": "https://zeabur.com/docs/zh-CN/tutorials/github",
             "如何将 Google AI Studio 项目导出到 GitHub": "https://zeabur.com/docs/zh-CN/tutorials/aistudio",
             "导入指南": "https://zeabur.com/docs/zh-CN/tutorials"
         }
@@ -509,6 +515,8 @@
             "Google AI StudioプロジェクトをGitHubにエクスポートする方法": "https://zeabur.com/docs/ja-JP/tutorials/aistudio",
             "Lovable.devプロジェクトをZeaburでウェブに展開する方法": "https://zeabur.com/docs/ja-JP/tutorials/lovable",
             "Replit プロジェクトを Zeabur でウェブにデプロイする方法": "https://zeabur.com/docs/ja-JP/tutorials/replit",
+            "ZeaburでGitHubリポジトリをデプロイする方法": "https://zeabur.com/docs/ja-JP/tutorials/github",
+            "v0 プロジェクトを Zeabur で Web にデプロイする方法": "https://zeabur.com/docs/ja-JP/tutorials/v0",
             "インポートガイド": "https://zeabur.com/docs/ja-JP/tutorials"
         }
     },
@@ -633,6 +641,8 @@
         "Guías de Importación": {
             "Cómo desplegar tu proyecto Bolt.new en la web con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/bolt",
             "Cómo desplegar tu proyecto de Replit en la web con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/replit",
+            "Cómo desplegar tu proyecto v0 en la web con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/v0",
+            "Cómo desplegar un repositorio de GitHub con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/github",
             "Cómo exportar tu proyecto de Google AI Studio a GitHub": "https://zeabur.com/docs/es-ES/tutorials/aistudio",
             "Cómo implementar tu proyecto Lovable.dev en la web con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/lovable",
             "Cómo migrar de Emergent a Zeabur": "https://zeabur.com/docs/es-ES/tutorials/emergent",
