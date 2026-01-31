@@ -36,6 +36,14 @@
             "Using Zeabur AI Hub in n8n": "https://zeabur.com/docs/en-US/ai-hub/n8n-integration",
             "Zeabur AI Hub": "https://zeabur.com/docs/en-US/ai-hub"
         },
+        "Zeabur Email": {
+            "API Key Management": "https://zeabur.com/docs/en-US/email/api-keys",
+            "Domain Management": "https://zeabur.com/docs/en-US/email/domains",
+            "Quick Start": "https://zeabur.com/docs/en-US/email/quick-start",
+            "REST API Reference": "https://zeabur.com/docs/en-US/email/rest-api",
+            "Webhook Configuration": "https://zeabur.com/docs/en-US/email/webhooks",
+            "Zeabur Email": "https://zeabur.com/docs/en-US/email"
+        },
         "Data Management": {
             "Backup your Service": "https://zeabur.com/docs/en-US/data-management/backup",
             "Config Editor": "https://zeabur.com/docs/en-US/data-management/config-edit",
@@ -166,6 +174,14 @@
             "在 SillyTavern 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub/sillytavern-integration",
             "在 n8n 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub/n8n-integration"
         },
+        "Zeabur Email": {
+            "API 金鑰管理": "https://zeabur.com/docs/zh-TW/email/api-keys",
+            "REST API 參考": "https://zeabur.com/docs/zh-TW/email/rest-api",
+            "Webhook 設定": "https://zeabur.com/docs/zh-TW/email/webhooks",
+            "Zeabur Email": "https://zeabur.com/docs/zh-TW/email",
+            "快速開始": "https://zeabur.com/docs/zh-TW/email/quick-start",
+            "網域管理": "https://zeabur.com/docs/zh-TW/email/domains"
+        },
         "資料管理": {
             "備份服務": "https://zeabur.com/docs/zh-TW/data-management/backup",
             "持久儲存空間": "https://zeabur.com/docs/zh-TW/data-management/volumes",
@@ -295,6 +311,14 @@
             "Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub",
             "在 SillyTavern 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub/sillytavern-integration",
             "在 n8n 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub/n8n-integration"
+        },
+        "Zeabur Email": {
+            "API 密钥管理": "https://zeabur.com/docs/zh-CN/email/api-keys",
+            "REST API 参考": "https://zeabur.com/docs/zh-CN/email/rest-api",
+            "Webhook 配置": "https://zeabur.com/docs/zh-CN/email/webhooks",
+            "Zeabur Email": "https://zeabur.com/docs/zh-CN/email",
+            "域名管理": "https://zeabur.com/docs/zh-CN/email/domains",
+            "快速开始": "https://zeabur.com/docs/zh-CN/email/quick-start"
         },
         "数据管理": {
             "备份服务": "https://zeabur.com/docs/zh-CN/data-management/backup",
@@ -427,6 +451,14 @@
             "Zeabur AI Hub": "https://zeabur.com/docs/ja-JP/ai-hub",
             "n8n で Zeabur AI Hub を使用する": "https://zeabur.com/docs/ja-JP/ai-hub/n8n-integration"
         },
+        "Zeabur Email": {
+            "API キー管理": "https://zeabur.com/docs/ja-JP/email/api-keys",
+            "REST API リファレンス": "https://zeabur.com/docs/ja-JP/email/rest-api",
+            "Webhook 設定": "https://zeabur.com/docs/ja-JP/email/webhooks",
+            "Zeabur Email": "https://zeabur.com/docs/ja-JP/email",
+            "クイックスタート": "https://zeabur.com/docs/ja-JP/email/quick-start",
+            "ドメイン管理": "https://zeabur.com/docs/ja-JP/email/domains"
+        },
         "データ管理": {
             "バックアップの復元": "https://zeabur.com/docs/ja-JP/data-management/restore",
             "バックアップサービス": "https://zeabur.com/docs/ja-JP/data-management/backup",
@@ -555,6 +587,14 @@
             "Usar Zeabur AI Hub en SillyTavern": "https://zeabur.com/docs/es-ES/ai-hub/sillytavern-integration",
             "Usar Zeabur AI Hub en n8n": "https://zeabur.com/docs/es-ES/ai-hub/n8n-integration",
             "Zeabur AI Hub": "https://zeabur.com/docs/es-ES/ai-hub"
+        },
+        "Zeabur Email": {
+            "Configuración de Webhook": "https://zeabur.com/docs/es-ES/email/webhooks",
+            "Gestión de Claves API": "https://zeabur.com/docs/es-ES/email/api-keys",
+            "Gestión de Dominios": "https://zeabur.com/docs/es-ES/email/domains",
+            "Inicio Rápido": "https://zeabur.com/docs/es-ES/email/quick-start",
+            "Referencia de REST API": "https://zeabur.com/docs/es-ES/email/rest-api",
+            "Zeabur Email": "https://zeabur.com/docs/es-ES/email"
         },
         "Gestión de Datos": {
             "Copia de Seguridad de tu Servicio": "https://zeabur.com/docs/es-ES/data-management/backup",
