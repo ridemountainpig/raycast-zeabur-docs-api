@@ -106,16 +106,16 @@
             "Terms of Service": "https://zeabur.com/docs/en-US/legal/terms"
         },
         "Payments and Billing": {
-            "Contribution Reward Program": "https://zeabur.com/docs/en-US/billing/reward",
             "Plans": "https://zeabur.com/docs/en-US/billing/plans",
             "Pricing": "https://zeabur.com/docs/en-US/billing/pricing",
             "Redeem Prepaid Card": "https://zeabur.com/docs/en-US/billing/redeem",
-            "Referral": "https://zeabur.com/docs/en-US/billing/referral",
             "Sponsor": "https://zeabur.com/docs/en-US/billing/sponsor",
             "Subscription": "https://zeabur.com/docs/en-US/billing/subscription"
         },
         "Community": {
+            "Contribution Reward Program": "https://zeabur.com/docs/en-US/community/contribution",
             "Get Help": "https://zeabur.com/docs/en-US/community/help",
+            "Referral Rewards": "https://zeabur.com/docs/en-US/community/referral",
             "Verify Your Account": "https://zeabur.com/docs/en-US/community/verify"
         },
         "Advanced": {
@@ -246,15 +246,15 @@
         "付款與帳單": {
             "兌換預付卡": "https://zeabur.com/docs/zh-TW/billing/redeem",
             "定價": "https://zeabur.com/docs/zh-TW/billing/pricing",
-            "推薦": "https://zeabur.com/docs/zh-TW/billing/referral",
             "訂閱": "https://zeabur.com/docs/zh-TW/billing/subscription",
             "訂閱方案": "https://zeabur.com/docs/zh-TW/billing/plans",
-            "貢獻獎勵計劃": "https://zeabur.com/docs/zh-TW/billing/reward",
             "贊助": "https://zeabur.com/docs/zh-TW/billing/sponsor"
         },
         "社群": {
             "在 Discord 驗證你的帳戶": "https://zeabur.com/docs/zh-TW/community/verify",
-            "尋求幫助": "https://zeabur.com/docs/zh-TW/community/help"
+            "尋求幫助": "https://zeabur.com/docs/zh-TW/community/help",
+            "推薦獎勵": "https://zeabur.com/docs/zh-TW/community/referral",
+            "貢獻獎勵計劃": "https://zeabur.com/docs/zh-TW/community/contribution"
         },
         "進階": {
             "構建原理": "https://zeabur.com/docs/zh-TW/advanced/builds"
@@ -385,15 +385,15 @@
         "付款与账单": {
             "兑换代金券": "https://zeabur.com/docs/zh-CN/billing/redeem",
             "定价": "https://zeabur.com/docs/zh-CN/billing/pricing",
-            "推荐": "https://zeabur.com/docs/zh-CN/billing/referral",
             "订阅": "https://zeabur.com/docs/zh-CN/billing/subscription",
             "订阅方案": "https://zeabur.com/docs/zh-CN/billing/plans",
-            "贡献奖励计划": "https://zeabur.com/docs/zh-CN/billing/reward",
             "赞助": "https://zeabur.com/docs/zh-CN/billing/sponsor"
         },
         "社区": {
             "在 Discord 验证你的账户": "https://zeabur.com/docs/zh-CN/community/verify",
-            "寻求帮助": "https://zeabur.com/docs/zh-CN/community/help"
+            "寻求帮助": "https://zeabur.com/docs/zh-CN/community/help",
+            "推荐奖励": "https://zeabur.com/docs/zh-CN/community/referral",
+            "贡献奖励计划": "https://zeabur.com/docs/zh-CN/community/contribution"
         },
         "高级": {
             "构建原理": "https://zeabur.com/docs/zh-CN/advanced/builds"
@@ -525,13 +525,13 @@
             "プラン": "https://zeabur.com/docs/ja-JP/billing/plans",
             "プリペイドカードの引換": "https://zeabur.com/docs/ja-JP/billing/redeem",
             "定価": "https://zeabur.com/docs/ja-JP/billing/pricing",
-            "定期購読": "https://zeabur.com/docs/ja-JP/billing/subscription",
-            "紹介": "https://zeabur.com/docs/ja-JP/billing/referral",
-            "貢献報酬プログラム": "https://zeabur.com/docs/ja-JP/billing/reward"
+            "定期購読": "https://zeabur.com/docs/ja-JP/billing/subscription"
         },
         "コミュニティ": {
             "アカウントを確認してください": "https://zeabur.com/docs/ja-JP/community/verify",
-            "ヘルプを取得する": "https://zeabur.com/docs/ja-JP/community/help"
+            "ヘルプを取得する": "https://zeabur.com/docs/ja-JP/community/help",
+            "紹介報酬": "https://zeabur.com/docs/ja-JP/community/referral",
+            "貢献報酬プログラム": "https://zeabur.com/docs/ja-JP/community/contribution"
         },
         "高度な内容": {
             "ビルド": "https://zeabur.com/docs/ja-JP/advanced/builds"
@@ -661,13 +661,13 @@
             "Canjear Tarjeta Prepago": "https://zeabur.com/docs/es-ES/billing/redeem",
             "Plans": "https://zeabur.com/docs/es-ES/billing/plans",
             "Precios": "https://zeabur.com/docs/es-ES/billing/pricing",
-            "Programa de Recompensas por Contribución": "https://zeabur.com/docs/es-ES/billing/reward",
-            "Referral": "https://zeabur.com/docs/es-ES/billing/referral",
             "Sponsor": "https://zeabur.com/docs/es-ES/billing/sponsor",
             "Subscription": "https://zeabur.com/docs/es-ES/billing/subscription"
         },
         "Comunidad": {
             "Get Help": "https://zeabur.com/docs/es-ES/community/help",
+            "Programa de Recompensas por Contribución": "https://zeabur.com/docs/es-ES/community/contribution",
+            "Recompensas por referidos": "https://zeabur.com/docs/es-ES/community/referral",
             "Verify Your Account": "https://zeabur.com/docs/es-ES/community/verify"
         },
         "Avanzado": {
