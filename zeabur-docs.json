@@ -113,6 +113,7 @@
             "Subscription": "https://zeabur.com/docs/en-US/billing/subscription"
         },
         "Community": {
+            "Community Forum": "https://zeabur.com/docs/en-US/community/forum",
             "Contribution Reward Program": "https://zeabur.com/docs/en-US/community/contribution",
             "Get Help": "https://zeabur.com/docs/en-US/community/help",
             "Referral Rewards": "https://zeabur.com/docs/en-US/community/referral",
@@ -254,6 +255,7 @@
             "在 Discord 驗證你的帳戶": "https://zeabur.com/docs/zh-TW/community/verify",
             "尋求幫助": "https://zeabur.com/docs/zh-TW/community/help",
             "推薦獎勵": "https://zeabur.com/docs/zh-TW/community/referral",
+            "社群論壇": "https://zeabur.com/docs/zh-TW/community/forum",
             "貢獻獎勵計劃": "https://zeabur.com/docs/zh-TW/community/contribution"
         },
         "進階": {
@@ -393,6 +395,7 @@
             "在 Discord 验证你的账户": "https://zeabur.com/docs/zh-CN/community/verify",
             "寻求帮助": "https://zeabur.com/docs/zh-CN/community/help",
             "推荐奖励": "https://zeabur.com/docs/zh-CN/community/referral",
+            "社区论坛": "https://zeabur.com/docs/zh-CN/community/forum",
             "贡献奖励计划": "https://zeabur.com/docs/zh-CN/community/contribution"
         },
         "高级": {
@@ -529,6 +532,7 @@
         },
         "コミュニティ": {
             "アカウントを確認してください": "https://zeabur.com/docs/ja-JP/community/verify",
+            "コミュニティフォーラム": "https://zeabur.com/docs/ja-JP/community/forum",
             "ヘルプを取得する": "https://zeabur.com/docs/ja-JP/community/help",
             "紹介報酬": "https://zeabur.com/docs/ja-JP/community/referral",
             "貢献報酬プログラム": "https://zeabur.com/docs/ja-JP/community/contribution"
@@ -665,7 +669,8 @@
             "Subscription": "https://zeabur.com/docs/es-ES/billing/subscription"
         },
         "Comunidad": {
-            "Get Help": "https://zeabur.com/docs/es-ES/community/help",
+            "Foro de la Comunidad": "https://zeabur.com/docs/es-ES/community/forum",
+            "Obtener Ayuda": "https://zeabur.com/docs/es-ES/community/help",
             "Programa de Recompensas por Contribución": "https://zeabur.com/docs/es-ES/community/contribution",
             "Recompensas por referidos": "https://zeabur.com/docs/es-ES/community/referral",
             "Verify Your Account": "https://zeabur.com/docs/es-ES/community/verify"
