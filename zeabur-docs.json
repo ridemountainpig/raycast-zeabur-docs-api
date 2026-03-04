@@ -44,6 +44,13 @@
             "Webhook Configuration": "https://zeabur.com/docs/en-US/email/webhooks",
             "Zeabur Email": "https://zeabur.com/docs/en-US/email"
         },
+        "Integrations": {
+            "Connect AI IDE": "https://zeabur.com/docs/en-US/integrations/insforge/connect-ai-ide",
+            "InsForge": "https://zeabur.com/docs/en-US/integrations/insforge/overview",
+            "Integrations": "https://zeabur.com/docs/en-US/integrations",
+            "Quick Start": "https://zeabur.com/docs/en-US/integrations/insforge/quick-start",
+            "Usage & Billing": "https://zeabur.com/docs/en-US/integrations/insforge/usage-and-billing"
+        },
         "Data Management": {
             "Backup your Service": "https://zeabur.com/docs/en-US/data-management/backup",
             "Config Editor": "https://zeabur.com/docs/en-US/data-management/config-edit",
@@ -183,6 +190,13 @@
             "快速開始": "https://zeabur.com/docs/zh-TW/email/quick-start",
             "網域管理": "https://zeabur.com/docs/zh-TW/email/domains"
         },
+        "整合": {
+            "InsForge": "https://zeabur.com/docs/zh-TW/integrations/insforge/overview",
+            "使用量與帳單": "https://zeabur.com/docs/zh-TW/integrations/insforge/usage-and-billing",
+            "快速開始": "https://zeabur.com/docs/zh-TW/integrations/insforge/quick-start",
+            "整合服務": "https://zeabur.com/docs/zh-TW/integrations",
+            "連接 AI IDE": "https://zeabur.com/docs/zh-TW/integrations/insforge/connect-ai-ide"
+        },
         "資料管理": {
             "備份服務": "https://zeabur.com/docs/zh-TW/data-management/backup",
             "持久儲存空間": "https://zeabur.com/docs/zh-TW/data-management/volumes",
@@ -321,6 +335,13 @@
             "Zeabur Email": "https://zeabur.com/docs/zh-CN/email",
             "域名管理": "https://zeabur.com/docs/zh-CN/email/domains",
             "快速开始": "https://zeabur.com/docs/zh-CN/email/quick-start"
+        },
+        "集成服务": {
+            "InsForge": "https://zeabur.com/docs/zh-CN/integrations/insforge/overview",
+            "快速开始": "https://zeabur.com/docs/zh-CN/integrations/insforge/quick-start",
+            "用量与账单": "https://zeabur.com/docs/zh-CN/integrations/insforge/usage-and-billing",
+            "连接 AI IDE": "https://zeabur.com/docs/zh-CN/integrations/insforge/connect-ai-ide",
+            "集成服务": "https://zeabur.com/docs/zh-CN/integrations"
         },
         "数据管理": {
             "备份服务": "https://zeabur.com/docs/zh-CN/data-management/backup",
@@ -462,6 +483,13 @@
             "クイックスタート": "https://zeabur.com/docs/ja-JP/email/quick-start",
             "ドメイン管理": "https://zeabur.com/docs/ja-JP/email/domains"
         },
+        "インテグレーション": {
+            "AI IDEの接続": "https://zeabur.com/docs/ja-JP/integrations/insforge/connect-ai-ide",
+            "InsForge": "https://zeabur.com/docs/ja-JP/integrations/insforge/overview",
+            "インテグレーション": "https://zeabur.com/docs/ja-JP/integrations",
+            "クイックスタート": "https://zeabur.com/docs/ja-JP/integrations/insforge/quick-start",
+            "使用量と請求": "https://zeabur.com/docs/ja-JP/integrations/insforge/usage-and-billing"
+        },
         "データ管理": {
             "バックアップの復元": "https://zeabur.com/docs/ja-JP/data-management/restore",
             "バックアップサービス": "https://zeabur.com/docs/ja-JP/data-management/backup",
@@ -599,6 +627,13 @@
             "Inicio Rápido": "https://zeabur.com/docs/es-ES/email/quick-start",
             "Referencia de REST API": "https://zeabur.com/docs/es-ES/email/rest-api",
             "Zeabur Email": "https://zeabur.com/docs/es-ES/email"
+        },
+        "Integraciones": {
+            "Conectar IDE de IA": "https://zeabur.com/docs/es-ES/integrations/insforge/connect-ai-ide",
+            "Inicio Rápido": "https://zeabur.com/docs/es-ES/integrations/insforge/quick-start",
+            "InsForge": "https://zeabur.com/docs/es-ES/integrations/insforge/overview",
+            "Integraciones": "https://zeabur.com/docs/es-ES/integrations",
+            "Uso y Facturación": "https://zeabur.com/docs/es-ES/integrations/insforge/usage-and-billing"
         },
         "Gestión de Datos": {
             "Copia de Seguridad de tu Servicio": "https://zeabur.com/docs/es-ES/data-management/backup",
