@@ -698,7 +698,7 @@
         },
         "Pagos y Facturación": {
             "Canjear Tarjeta Prepago": "https://zeabur.com/docs/es-ES/billing/redeem",
-            "Plans": "https://zeabur.com/docs/es-ES/billing/plans",
+            "Planes": "https://zeabur.com/docs/es-ES/billing/plans",
             "Precios": "https://zeabur.com/docs/es-ES/billing/pricing",
             "Sponsor": "https://zeabur.com/docs/es-ES/billing/sponsor",
             "Subscription": "https://zeabur.com/docs/es-ES/billing/subscription"
