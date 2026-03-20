@@ -2,6 +2,7 @@
     "en-US": {
         "Introduction": {},
         "Get Started": {
+            "Get Started": "https://zeabur.com/docs/en-US/wonder-mesh/get-started",
             "Getting Started": "https://zeabur.com/docs/en-US/get-started"
         },
         "Deploy": {
@@ -43,6 +44,11 @@
             "REST API Reference": "https://zeabur.com/docs/en-US/email/rest-api",
             "Webhook Configuration": "https://zeabur.com/docs/en-US/email/webhooks",
             "Zeabur Email": "https://zeabur.com/docs/en-US/email"
+        },
+        "Wonder Mesh": {
+            "Uninstall Wonder Mesh": "https://zeabur.com/docs/en-US/wonder-mesh/uninstall",
+            "What Does the Install Script Do?": "https://zeabur.com/docs/en-US/wonder-mesh/install-script-details",
+            "Wonder Mesh": "https://zeabur.com/docs/en-US/wonder-mesh"
         },
         "Integrations": {
             "Connect AI IDE": "https://zeabur.com/docs/en-US/integrations/insforge/connect-ai-ide",
@@ -148,7 +154,7 @@
     "zh-TW": {
         "基本介紹": {},
         "快速開始": {
-            "快速開始": "https://zeabur.com/docs/zh-TW/get-started"
+            "快速開始": "https://zeabur.com/docs/zh-TW/wonder-mesh/get-started"
         },
         "部署": {
             "Chrome 插件": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-chrome-extension",
@@ -189,6 +195,11 @@
             "Zeabur Email": "https://zeabur.com/docs/zh-TW/email",
             "快速開始": "https://zeabur.com/docs/zh-TW/email/quick-start",
             "網域管理": "https://zeabur.com/docs/zh-TW/email/domains"
+        },
+        "Wonder Mesh": {
+            "Wonder Mesh": "https://zeabur.com/docs/zh-TW/wonder-mesh",
+            "安裝腳本做了什麼？": "https://zeabur.com/docs/zh-TW/wonder-mesh/install-script-details",
+            "解除安裝 Wonder Mesh": "https://zeabur.com/docs/zh-TW/wonder-mesh/uninstall"
         },
         "整合": {
             "InsForge": "https://zeabur.com/docs/zh-TW/integrations/insforge/overview",
@@ -294,7 +305,8 @@
     "zh-CN": {
         "基本介绍": {},
         "快速开始": {
-            "快速入门": "https://zeabur.com/docs/zh-CN/get-started"
+            "快速入门": "https://zeabur.com/docs/zh-CN/get-started",
+            "快速开始": "https://zeabur.com/docs/zh-CN/wonder-mesh/get-started"
         },
         "部署": {
             "Chrome 插件": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-chrome-extension",
@@ -335,6 +347,11 @@
             "Zeabur Email": "https://zeabur.com/docs/zh-CN/email",
             "域名管理": "https://zeabur.com/docs/zh-CN/email/domains",
             "快速开始": "https://zeabur.com/docs/zh-CN/email/quick-start"
+        },
+        "Wonder Mesh": {
+            "Wonder Mesh": "https://zeabur.com/docs/zh-CN/wonder-mesh",
+            "卸载 Wonder Mesh": "https://zeabur.com/docs/zh-CN/wonder-mesh/uninstall",
+            "安装脚本做了什么？": "https://zeabur.com/docs/zh-CN/wonder-mesh/install-script-details"
         },
         "集成服务": {
             "InsForge": "https://zeabur.com/docs/zh-CN/integrations/insforge/overview",
@@ -441,7 +458,8 @@
     "ja-JP": {
         "イントロダクション": {},
         "スタート": {
-            "クイックスタート": "https://zeabur.com/docs/ja-JP/get-started"
+            "クイックスタート": "https://zeabur.com/docs/ja-JP/get-started",
+            "スタート": "https://zeabur.com/docs/ja-JP/wonder-mesh/get-started"
         },
         "デプロイ": {
             "CLIを使用したサービスのデプロイ": "https://zeabur.com/docs/ja-JP/deploy/deploy-in-cli",
@@ -482,6 +500,11 @@
             "Zeabur Email": "https://zeabur.com/docs/ja-JP/email",
             "クイックスタート": "https://zeabur.com/docs/ja-JP/email/quick-start",
             "ドメイン管理": "https://zeabur.com/docs/ja-JP/email/domains"
+        },
+        "Wonder Mesh": {
+            "Wonder Mesh": "https://zeabur.com/docs/ja-JP/wonder-mesh",
+            "Wonder Mesh のアンインストール": "https://zeabur.com/docs/ja-JP/wonder-mesh/uninstall",
+            "インストールスクリプトの内容": "https://zeabur.com/docs/ja-JP/wonder-mesh/install-script-details"
         },
         "インテグレーション": {
             "AI IDEの接続": "https://zeabur.com/docs/ja-JP/integrations/insforge/connect-ai-ide",
@@ -587,6 +610,7 @@
     "es-ES": {
         "Introducción": {},
         "Empezar": {
+            "Empezar": "https://zeabur.com/docs/es-ES/wonder-mesh/get-started",
             "Primeros Pasos": "https://zeabur.com/docs/es-ES/get-started"
         },
         "Implementar": {
@@ -627,6 +651,11 @@
             "Inicio Rápido": "https://zeabur.com/docs/es-ES/email/quick-start",
             "Referencia de REST API": "https://zeabur.com/docs/es-ES/email/rest-api",
             "Zeabur Email": "https://zeabur.com/docs/es-ES/email"
+        },
+        "Wonder Mesh": {
+            "Desinstalar Wonder Mesh": "https://zeabur.com/docs/es-ES/wonder-mesh/uninstall",
+            "Wonder Mesh": "https://zeabur.com/docs/es-ES/wonder-mesh",
+            "¿Qué hace el script de instalación?": "https://zeabur.com/docs/es-ES/wonder-mesh/install-script-details"
         },
         "Integraciones": {
             "Conectar IDE de IA": "https://zeabur.com/docs/es-ES/integrations/insforge/connect-ai-ide",
