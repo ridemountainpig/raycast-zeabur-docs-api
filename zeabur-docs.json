@@ -21,6 +21,7 @@
             "Execute Commands": "https://zeabur.com/docs/en-US/deploy/command-execution",
             "Export Project": "https://zeabur.com/docs/en-US/deploy/export-project",
             "GitHub Integration": "https://zeabur.com/docs/en-US/deploy/github",
+            "Large File Handling": "https://zeabur.com/docs/en-US/deploy/large-files",
             "Setting Environment Variables": "https://zeabur.com/docs/en-US/deploy/variables",
             "Update Image Reference of the Docker Service": "https://zeabur.com/docs/en-US/deploy/update-image-reference",
             "Watch Paths": "https://zeabur.com/docs/en-US/deploy/watch-paths"
@@ -166,6 +167,7 @@
             "匯出專案": "https://zeabur.com/docs/zh-TW/deploy/export-project",
             "在 Gemini Canvas 使用 Chrome 插件部署": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-chrome-extension/gemini",
             "執行命令": "https://zeabur.com/docs/zh-TW/deploy/command-execution",
+            "大型檔案處理": "https://zeabur.com/docs/zh-TW/deploy/large-files",
             "建立專案": "https://zeabur.com/docs/zh-TW/deploy/create-project",
             "建立服務": "https://zeabur.com/docs/zh-TW/deploy/create-service",
             "整合 GitHub": "https://zeabur.com/docs/zh-TW/deploy/github",
@@ -319,6 +321,7 @@
             "创建项目": "https://zeabur.com/docs/zh-CN/deploy/create-project",
             "在 Gemini Canvas 使用 Chrome 插件部署": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-chrome-extension/gemini",
             "复制项目": "https://zeabur.com/docs/zh-CN/deploy/copy-project",
+            "大文件处理": "https://zeabur.com/docs/zh-CN/deploy/large-files",
             "导出项目": "https://zeabur.com/docs/zh-CN/deploy/export-project",
             "更新 Docker 服务的映像引用": "https://zeabur.com/docs/zh-CN/deploy/update-image-reference",
             "添加变量": "https://zeabur.com/docs/zh-CN/deploy/variables",
@@ -479,6 +482,7 @@
             "プロジェクトのエクスポート": "https://zeabur.com/docs/ja-JP/deploy/export-project",
             "プロジェクトをコピー": "https://zeabur.com/docs/ja-JP/deploy/copy-project",
             "プロジェクトを作成": "https://zeabur.com/docs/ja-JP/deploy/create-project",
+            "大容量ファイルの取り扱い": "https://zeabur.com/docs/ja-JP/deploy/large-files",
             "環境変数の設定": "https://zeabur.com/docs/ja-JP/deploy/variables"
         },
         "テンプレート": {
@@ -627,6 +631,7 @@
             "Implementar proyectos de Gemini Canvas con la extensión de Chrome": "https://zeabur.com/docs/es-ES/deploy/deploy-with-chrome-extension/gemini",
             "Implementar servicios con extensiones": "https://zeabur.com/docs/es-ES/deploy/deploy-with-chrome-extension",
             "Integración con GitHub": "https://zeabur.com/docs/es-ES/deploy/github",
+            "Manejo de Archivos Grandes": "https://zeabur.com/docs/es-ES/deploy/large-files",
             "Setting Environment Variables": "https://zeabur.com/docs/es-ES/deploy/variables",
             "Usar el complemento de Chrome para desplegar servicios": "https://zeabur.com/docs/es-ES/deploy/deploy-with-raycast-extension",
             "Usar el complemento de VS Code para desplegar servicios": "https://zeabur.com/docs/es-ES/deploy/deploy-with-vscode-extension",
