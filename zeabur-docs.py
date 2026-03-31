@@ -29,11 +29,54 @@ def fix_keys(content):
     return re.sub(r'(?<!["\'])\b(\w+)\b(?=\s*:)', r'"\1"', content)
 
 
+def strip_ts_line_comments(ts_content):
+    """Remove full-line // comments; zeabur _meta.ts uses these and ast.literal_eval cannot parse them."""
+    lines = []
+    for line in ts_content.splitlines():
+        if line.strip().startswith("//"):
+            continue
+        lines.append(line)
+    return "\n".join(lines)
+
+
+def slug_to_title(slug):
+    return " ".join(part.capitalize() for part in slug.split("-"))
+
+
+def category_label(meta_key, value):
+    """Map _meta entry to sidebar bucket name; skip separators."""
+    if isinstance(value, str):
+        return value
+    if not isinstance(value, dict):
+        return None
+    if value.get("type") == "separator":
+        return None
+    if "title" in value:
+        return value["title"]
+    if value.get("display") == "hidden":
+        return slug_to_title(meta_key)
+    return value.get("title") or slug_to_title(meta_key)
+
+
+def build_temp_urls(root_meta):
+    temp_urls = {}
+    for meta, val in root_meta.items():
+        label = category_label(meta, val)
+        if label is None:
+            continue
+        if isinstance(val, dict) and "href" in val and "title" in val:
+            temp_urls[label] = {val["title"]: val.get("href", "")}
+        else:
+            temp_urls[label] = {}
+    return temp_urls
+
+
 def get_root_meta(locale):
     root_meta_url = f"https://raw.githubusercontent.com/zeabur/zeabur/refs/heads/main/docs/pages/{locale}/_meta.ts"
     response = requests.get(root_meta_url)
     ts_content = response.text
-    cleaned_content = ts_content.replace("export default ", "").strip()
+    cleaned_content = strip_ts_line_comments(ts_content)
+    cleaned_content = cleaned_content.replace("export default ", "").strip()
     cleaned_content = cleaned_content.replace("'", '"')
     cleaned_content = fix_keys(cleaned_content)
     root_meta = ast.literal_eval(cleaned_content)
@@ -60,18 +103,7 @@ def get_sitemap_urls():
 
     for language, root_meta in zip(docs_languages, root_metas):
         root_meta = json.loads(root_meta)
-        temp_urls = {
-            (
-                root_meta[meta]
-                if not isinstance(root_meta[meta], dict)
-                else root_meta[meta].get("title", meta)
-            ): (
-                {root_meta[meta].get("title", meta): root_meta[meta].get("href", "")}
-                if isinstance(root_meta[meta], dict)
-                else {}
-            )
-            for meta in root_meta
-        }
+        temp_urls = build_temp_urls(root_meta)
 
         for url in root.findall(".//{http://www.sitemaps.org/schemas/sitemap/0.9}loc"):
             if language["locale"] in url.text:
@@ -90,7 +122,9 @@ def process_url(params):
     title = get_docs_content(url)
     for meta in root_meta:
         if meta in url:
-            temp_urls[root_meta[meta]][title] = url
+            label = category_label(meta, root_meta[meta])
+            if label is not None and label in temp_urls:
+                temp_urls[label][title] = url
             break
 
 
