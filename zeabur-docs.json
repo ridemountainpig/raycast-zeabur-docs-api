@@ -1,55 +1,121 @@
 {
     "en-US": {
-        "Introduction": {},
         "Get Started": {
+            "Best Practices": "https://zeabur.com/docs/en-US/get-started/best-practices",
+            "FAQ & Support": "https://zeabur.com/docs/en-US/get-started/faq-support",
+            "Get Help": "https://zeabur.com/docs/en-US/get-started/faq-support/help",
             "Get Started": "https://zeabur.com/docs/en-US/wonder-mesh/get-started",
-            "Getting Started": "https://zeabur.com/docs/en-US/get-started"
+            "Get Started & Quick Guides": "https://zeabur.com/docs/en-US/get-started",
+            "How to Deploy Your Bolt.new Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/get-started/migration/bolt",
+            "How to Deploy Your Lovable.dev Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/get-started/migration/lovable",
+            "How to Deploy Your Replit Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/get-started/migration/replit",
+            "How to Export Your Google AI Studio Project to GitHub": "https://zeabur.com/docs/en-US/get-started/migration/aistudio",
+            "How to Migrate from Emergent to Zeabur": "https://zeabur.com/docs/en-US/get-started/migration/emergent",
+            "Migrate from Fly.io": "https://zeabur.com/docs/en-US/get-started/migration/fly-io",
+            "Migrate from Heroku": "https://zeabur.com/docs/en-US/get-started/migration/heroku",
+            "Migrate from Railway": "https://zeabur.com/docs/en-US/get-started/migration/railway",
+            "Migrate from Vercel": "https://zeabur.com/docs/en-US/get-started/migration/vercel",
+            "Platform Overview": "https://zeabur.com/docs/en-US/get-started/platform-overview",
+            "Quick Start": "https://zeabur.com/docs/en-US/get-started/quick-start",
+            "Start by Need": "https://zeabur.com/docs/en-US/get-started/start-by-need",
+            "Verify Your Account": "https://zeabur.com/docs/en-US/get-started/faq-support/verify"
+        },
+        "Servers": {
+            "Dedicated Server": "https://zeabur.com/docs/en-US/dedicated-server",
+            "Firewall & Security Settings": "https://zeabur.com/docs/en-US/dedicated-server/firewall",
+            "Maintain your Dedicated Server": "https://zeabur.com/docs/en-US/dedicated-server/operate",
+            "Purchase a Server from Zeabur": "https://zeabur.com/docs/en-US/dedicated-server/purchase",
+            "Register Dedicated Server": "https://zeabur.com/docs/en-US/dedicated-server/register",
+            "Shared Cluster (Being Phased Out)": "https://zeabur.com/docs/en-US/dedicated-server/shared-cluster"
         },
         "Deploy": {
-            "Chrome Extension": "https://zeabur.com/docs/en-US/deploy/deploy-with-chrome-extension",
-            "Copy Project": "https://zeabur.com/docs/en-US/deploy/copy-project",
+            "404": "https://zeabur.com/docs/en-US/deploy/deploy-with-chrome-extension",
+            "Builds": "https://zeabur.com/docs/en-US/deploy/how-deploys-work",
+            "Copy Project": "https://zeabur.com/docs/en-US/deploy/manage/copy-project",
+            "Core Deployment & Services": "https://zeabur.com/docs/en-US/deploy",
             "Create Project": "https://zeabur.com/docs/en-US/deploy/create-project",
+            "Create Projects & Services": "https://zeabur.com/docs/en-US/deploy/create",
             "Create Service": "https://zeabur.com/docs/en-US/deploy/create-service",
-            "Custom Docker image": "https://zeabur.com/docs/en-US/deploy/customize-prebuilt",
+            "Custom Docker image": "https://zeabur.com/docs/en-US/deploy/methods/custom-docker-image",
             "Custom Root Directory": "https://zeabur.com/docs/en-US/deploy/root-directory",
-            "Deploy Button": "https://zeabur.com/docs/en-US/deploy/deploy-button",
-            "Deploy Gemini Canvas Projects": "https://zeabur.com/docs/en-US/deploy/deploy-with-chrome-extension/gemini",
-            "Deploy Service in Zeabur CLI": "https://zeabur.com/docs/en-US/deploy/deploy-in-cli",
-            "Deploying Services with Raycast Extension": "https://zeabur.com/docs/en-US/deploy/deploy-with-raycast-extension",
-            "Deploying Services with VS Code Extension": "https://zeabur.com/docs/en-US/deploy/deploy-with-vscode-extension",
-            "Deploying with Dockerfile": "https://zeabur.com/docs/en-US/deploy/dockerfile",
+            "Deploy Button": "https://zeabur.com/docs/en-US/deploy/methods/deploy-button",
+            "Deploy Gemini Canvas Projects": "https://zeabur.com/docs/en-US/deploy/methods/deploy-with-chrome-extension/gemini",
+            "Deploying Services with Raycast Extension": "https://zeabur.com/docs/en-US/deploy/methods/deploy-with-raycast-extension",
+            "Deploying Services with VS Code Extension": "https://zeabur.com/docs/en-US/deploy/methods/deploy-with-vscode-extension",
+            "Deploying with Dockerfile": "https://zeabur.com/docs/en-US/deploy/methods/dockerfile",
+            "Deployment Management": "https://zeabur.com/docs/en-US/operations/deployment",
+            "Deployment Methods": "https://zeabur.com/docs/en-US/deploy/methods",
+            "Domain Registration": "https://zeabur.com/docs/en-US/deploy/networking/domain-registration",
             "Execute Commands": "https://zeabur.com/docs/en-US/deploy/command-execution",
-            "Export Project": "https://zeabur.com/docs/en-US/deploy/export-project",
-            "GitHub Integration": "https://zeabur.com/docs/en-US/deploy/github",
+            "Export Project": "https://zeabur.com/docs/en-US/deploy/manage/export-project",
+            "GitHub Integration": "https://zeabur.com/docs/en-US/deploy/methods/github-integration",
+            "High Availability Architecture": "https://zeabur.com/docs/en-US/deploy/networking/high-availability",
             "Large File Handling": "https://zeabur.com/docs/en-US/deploy/large-files",
-            "Setting Environment Variables": "https://zeabur.com/docs/en-US/deploy/variables",
+            "Maintain & Update Templates": "https://zeabur.com/docs/en-US/deploy/templates/maintain-template",
+            "Migrate Project": "https://zeabur.com/docs/en-US/deploy/migrate-project",
+            "Networking": "https://zeabur.com/docs/en-US/deploy/networking",
+            "Private Networking": "https://zeabur.com/docs/en-US/deploy/private-networking",
+            "Project Management": "https://zeabur.com/docs/en-US/deploy/manage",
+            "Public Networking": "https://zeabur.com/docs/en-US/deploy/public-networking",
+            "Rollbacks": "https://zeabur.com/docs/en-US/operations/deployment/rollbacks",
+            "Service Configuration": "https://zeabur.com/docs/en-US/deploy/config",
+            "Setting Environment Variables": "https://zeabur.com/docs/en-US/deploy/environment-variables",
+            "Suspend Service": "https://zeabur.com/docs/en-US/operations/deployment/suspend-service",
+            "Template Catalog": "https://zeabur.com/docs/en-US/deploy/templates/template-catalog",
+            "Template Format": "https://zeabur.com/docs/en-US/deploy/templates/template-format",
             "Update Image Reference of the Docker Service": "https://zeabur.com/docs/en-US/deploy/update-image-reference",
             "Watch Paths": "https://zeabur.com/docs/en-US/deploy/watch-paths"
         },
-        "Template": {
-            "Creating Templates from YAML": "https://zeabur.com/docs/en-US/template/template-in-code",
-            "Fork Code from Template Services": "https://zeabur.com/docs/en-US/template/fork-git-repo-from-template"
+        "Operations": {
+            "Backup & Restore": "https://zeabur.com/docs/en-US/operations/backup-restore",
+            "Config Editor": "https://zeabur.com/docs/en-US/operations/data/config-file-management",
+            "Data Management": "https://zeabur.com/docs/en-US/operations/data",
+            "File Management": "https://zeabur.com/docs/en-US/operations/file-management",
+            "Health Checks": "https://zeabur.com/docs/en-US/operations/monitoring/health-checks",
+            "Invite Member": "https://zeabur.com/docs/en-US/operations/team/invite-member",
+            "Logging & Streaming": "https://zeabur.com/docs/en-US/operations/logging",
+            "Metrics": "https://zeabur.com/docs/en-US/operations/metrics",
+            "Monitoring": "https://zeabur.com/docs/en-US/operations/monitoring",
+            "Operations & Developer Tools": "https://zeabur.com/docs/en-US/operations",
+            "Project Budget": "https://zeabur.com/docs/en-US/operations/resources/project-budget",
+            "Resource Configuration": "https://zeabur.com/docs/en-US/operations/resources",
+            "Rollbacks": "https://zeabur.com/docs/en-US/operations/rollbacks",
+            "Scaling": "https://zeabur.com/docs/en-US/operations/scaling",
+            "Security Report": "https://zeabur.com/docs/en-US/operations/team/security-report",
+            "Service Usage": "https://zeabur.com/docs/en-US/operations/service-usage",
+            "Suspend Service": "https://zeabur.com/docs/en-US/operations/suspend-service",
+            "Team Management": "https://zeabur.com/docs/en-US/operations/team",
+            "Volumes": "https://zeabur.com/docs/en-US/operations/volumes"
         },
-        "Template Catalog": {
-            "Template Catalog": "https://zeabur.com/templates"
-        },
-        "Zeabur AI Hub": {
+        "AI Hub": {
+            "AI Hub": "https://zeabur.com/docs/en-US/ai-hub",
             "Using Zeabur AI Hub in SillyTavern": "https://zeabur.com/docs/en-US/ai-hub/sillytavern-integration",
-            "Using Zeabur AI Hub in n8n": "https://zeabur.com/docs/en-US/ai-hub/n8n-integration",
-            "Zeabur AI Hub": "https://zeabur.com/docs/en-US/ai-hub"
+            "Using Zeabur AI Hub in n8n": "https://zeabur.com/docs/en-US/ai-hub/n8n-integration"
         },
-        "Zeabur Email": {
-            "API Key Management": "https://zeabur.com/docs/en-US/email/api-keys",
+        "Domain": {
+            "DNS Records": "https://zeabur.com/docs/en-US/domain/dns",
             "Domain Management": "https://zeabur.com/docs/en-US/email/domains",
+            "Pre-ICP-Filing Subdomain": "https://zeabur.com/docs/en-US/networking/pre-icp-subdomain",
+            "Register a Domain": "https://zeabur.com/docs/en-US/domain/register",
+            "Registrant Profiles": "https://zeabur.com/docs/en-US/domain/profiles"
+        },
+        "Email": {
+            "API Key Management": "https://zeabur.com/docs/en-US/email/api-keys",
+            "Email": "https://zeabur.com/docs/en-US/email",
             "Quick Start": "https://zeabur.com/docs/en-US/email/quick-start",
             "REST API Reference": "https://zeabur.com/docs/en-US/email/rest-api",
-            "Webhook Configuration": "https://zeabur.com/docs/en-US/email/webhooks",
-            "Zeabur Email": "https://zeabur.com/docs/en-US/email"
+            "Webhook Configuration": "https://zeabur.com/docs/en-US/email/webhooks"
         },
         "Wonder Mesh": {
             "Uninstall Wonder Mesh": "https://zeabur.com/docs/en-US/wonder-mesh/uninstall",
             "What Does the Install Script Do?": "https://zeabur.com/docs/en-US/wonder-mesh/install-script-details",
             "Wonder Mesh": "https://zeabur.com/docs/en-US/wonder-mesh"
+        },
+        "Templates": {
+            "Maintain & Update Templates": "https://zeabur.com/docs/en-US/template/maintain-template",
+            "Template Catalog": "https://zeabur.com/docs/en-US/template/template-catalog",
+            "Template Format": "https://zeabur.com/docs/en-US/template/template-in-code",
+            "Templates": "https://zeabur.com/docs/en-US/template"
         },
         "Integrations": {
             "Connect AI IDE": "https://zeabur.com/docs/en-US/integrations/insforge/connect-ai-ide",
@@ -58,19 +124,15 @@
             "Quick Start": "https://zeabur.com/docs/en-US/integrations/insforge/quick-start",
             "Usage & Billing": "https://zeabur.com/docs/en-US/integrations/insforge/usage-and-billing"
         },
-        "Data Management": {
-            "Backup your Service": "https://zeabur.com/docs/en-US/data-management/backup",
-            "Config Editor": "https://zeabur.com/docs/en-US/data-management/config-edit",
-            "File Management": "https://zeabur.com/docs/en-US/data-management/file-management",
-            "Restore Backup": "https://zeabur.com/docs/en-US/data-management/restore",
-            "Volumes": "https://zeabur.com/docs/en-US/data-management/volumes"
+        "Developer Tools": {
+            "Claude Code Skills": "https://zeabur.com/docs/en-US/developer/claude-code-skills",
+            "Create and Use API Keys": "https://zeabur.com/docs/en-US/developer/api-keys",
+            "Developer Resources": "https://zeabur.com/docs/en-US/developer",
+            "Public API": "https://zeabur.com/docs/en-US/developer/public-api",
+            "WebSocket Connection Guide": "https://zeabur.com/docs/en-US/developer/websocket-guide",
+            "Zeabur CLI": "https://zeabur.com/docs/en-US/developer/cli"
         },
-        "Networking": {
-            "High Availability Architecture": "https://zeabur.com/docs/en-US/networking/high-availability",
-            "Private Networking": "https://zeabur.com/docs/en-US/networking/private",
-            "Public Networking": "https://zeabur.com/docs/en-US/networking/public"
-        },
-        "Guides": {
+        "Frameworks": {
             "Bun": "https://zeabur.com/docs/en-US/guides/bun",
             "Deploy .NET App": "https://zeabur.com/docs/en-US/guides/dotnet",
             "Deploy Astro on Zeabur": "https://zeabur.com/docs/en-US/guides/nodejs/astro",
@@ -102,106 +164,240 @@
             "Deploying PHP apps": "https://zeabur.com/docs/en-US/guides/php",
             "Deploying Reflex Project": "https://zeabur.com/docs/en-US/guides/python/reflex",
             "Deploying Rust Applications": "https://zeabur.com/docs/en-US/guides/rust",
+            "Frameworks": "https://zeabur.com/docs/en-US/guides",
             "Hono": "https://zeabur.com/docs/en-US/guides/bun/hono",
             "Hugo": "https://zeabur.com/docs/en-US/guides/static/hugo",
             "MkDocs": "https://zeabur.com/docs/en-US/guides/static/mkdocs",
             "Symfony Deployment Guide": "https://zeabur.com/docs/en-US/guides/php/symfony"
         },
-        "Project Manage": {
-            "Invite Member": "https://zeabur.com/docs/en-US/manage/invite",
-            "Project Budget": "https://zeabur.com/docs/en-US/manage/budget",
-            "Security Report": "https://zeabur.com/docs/en-US/manage/security-report",
-            "Service Usage": "https://zeabur.com/docs/en-US/manage/metric"
+        "Pricing": {
+            "Contribution Reward Program": "https://zeabur.com/docs/en-US/pricing/reward",
+            "Dev Plan (Developer Plan)": "https://zeabur.com/docs/en-US/pricing/dev-plan",
+            "Free Plan": "https://zeabur.com/docs/en-US/pricing/free-plan",
+            "Plans": "https://zeabur.com/docs/en-US/pricing/plans",
+            "Pricing": "https://zeabur.com/docs/en-US/pricing",
+            "Redeem Prepaid Card": "https://zeabur.com/docs/en-US/pricing/redeem",
+            "Referral Program": "https://zeabur.com/docs/en-US/pricing/referral",
+            "Sponsor": "https://zeabur.com/docs/en-US/pricing/sponsor",
+            "Subscription": "https://zeabur.com/docs/en-US/pricing/subscription",
+            "Team Plan": "https://zeabur.com/docs/en-US/pricing/team-plan"
         },
-        "Legal and Policies": {
-            "Abuse Reporting Guidelines": "https://zeabur.com/docs/en-US/legal/abuse-report",
-            "Fair use Guidelines": "https://zeabur.com/docs/en-US/legal/fair-use-guideline",
-            "Privacy Policy": "https://zeabur.com/docs/en-US/legal/privacy",
-            "Terms of Service": "https://zeabur.com/docs/en-US/legal/terms"
+        "Subscription & Billing": {
+            "Free Quota": "https://zeabur.com/docs/en-US/subscription/free-quota",
+            "Invoicing": "https://zeabur.com/docs/en-US/subscription/invoicing",
+            "Payment Methods": "https://zeabur.com/docs/en-US/subscription/payment-methods",
+            "Refund Policy": "https://zeabur.com/docs/en-US/subscription/refund-policy",
+            "Subscription": "https://zeabur.com/docs/en-US/subscription"
         },
-        "Payments and Billing": {
-            "Plans": "https://zeabur.com/docs/en-US/billing/plans",
-            "Pricing": "https://zeabur.com/docs/en-US/billing/pricing",
-            "Redeem Prepaid Card": "https://zeabur.com/docs/en-US/billing/redeem",
-            "Sponsor": "https://zeabur.com/docs/en-US/billing/sponsor",
-            "Subscription": "https://zeabur.com/docs/en-US/billing/subscription"
+        "Rewards & Referrals": {
+            "Contribution Reward Program": "https://zeabur.com/docs/en-US/rewards/contribution",
+            "Partner Program": "https://zeabur.com/docs/en-US/rewards/partner",
+            "Redeem Prepaid Card": "https://zeabur.com/docs/en-US/rewards/redeem-card",
+            "Referral Program": "https://zeabur.com/docs/en-US/rewards/referral",
+            "Rewards & Referrals": "https://zeabur.com/docs/en-US/rewards",
+            "Sponsor": "https://zeabur.com/docs/en-US/rewards/sponsor"
         },
-        "Community": {
-            "Community Forum": "https://zeabur.com/docs/en-US/community/forum",
-            "Contribution Reward Program": "https://zeabur.com/docs/en-US/community/contribution",
-            "Get Help": "https://zeabur.com/docs/en-US/community/help",
-            "Referral Rewards": "https://zeabur.com/docs/en-US/community/referral",
-            "Verify Your Account": "https://zeabur.com/docs/en-US/community/verify"
+        "Partner Program": {
+            "Education Advocacy": "https://zeabur.com/docs/en-US/partner/education",
+            "Partner Program": "https://zeabur.com/docs/en-US/partner",
+            "Sales Partner": "https://zeabur.com/docs/en-US/partner/sales-partner"
+        },
+        "Privacy Policy": {
+            "Privacy Policy": "https://zeabur.com/docs/en-US/privacy-policy"
+        },
+        "Compliance": {
+            "Abuse Reporting Guidelines": "https://zeabur.com/docs/en-US/compliance/abuse-report",
+            "Fair use Guidelines": "https://zeabur.com/docs/en-US/compliance/fair-use-guidelines"
+        },
+        "Terms of Service": {
+            "Terms of Service": "https://zeabur.com/docs/en-US/terms-of-service"
         },
         "Advanced": {
             "Builds": "https://zeabur.com/docs/en-US/advanced/builds"
         },
-        "Developer": {
-            "Create and Use API Keys": "https://zeabur.com/docs/en-US/developer/use-api-key",
-            "Public API": "https://zeabur.com/docs/en-US/developer/public-api",
-            "WebSocket Connection Guide": "https://zeabur.com/docs/en-US/developer/websocket-guide"
+        "Billing": {
+            "Pricing": "https://zeabur.com/docs/en-US/billing-legal",
+            "Redeem Prepaid Card": "https://zeabur.com/docs/en-US/billing/redeem",
+            "Sponsor": "https://zeabur.com/docs/en-US/billing/sponsor"
         },
-        "Import Guides": {
+        "Billing Legal": {},
+        "Community": {
+            "Contribution Reward Program": "https://zeabur.com/docs/en-US/community/contribution",
+            "FAQ & Support": "https://zeabur.com/docs/en-US/community/forum",
+            "Get Help": "https://zeabur.com/docs/en-US/community/help",
+            "Referral Program": "https://zeabur.com/docs/en-US/community/referral",
+            "Verify Your Account": "https://zeabur.com/docs/en-US/community/verify"
+        },
+        "Data Management": {
+            "Backup your Service": "https://zeabur.com/docs/en-US/data-management/backup",
+            "Config Editor": "https://zeabur.com/docs/en-US/data-management/config-edit",
+            "Data Management": "https://zeabur.com/docs/en-US/data-management",
+            "File Management": "https://zeabur.com/docs/en-US/data-management/file-management",
+            "Restore Backup": "https://zeabur.com/docs/en-US/data-management/restore",
+            "Volumes": "https://zeabur.com/docs/en-US/data-management/volumes"
+        },
+        "Legal": {
+            "Fair use Guidelines": "https://zeabur.com/docs/en-US/legal/fair-use-guideline",
+            "Privacy Policy": "https://zeabur.com/docs/en-US/legal/privacy",
+            "Terms of Service": "https://zeabur.com/docs/en-US/legal/terms"
+        },
+        "Monitoring": {
+            "Health Checks": "https://zeabur.com/docs/en-US/monitoring/health-checks",
+            "Logging & Streaming": "https://zeabur.com/docs/en-US/monitoring/logging",
+            "Metrics": "https://zeabur.com/docs/en-US/monitoring/metrics",
+            "Monitoring": "https://zeabur.com/docs/en-US/monitoring"
+        },
+        "Networking": {
+            "High Availability Architecture": "https://zeabur.com/docs/en-US/networking/high-availability",
+            "Networking": "https://zeabur.com/docs/en-US/networking",
+            "Private Networking": "https://zeabur.com/docs/en-US/networking/private",
+            "Public Networking": "https://zeabur.com/docs/en-US/networking/public"
+        },
+        "Manage": {
+            "Invite Member": "https://zeabur.com/docs/en-US/manage/invite",
+            "Metrics": "https://zeabur.com/docs/en-US/manage/metric",
+            "Project Budget": "https://zeabur.com/docs/en-US/manage/budget",
+            "Security Report": "https://zeabur.com/docs/en-US/manage/security-report"
+        },
+        "Infrastructure": {
+            "Core Deployment & Services": "https://zeabur.com/docs/en-US/infrastructure"
+        },
+        "Mesh": {
+            "Zeabur Mesh": "https://zeabur.com/docs/en-US/mesh"
+        },
+        "Tutorials": {
+            "Get Started & Quick Guides": "https://zeabur.com/docs/en-US/tutorials",
+            "GitHub Integration": "https://zeabur.com/docs/en-US/tutorials/github",
             "How to Deploy Your Bolt.new Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/tutorials/bolt",
             "How to Deploy Your Lovable.dev Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/tutorials/lovable",
             "How to Deploy Your Replit Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/tutorials/replit",
-            "How to Deploy Your v0 Project to the Web with Zeabur": "https://zeabur.com/docs/en-US/tutorials/v0",
-            "How to Deploy a GitHub Repository with Zeabur": "https://zeabur.com/docs/en-US/tutorials/github",
             "How to Export Your Google AI Studio Project to GitHub": "https://zeabur.com/docs/en-US/tutorials/aistudio",
             "How to Migrate from Emergent to Zeabur": "https://zeabur.com/docs/en-US/tutorials/emergent",
-            "Import Guides": "https://zeabur.com/docs/en-US/tutorials"
-        }
+            "Migrate from Vercel": "https://zeabur.com/docs/en-US/tutorials/v0"
+        },
+        "Mcp": {
+            "Zeabur MCP Server": "https://zeabur.com/docs/en-US/mcp"
+        },
+        "Index": {}
     },
     "zh-TW": {
-        "基本介紹": {},
-        "快速開始": {
-            "快速開始": "https://zeabur.com/docs/zh-TW/wonder-mesh/get-started"
+        "入門": {
+            "依需求開始": "https://zeabur.com/docs/zh-TW/get-started/start-by-need",
+            "入門與快速指南": "https://zeabur.com/docs/zh-TW/get-started",
+            "在社群論壇驗證你的帳戶": "https://zeabur.com/docs/zh-TW/get-started/faq-support/verify",
+            "如何使用 Zeabur 將 Bolt.new 專案部署到網路": "https://zeabur.com/docs/zh-TW/get-started/migration/bolt",
+            "如何使用 Zeabur 將 Lovable.dev 專案部署到網路": "https://zeabur.com/docs/zh-TW/get-started/migration/lovable",
+            "如何使用 Zeabur 將 Replit 專案部署到網路": "https://zeabur.com/docs/zh-TW/get-started/migration/replit",
+            "如何將 Google AI Studio 專案匯出到 GitHub": "https://zeabur.com/docs/zh-TW/get-started/migration/aistudio",
+            "如何從 Emergent 遷移到 Zeabur": "https://zeabur.com/docs/zh-TW/get-started/migration/emergent",
+            "尋求幫助": "https://zeabur.com/docs/zh-TW/get-started/faq-support/help",
+            "常見問答與支援": "https://zeabur.com/docs/zh-TW/get-started/faq-support",
+            "平台概覽": "https://zeabur.com/docs/zh-TW/get-started/platform-overview",
+            "從 Fly.io 遷移": "https://zeabur.com/docs/zh-TW/get-started/migration/fly-io",
+            "從 Heroku 遷移": "https://zeabur.com/docs/zh-TW/get-started/migration/heroku",
+            "從 Railway 遷移": "https://zeabur.com/docs/zh-TW/get-started/migration/railway",
+            "從 Vercel 遷移": "https://zeabur.com/docs/zh-TW/get-started/migration/vercel",
+            "快速入門": "https://zeabur.com/docs/zh-TW/get-started/quick-start",
+            "快速開始": "https://zeabur.com/docs/zh-TW/wonder-mesh/get-started",
+            "最佳實踐": "https://zeabur.com/docs/zh-TW/get-started/best-practices"
+        },
+        "伺服器": {
+            "共享叢集（即將停止服務）": "https://zeabur.com/docs/zh-TW/dedicated-server/shared-cluster",
+            "專用伺服器": "https://zeabur.com/docs/zh-TW/dedicated-server",
+            "從 Zeabur 購買主機": "https://zeabur.com/docs/zh-TW/dedicated-server/purchase",
+            "維護專用伺服器": "https://zeabur.com/docs/zh-TW/dedicated-server/operate",
+            "註冊專用伺服器": "https://zeabur.com/docs/zh-TW/dedicated-server/register",
+            "防火牆與安全設定": "https://zeabur.com/docs/zh-TW/dedicated-server/firewall"
         },
         "部署": {
-            "Chrome 插件": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-chrome-extension",
-            "Dockerfile 部署": "https://zeabur.com/docs/zh-TW/deploy/dockerfile",
-            "一鍵部署": "https://zeabur.com/docs/zh-TW/deploy/deploy-button",
-            "使用 CLI 部署服務": "https://zeabur.com/docs/zh-TW/deploy/deploy-in-cli",
-            "使用 Raycast 插件部署服務": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-raycast-extension",
-            "使用 VS Code 插件部署服務": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-vscode-extension",
-            "匯出專案": "https://zeabur.com/docs/zh-TW/deploy/export-project",
-            "在 Gemini Canvas 使用 Chrome 插件部署": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-chrome-extension/gemini",
-            "執行命令": "https://zeabur.com/docs/zh-TW/deploy/command-execution",
+            "404": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-chrome-extension",
+            "Dockerfile 部署": "https://zeabur.com/docs/zh-TW/deploy/methods/dockerfile",
+            "Raycast 擴充功能": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-with-raycast-extension",
+            "VS Code / Cursor 擴充功能": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-with-vscode-extension",
+            "一鍵部署按鈕": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-button",
+            "公網存取": "https://zeabur.com/docs/zh-TW/deploy/public-networking",
+            "匯出專案": "https://zeabur.com/docs/zh-TW/deploy/manage/export-project",
+            "在 Gemini Canvas 使用 Chrome 擴充功能部署": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-with-chrome-extension/gemini",
+            "執行命令": "https://zeabur.com/docs/zh-TW/deploy/config/command-execution",
             "大型檔案處理": "https://zeabur.com/docs/zh-TW/deploy/large-files",
+            "專案管理": "https://zeabur.com/docs/zh-TW/deploy/manage",
             "建立專案": "https://zeabur.com/docs/zh-TW/deploy/create-project",
+            "建立專案與服務": "https://zeabur.com/docs/zh-TW/deploy/create",
             "建立服務": "https://zeabur.com/docs/zh-TW/deploy/create-service",
-            "整合 GitHub": "https://zeabur.com/docs/zh-TW/deploy/github",
+            "建置原理": "https://zeabur.com/docs/zh-TW/deploy/how-deploys-work",
+            "搬遷專案": "https://zeabur.com/docs/zh-TW/deploy/migrate-project",
+            "整合 GitHub": "https://zeabur.com/docs/zh-TW/deploy/methods/github-integration",
+            "暫停服務": "https://zeabur.com/docs/zh-TW/operations/deployment/suspend-service",
             "更新 Docker 服務的映像引用": "https://zeabur.com/docs/zh-TW/deploy/update-image-reference",
-            "環境變數設定": "https://zeabur.com/docs/zh-TW/deploy/variables",
-            "自訂 Docker 映像檔": "https://zeabur.com/docs/zh-TW/deploy/customize-prebuilt",
+            "服務內網": "https://zeabur.com/docs/zh-TW/deploy/private-networking",
+            "服務設定": "https://zeabur.com/docs/zh-TW/deploy/config",
+            "核心部署與服務": "https://zeabur.com/docs/zh-TW/deploy",
+            "模板格式說明": "https://zeabur.com/docs/zh-TW/deploy/templates/template-format",
+            "模板目錄": "https://zeabur.com/docs/zh-TW/deploy/templates/template-catalog",
+            "版本還原": "https://zeabur.com/docs/zh-TW/operations/deployment/rollbacks",
+            "環境變數設定": "https://zeabur.com/docs/zh-TW/deploy/environment-variables",
+            "維護與更新模板": "https://zeabur.com/docs/zh-TW/deploy/templates/maintain-template",
+            "網域註冊": "https://zeabur.com/docs/zh-TW/deploy/networking/domain-registration",
+            "網路": "https://zeabur.com/docs/zh-TW/deploy/networking",
+            "自訂 Docker 映像檔": "https://zeabur.com/docs/zh-TW/deploy/methods/custom-docker-image",
             "自訂根目錄": "https://zeabur.com/docs/zh-TW/deploy/root-directory",
-            "複製專案": "https://zeabur.com/docs/zh-TW/deploy/copy-project",
-            "觸發路徑": "https://zeabur.com/docs/zh-TW/deploy/watch-paths"
+            "複製專案": "https://zeabur.com/docs/zh-TW/deploy/manage/copy-project",
+            "觸發路徑": "https://zeabur.com/docs/zh-TW/deploy/watch-paths",
+            "部署方式": "https://zeabur.com/docs/zh-TW/deploy/methods",
+            "部署管理": "https://zeabur.com/docs/zh-TW/operations/deployment",
+            "高可用性架構": "https://zeabur.com/docs/zh-TW/deploy/networking/high-availability"
         },
-        "模板": {
-            "從 YAML 建立模板": "https://zeabur.com/docs/zh-TW/template/template-in-code",
-            "從模板服務 Fork 程式碼": "https://zeabur.com/docs/zh-TW/template/fork-git-repo-from-template"
+        "維運": {
+            "404": "https://zeabur.com/docs/zh-TW/operations/maintenance-mode",
+            "使用量分析": "https://zeabur.com/docs/zh-TW/operations/service-usage",
+            "健康檢查": "https://zeabur.com/docs/zh-TW/operations/monitoring/health-checks",
+            "備份與還原": "https://zeabur.com/docs/zh-TW/operations/backup-restore",
+            "團隊管理": "https://zeabur.com/docs/zh-TW/operations/team",
+            "安全報告": "https://zeabur.com/docs/zh-TW/operations/team/security-report",
+            "專案預算": "https://zeabur.com/docs/zh-TW/operations/project-budget",
+            "持久儲存空間": "https://zeabur.com/docs/zh-TW/operations/volumes",
+            "擴展": "https://zeabur.com/docs/zh-TW/operations/scaling",
+            "日誌與串流": "https://zeabur.com/docs/zh-TW/operations/monitoring/logging",
+            "暫停服務": "https://zeabur.com/docs/zh-TW/operations/suspend-service",
+            "檔案管理": "https://zeabur.com/docs/zh-TW/operations/file-management",
+            "版本還原": "https://zeabur.com/docs/zh-TW/operations/rollbacks",
+            "監控": "https://zeabur.com/docs/zh-TW/operations/monitoring",
+            "監控指標": "https://zeabur.com/docs/zh-TW/operations/metrics",
+            "編輯設定檔": "https://zeabur.com/docs/zh-TW/operations/config-file-management",
+            "資料管理": "https://zeabur.com/docs/zh-TW/operations/data",
+            "資源配置": "https://zeabur.com/docs/zh-TW/operations/resources",
+            "運營與開發者工具": "https://zeabur.com/docs/zh-TW/operations",
+            "邀請成員": "https://zeabur.com/docs/zh-TW/operations/team/invite-member"
         },
-        "Zeabur 模板目錄": {
-            "Zeabur 模板目錄": "https://zeabur.com/templates"
-        },
-        "Zeabur AI Hub": {
-            "Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub",
+        "AI Hub": {
+            "AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub",
             "在 SillyTavern 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub/sillytavern-integration",
             "在 n8n 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub/n8n-integration"
         },
-        "Zeabur Email": {
+        "網域": {
+            "DNS 記錄": "https://zeabur.com/docs/zh-TW/domain/dns",
+            "網域管理": "https://zeabur.com/docs/zh-TW/email/domains",
+            "註冊人資料": "https://zeabur.com/docs/zh-TW/domain/profiles",
+            "註冊網域": "https://zeabur.com/docs/zh-TW/domain/register",
+            "預備案子域名": "https://zeabur.com/docs/zh-TW/networking/pre-icp-subdomain"
+        },
+        "Email": {
             "API 金鑰管理": "https://zeabur.com/docs/zh-TW/email/api-keys",
+            "Email": "https://zeabur.com/docs/zh-TW/email",
             "REST API 參考": "https://zeabur.com/docs/zh-TW/email/rest-api",
             "Webhook 設定": "https://zeabur.com/docs/zh-TW/email/webhooks",
-            "Zeabur Email": "https://zeabur.com/docs/zh-TW/email",
-            "快速開始": "https://zeabur.com/docs/zh-TW/email/quick-start",
-            "網域管理": "https://zeabur.com/docs/zh-TW/email/domains"
+            "快速開始": "https://zeabur.com/docs/zh-TW/email/quick-start"
         },
         "Wonder Mesh": {
             "Wonder Mesh": "https://zeabur.com/docs/zh-TW/wonder-mesh",
             "安裝腳本做了什麼？": "https://zeabur.com/docs/zh-TW/wonder-mesh/install-script-details",
             "解除安裝 Wonder Mesh": "https://zeabur.com/docs/zh-TW/wonder-mesh/uninstall"
+        },
+        "模板": {
+            "模板": "https://zeabur.com/docs/zh-TW/template",
+            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-in-code",
+            "模板目錄": "https://zeabur.com/docs/zh-TW/template/template-catalog",
+            "維護與更新模板": "https://zeabur.com/docs/zh-TW/template/maintain-template"
         },
         "整合": {
             "InsForge": "https://zeabur.com/docs/zh-TW/integrations/insforge/overview",
@@ -210,19 +406,15 @@
             "整合服務": "https://zeabur.com/docs/zh-TW/integrations",
             "連接 AI IDE": "https://zeabur.com/docs/zh-TW/integrations/insforge/connect-ai-ide"
         },
-        "資料管理": {
-            "備份服務": "https://zeabur.com/docs/zh-TW/data-management/backup",
-            "持久儲存空間": "https://zeabur.com/docs/zh-TW/data-management/volumes",
-            "檔案管理": "https://zeabur.com/docs/zh-TW/data-management/file-management",
-            "編輯設定檔": "https://zeabur.com/docs/zh-TW/data-management/config-edit",
-            "還原備份": "https://zeabur.com/docs/zh-TW/data-management/restore"
+        "開發者工具": {
+            "Claude Code Skills": "https://zeabur.com/docs/zh-TW/developer/claude-code-skills",
+            "WebSocket 連線指南": "https://zeabur.com/docs/zh-TW/developer/websocket-guide",
+            "Zeabur CLI": "https://zeabur.com/docs/zh-TW/developer/cli",
+            "建立和使用 API 金鑰": "https://zeabur.com/docs/zh-TW/developer/api-keys",
+            "開放 API": "https://zeabur.com/docs/zh-TW/developer/public-api",
+            "開發者資源": "https://zeabur.com/docs/zh-TW/developer"
         },
-        "網路": {
-            "公網存取": "https://zeabur.com/docs/zh-TW/networking/public",
-            "服務內網": "https://zeabur.com/docs/zh-TW/networking/private",
-            "高可用性架構": "https://zeabur.com/docs/zh-TW/networking/high-availability"
-        },
-        "教學": {
+        "語言與框架": {
             "Bun": "https://zeabur.com/docs/zh-TW/guides/bun",
             "Hono": "https://zeabur.com/docs/zh-TW/guides/bun/hono",
             "Hugo": "https://zeabur.com/docs/zh-TW/guides/static/hugo",
@@ -231,6 +423,7 @@
             "在 Zeabur 上部署 Astro": "https://zeabur.com/docs/zh-TW/guides/nodejs/astro",
             "在 Zeabur 上部署 Flutter": "https://zeabur.com/docs/zh-TW/guides/dart/flutter",
             "在 Zeabur 上部署 Waku": "https://zeabur.com/docs/zh-TW/guides/nodejs/waku",
+            "語言與框架": "https://zeabur.com/docs/zh-TW/guides",
             "部署 .NET 專案": "https://zeabur.com/docs/zh-TW/guides/dotnet",
             "部署 Deno 專案": "https://zeabur.com/docs/zh-TW/guides/deno/typescript",
             "部署 Django 專案": "https://zeabur.com/docs/zh-TW/guides/python/django",
@@ -259,96 +452,220 @@
             "部署 Vite": "https://zeabur.com/docs/zh-TW/guides/nodejs/vite",
             "部署靜態網頁": "https://zeabur.com/docs/zh-TW/guides/static"
         },
-        "專案管理": {
-            "使用量分析": "https://zeabur.com/docs/zh-TW/manage/metric",
-            "安全報告": "https://zeabur.com/docs/zh-TW/manage/security-report",
-            "專案預算": "https://zeabur.com/docs/zh-TW/manage/budget",
-            "邀請成員": "https://zeabur.com/docs/zh-TW/manage/invite"
+        "定價": {
+            "Dev Plan（開發者方案）": "https://zeabur.com/docs/zh-TW/pricing/dev-plan",
+            "Free Plan": "https://zeabur.com/docs/zh-TW/pricing/free-plan",
+            "Team Plan（團隊方案）": "https://zeabur.com/docs/zh-TW/pricing/team-plan",
+            "兌換預付卡": "https://zeabur.com/docs/zh-TW/pricing/redeem",
+            "定價": "https://zeabur.com/docs/zh-TW/pricing",
+            "推薦計畫": "https://zeabur.com/docs/zh-TW/pricing/referral",
+            "訂閱": "https://zeabur.com/docs/zh-TW/pricing/subscription",
+            "訂閱方案": "https://zeabur.com/docs/zh-TW/pricing/plans",
+            "貢獻獎勵計劃": "https://zeabur.com/docs/zh-TW/pricing/reward",
+            "贊助": "https://zeabur.com/docs/zh-TW/pricing/sponsor"
         },
-        "法律及政策": {
-            "公平使用指南": "https://zeabur.com/docs/zh-TW/legal/fair-use-guideline",
-            "服務條款": "https://zeabur.com/docs/zh-TW/legal/terms",
-            "濫用回報指引": "https://zeabur.com/docs/zh-TW/legal/abuse-report",
-            "隱私權政策": "https://zeabur.com/docs/zh-TW/legal/privacy"
+        "訂閱與帳單": {
+            "付款方式": "https://zeabur.com/docs/zh-TW/subscription/payment-methods",
+            "免費額度說明": "https://zeabur.com/docs/zh-TW/subscription/free-quota",
+            "發票與統編": "https://zeabur.com/docs/zh-TW/subscription/invoicing",
+            "訂閱": "https://zeabur.com/docs/zh-TW/subscription",
+            "退款政策": "https://zeabur.com/docs/zh-TW/subscription/refund-policy"
         },
-        "付款與帳單": {
+        "推薦與獎勵": {
+            "兌換預付卡": "https://zeabur.com/docs/zh-TW/rewards/redeem-card",
+            "合作夥伴計畫": "https://zeabur.com/docs/zh-TW/rewards/partner",
+            "推薦與獎勵": "https://zeabur.com/docs/zh-TW/rewards",
+            "推薦計畫": "https://zeabur.com/docs/zh-TW/rewards/referral",
+            "貢獻獎勵計劃": "https://zeabur.com/docs/zh-TW/rewards/contribution",
+            "贊助": "https://zeabur.com/docs/zh-TW/rewards/sponsor"
+        },
+        "合作夥伴計畫": {
+            "合作夥伴計畫": "https://zeabur.com/docs/zh-TW/partner",
+            "導入顧問（Sales Partner）": "https://zeabur.com/docs/zh-TW/partner/sales-partner",
+            "教育推廣": "https://zeabur.com/docs/zh-TW/partner/education"
+        },
+        "隱私權政策": {
+            "隱私權政策": "https://zeabur.com/docs/zh-TW/privacy-policy"
+        },
+        "合規": {
+            "公平使用指南": "https://zeabur.com/docs/zh-TW/compliance/fair-use-guidelines",
+            "濫用回報指引": "https://zeabur.com/docs/zh-TW/compliance/abuse-report"
+        },
+        "服務條款": {
+            "服務條款": "https://zeabur.com/docs/zh-TW/terms-of-service"
+        },
+        "Advanced": {
+            "建置原理": "https://zeabur.com/docs/zh-TW/advanced/builds"
+        },
+        "Billing": {
             "兌換預付卡": "https://zeabur.com/docs/zh-TW/billing/redeem",
-            "定價": "https://zeabur.com/docs/zh-TW/billing/pricing",
-            "訂閱": "https://zeabur.com/docs/zh-TW/billing/subscription",
-            "訂閱方案": "https://zeabur.com/docs/zh-TW/billing/plans",
+            "定價": "https://zeabur.com/docs/zh-TW/billing-legal",
             "贊助": "https://zeabur.com/docs/zh-TW/billing/sponsor"
         },
-        "社群": {
-            "在 Discord 驗證你的帳戶": "https://zeabur.com/docs/zh-TW/community/verify",
+        "Billing Legal": {},
+        "Community": {
+            "在社群論壇驗證你的帳戶": "https://zeabur.com/docs/zh-TW/community/verify",
             "尋求幫助": "https://zeabur.com/docs/zh-TW/community/help",
-            "推薦獎勵": "https://zeabur.com/docs/zh-TW/community/referral",
-            "社群論壇": "https://zeabur.com/docs/zh-TW/community/forum",
+            "常見問答與支援": "https://zeabur.com/docs/zh-TW/community/forum",
+            "推薦計畫": "https://zeabur.com/docs/zh-TW/community/referral",
             "貢獻獎勵計劃": "https://zeabur.com/docs/zh-TW/community/contribution"
         },
-        "進階": {
-            "構建原理": "https://zeabur.com/docs/zh-TW/advanced/builds"
+        "Data Management": {
+            "備份服務": "https://zeabur.com/docs/zh-TW/data-management/backup",
+            "持久儲存空間": "https://zeabur.com/docs/zh-TW/data-management/volumes",
+            "檔案管理": "https://zeabur.com/docs/zh-TW/data-management/file-management",
+            "編輯設定檔": "https://zeabur.com/docs/zh-TW/data-management/config-edit",
+            "資料管理": "https://zeabur.com/docs/zh-TW/data-management",
+            "還原備份": "https://zeabur.com/docs/zh-TW/data-management/restore"
         },
-        "開發者": {
-            "WebSocket 連線指南": "https://zeabur.com/docs/zh-TW/developer/websocket-guide",
-            "建立和使用 API 金鑰": "https://zeabur.com/docs/zh-TW/developer/use-api-key",
-            "開放 API": "https://zeabur.com/docs/zh-TW/developer/public-api"
+        "Legal": {
+            "公平使用指南": "https://zeabur.com/docs/zh-TW/legal/fair-use-guideline",
+            "服務條款": "https://zeabur.com/docs/zh-TW/legal/terms",
+            "隱私權政策": "https://zeabur.com/docs/zh-TW/legal/privacy"
         },
-        "導入指南": {
-            "如何使用 Zeabur 將 Bolt.new 專案部署到網絡": "https://zeabur.com/docs/zh-TW/tutorials/bolt",
+        "Monitoring": {
+            "健康檢查": "https://zeabur.com/docs/zh-TW/monitoring/health-checks",
+            "日誌與串流": "https://zeabur.com/docs/zh-TW/monitoring/logging",
+            "監控": "https://zeabur.com/docs/zh-TW/monitoring",
+            "監控指標": "https://zeabur.com/docs/zh-TW/monitoring/metrics"
+        },
+        "Networking": {
+            "公網存取": "https://zeabur.com/docs/zh-TW/networking/public",
+            "服務內網": "https://zeabur.com/docs/zh-TW/networking/private",
+            "網路": "https://zeabur.com/docs/zh-TW/networking",
+            "高可用性架構": "https://zeabur.com/docs/zh-TW/networking/high-availability"
+        },
+        "Manage": {
+            "安全報告": "https://zeabur.com/docs/zh-TW/manage/security-report",
+            "專案預算": "https://zeabur.com/docs/zh-TW/manage/budget",
+            "監控指標": "https://zeabur.com/docs/zh-TW/manage/metric",
+            "邀請成員": "https://zeabur.com/docs/zh-TW/manage/invite"
+        },
+        "Infrastructure": {
+            "核心部署與服務": "https://zeabur.com/docs/zh-TW/infrastructure"
+        },
+        "Mesh": {
+            "Zeabur Mesh": "https://zeabur.com/docs/zh-TW/mesh"
+        },
+        "Tutorials": {
+            "入門與快速指南": "https://zeabur.com/docs/zh-TW/tutorials",
+            "如何使用 Zeabur 將 Bolt.new 專案部署到網路": "https://zeabur.com/docs/zh-TW/tutorials/bolt",
             "如何使用 Zeabur 將 Lovable.dev 專案部署到網路": "https://zeabur.com/docs/zh-TW/tutorials/lovable",
             "如何使用 Zeabur 將 Replit 專案部署到網路": "https://zeabur.com/docs/zh-TW/tutorials/replit",
-            "如何使用 Zeabur 將您的 v0 專案部署到網絡": "https://zeabur.com/docs/zh-TW/tutorials/v0",
-            "如何使用 Zeabur 部署 GitHub 儲存庫": "https://zeabur.com/docs/zh-TW/tutorials/github",
             "如何將 Google AI Studio 專案匯出到 GitHub": "https://zeabur.com/docs/zh-TW/tutorials/aistudio",
             "如何從 Emergent 遷移到 Zeabur": "https://zeabur.com/docs/zh-TW/tutorials/emergent",
-            "導入指南": "https://zeabur.com/docs/zh-TW/tutorials"
-        }
+            "從 Vercel 遷移": "https://zeabur.com/docs/zh-TW/tutorials/v0",
+            "整合 GitHub": "https://zeabur.com/docs/zh-TW/tutorials/github"
+        },
+        "Mcp": {
+            "Zeabur MCP 伺服器": "https://zeabur.com/docs/zh-TW/mcp"
+        },
+        "Index": {}
     },
     "zh-CN": {
-        "基本介绍": {},
         "快速开始": {
-            "快速入门": "https://zeabur.com/docs/zh-CN/get-started",
-            "快速开始": "https://zeabur.com/docs/zh-CN/wonder-mesh/get-started"
+            "从 Fly.io 迁移": "https://zeabur.com/docs/zh-CN/get-started/migration/fly-io",
+            "从 Heroku 迁移": "https://zeabur.com/docs/zh-CN/get-started/migration/heroku",
+            "从 Railway 迁移": "https://zeabur.com/docs/zh-CN/get-started/migration/railway",
+            "从 Vercel 迁移": "https://zeabur.com/docs/zh-CN/get-started/migration/vercel",
+            "入门和快速指南": "https://zeabur.com/docs/zh-CN/get-started",
+            "在社群论坛验证你的账户": "https://zeabur.com/docs/zh-CN/get-started/faq-support/verify",
+            "如何从 Emergent 迁移到 Zeabur": "https://zeabur.com/docs/zh-CN/get-started/migration/emergent",
+            "如何使用 Zeabur 将 Bolt.new 项目部署到网络": "https://zeabur.com/docs/zh-CN/get-started/migration/bolt",
+            "如何使用 Zeabur 将 Lovable.dev 项目部署到网络": "https://zeabur.com/docs/zh-CN/get-started/migration/lovable",
+            "如何使用 Zeabur 将 Replit 项目部署到网络": "https://zeabur.com/docs/zh-CN/get-started/migration/replit",
+            "如何将 Google AI Studio 项目导出到 GitHub": "https://zeabur.com/docs/zh-CN/get-started/migration/aistudio",
+            "寻求帮助": "https://zeabur.com/docs/zh-CN/get-started/faq-support/help",
+            "常见问题与支持": "https://zeabur.com/docs/zh-CN/get-started/faq-support",
+            "平台概览": "https://zeabur.com/docs/zh-CN/get-started/platform-overview",
+            "快速开始": "https://zeabur.com/docs/zh-CN/wonder-mesh/get-started",
+            "按需求开始": "https://zeabur.com/docs/zh-CN/get-started/start-by-need",
+            "最佳实践": "https://zeabur.com/docs/zh-CN/get-started/best-practices"
+        },
+        "服务器": {
+            "专用服务器": "https://zeabur.com/docs/zh-CN/dedicated-server",
+            "从 Zeabur 购买服务器": "https://zeabur.com/docs/zh-CN/dedicated-server/purchase",
+            "共享集群（已停止服务）": "https://zeabur.com/docs/zh-CN/dedicated-server/shared-cluster",
+            "注册独立服务器": "https://zeabur.com/docs/zh-CN/dedicated-server/register",
+            "维护独立服务器": "https://zeabur.com/docs/zh-CN/dedicated-server/operate",
+            "防火墙与安全设置": "https://zeabur.com/docs/zh-CN/dedicated-server/firewall"
         },
         "部署": {
-            "Chrome 插件": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-chrome-extension",
-            "Dockerfile 部署": "https://zeabur.com/docs/zh-CN/deploy/dockerfile",
-            "一键部署": "https://zeabur.com/docs/zh-CN/deploy/deploy-button",
-            "使用 CLI 部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-in-cli",
-            "使用 Raycast 插件部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-raycast-extension",
-            "使用 VS Code 插件部署服务": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-vscode-extension",
+            "404": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-chrome-extension",
+            "Dockerfile 部署": "https://zeabur.com/docs/zh-CN/deploy/methods/dockerfile",
+            "Zeabur 模板目录": "https://zeabur.com/docs/zh-CN/deploy/templates/template-catalog",
+            "一键部署": "https://zeabur.com/docs/zh-CN/deploy/methods/deploy-button",
+            "使用 Raycast 扩展部署服务": "https://zeabur.com/docs/zh-CN/deploy/methods/deploy-with-raycast-extension",
+            "使用 VS Code 扩展部署服务": "https://zeabur.com/docs/zh-CN/deploy/methods/deploy-with-vscode-extension",
+            "公网存取": "https://zeabur.com/docs/zh-CN/deploy/public-networking",
             "创建服务": "https://zeabur.com/docs/zh-CN/deploy/create-service",
             "创建项目": "https://zeabur.com/docs/zh-CN/deploy/create-project",
-            "在 Gemini Canvas 使用 Chrome 插件部署": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-chrome-extension/gemini",
-            "复制项目": "https://zeabur.com/docs/zh-CN/deploy/copy-project",
+            "创建项目和服务": "https://zeabur.com/docs/zh-CN/deploy/create",
+            "在 Gemini Canvas 使用 Chrome 扩展部署": "https://zeabur.com/docs/zh-CN/deploy/methods/deploy-with-chrome-extension/gemini",
+            "域名注册": "https://zeabur.com/docs/zh-CN/deploy/networking/domain-registration",
+            "复制项目": "https://zeabur.com/docs/zh-CN/deploy/manage/copy-project",
             "大文件处理": "https://zeabur.com/docs/zh-CN/deploy/large-files",
-            "导出项目": "https://zeabur.com/docs/zh-CN/deploy/export-project",
+            "导出项目": "https://zeabur.com/docs/zh-CN/deploy/manage/export-project",
+            "暂停服务": "https://zeabur.com/docs/zh-CN/operations/deployment/suspend-service",
             "更新 Docker 服务的映像引用": "https://zeabur.com/docs/zh-CN/deploy/update-image-reference",
+            "服务内网": "https://zeabur.com/docs/zh-CN/deploy/private-networking",
+            "服务配置": "https://zeabur.com/docs/zh-CN/deploy/config",
+            "构建": "https://zeabur.com/docs/zh-CN/deploy/how-deploys-work",
+            "模板格式": "https://zeabur.com/docs/zh-CN/deploy/templates/template-format",
             "添加变量": "https://zeabur.com/docs/zh-CN/deploy/variables",
+            "版本回滚": "https://zeabur.com/docs/zh-CN/operations/deployment/rollbacks",
             "监控路径": "https://zeabur.com/docs/zh-CN/deploy/watch-paths",
-            "自定义 Docker 镜像": "https://zeabur.com/docs/zh-CN/deploy/customize-prebuilt",
+            "维护与更新模板": "https://zeabur.com/docs/zh-CN/deploy/templates/maintain-template",
+            "网络": "https://zeabur.com/docs/zh-CN/deploy/networking",
+            "自定义 Docker 镜像": "https://zeabur.com/docs/zh-CN/deploy/methods/custom-docker-image",
             "自定义根目录": "https://zeabur.com/docs/zh-CN/deploy/root-directory",
+            "迁移项目": "https://zeabur.com/docs/zh-CN/deploy/migrate-project",
             "运行命令": "https://zeabur.com/docs/zh-CN/deploy/command-execution",
-            "集成 GitHub": "https://zeabur.com/docs/zh-CN/deploy/github"
+            "部署与服务": "https://zeabur.com/docs/zh-CN/deploy",
+            "部署方式": "https://zeabur.com/docs/zh-CN/deploy/methods",
+            "部署管理": "https://zeabur.com/docs/zh-CN/operations/deployment",
+            "集成 GitHub": "https://zeabur.com/docs/zh-CN/deploy/methods/github-integration",
+            "项目管理": "https://zeabur.com/docs/zh-CN/deploy/manage",
+            "高可用性架构": "https://zeabur.com/docs/zh-CN/deploy/networking/high-availability"
         },
-        "模板": {
-            "从 YAML 创建模板": "https://zeabur.com/docs/zh-CN/template/template-in-code",
-            "从模板服务 Fork 代码": "https://zeabur.com/docs/zh-CN/template/fork-git-repo-from-template"
+        "运维": {
+            "使用量分析": "https://zeabur.com/docs/zh-CN/operations/service-usage",
+            "健康检查": "https://zeabur.com/docs/zh-CN/operations/monitoring/health-checks",
+            "团队管理": "https://zeabur.com/docs/zh-CN/operations/team",
+            "备份与还原": "https://zeabur.com/docs/zh-CN/operations/backup-restore",
+            "安全报告": "https://zeabur.com/docs/zh-CN/operations/team/security-report",
+            "扩展": "https://zeabur.com/docs/zh-CN/operations/scaling",
+            "持久存储空间": "https://zeabur.com/docs/zh-CN/operations/volumes",
+            "数据管理": "https://zeabur.com/docs/zh-CN/operations/data",
+            "文件管理": "https://zeabur.com/docs/zh-CN/operations/file-management",
+            "日志与流式传输": "https://zeabur.com/docs/zh-CN/operations/monitoring/logging",
+            "暂停服务": "https://zeabur.com/docs/zh-CN/operations/suspend-service",
+            "版本回滚": "https://zeabur.com/docs/zh-CN/operations/rollbacks",
+            "监控": "https://zeabur.com/docs/zh-CN/operations/monitoring",
+            "监控指标": "https://zeabur.com/docs/zh-CN/operations/monitoring/metrics",
+            "编辑配置文件": "https://zeabur.com/docs/zh-CN/operations/config-file-management",
+            "资源配置": "https://zeabur.com/docs/zh-CN/operations/resources",
+            "运营与开发者工具": "https://zeabur.com/docs/zh-CN/operations",
+            "邀请成员": "https://zeabur.com/docs/zh-CN/operations/team/invite-member",
+            "项目预算": "https://zeabur.com/docs/zh-CN/operations/project-budget"
         },
-        "Zeabur 模板目录": {
-            "Zeabur 模板目录": "https://zeabur.com/templates"
-        },
-        "Zeabur AI Hub": {
+        "AI Hub": {
             "Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub",
             "在 SillyTavern 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub/sillytavern-integration",
             "在 n8n 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub/n8n-integration"
         },
-        "Zeabur Email": {
+        "域名": {
+            "DNS 记录": "https://zeabur.com/docs/zh-CN/domain/dns",
+            "域名管理": "https://zeabur.com/docs/zh-CN/email/domains",
+            "注册人资料": "https://zeabur.com/docs/zh-CN/domain/profiles",
+            "注册域名": "https://zeabur.com/docs/zh-CN/domain/register",
+            "预备案子域名": "https://zeabur.com/docs/zh-CN/networking/pre-icp-subdomain"
+        },
+        "Email": {
             "API 密钥管理": "https://zeabur.com/docs/zh-CN/email/api-keys",
             "REST API 参考": "https://zeabur.com/docs/zh-CN/email/rest-api",
             "Webhook 配置": "https://zeabur.com/docs/zh-CN/email/webhooks",
             "Zeabur Email": "https://zeabur.com/docs/zh-CN/email",
-            "域名管理": "https://zeabur.com/docs/zh-CN/email/domains",
             "快速开始": "https://zeabur.com/docs/zh-CN/email/quick-start"
         },
         "Wonder Mesh": {
@@ -356,27 +673,28 @@
             "卸载 Wonder Mesh": "https://zeabur.com/docs/zh-CN/wonder-mesh/uninstall",
             "安装脚本做了什么？": "https://zeabur.com/docs/zh-CN/wonder-mesh/install-script-details"
         },
-        "集成服务": {
+        "模板": {
+            "Zeabur 模板目录": "https://zeabur.com/docs/zh-CN/template/template-catalog",
+            "模板": "https://zeabur.com/docs/zh-CN/template",
+            "模板格式": "https://zeabur.com/docs/zh-CN/template/template-format",
+            "维护与更新模板": "https://zeabur.com/docs/zh-CN/template/maintain-template"
+        },
+        "集成": {
             "InsForge": "https://zeabur.com/docs/zh-CN/integrations/insforge/overview",
             "快速开始": "https://zeabur.com/docs/zh-CN/integrations/insforge/quick-start",
             "用量与账单": "https://zeabur.com/docs/zh-CN/integrations/insforge/usage-and-billing",
             "连接 AI IDE": "https://zeabur.com/docs/zh-CN/integrations/insforge/connect-ai-ide",
             "集成服务": "https://zeabur.com/docs/zh-CN/integrations"
         },
-        "数据管理": {
-            "备份服务": "https://zeabur.com/docs/zh-CN/data-management/backup",
-            "文件管理": "https://zeabur.com/docs/zh-CN/data-management/file-management",
-            "注意事项": "https://zeabur.com/docs/zh-CN/data-management/volumes",
-            "编辑配置文件": "https://zeabur.com/docs/zh-CN/data-management/config-edit",
-            "还原备份": "https://zeabur.com/docs/zh-CN/data-management/restore"
+        "开发者工具": {
+            "Claude Code Skills": "https://zeabur.com/docs/zh-CN/developer/claude-code-skills",
+            "WebSocket 连接指南": "https://zeabur.com/docs/zh-CN/developer/websocket-guide",
+            "Zeabur CLI": "https://zeabur.com/docs/zh-CN/developer/cli",
+            "创建和使用 API 密钥": "https://zeabur.com/docs/zh-CN/developer/api-keys",
+            "开发者资源": "https://zeabur.com/docs/zh-CN/developer",
+            "开放 API": "https://zeabur.com/docs/zh-CN/developer/public-api"
         },
-        "网络": {
-            "公网存取": "https://zeabur.com/docs/zh-CN/networking/public",
-            "服务内网": "https://zeabur.com/docs/zh-CN/networking/private",
-            "预备案子域名": "https://zeabur.com/docs/zh-CN/networking/pre-icp-subdomain",
-            "高可用性架构": "https://zeabur.com/docs/zh-CN/networking/high-availability"
-        },
-        "教程": {
+        "语言与框架": {
             "Bun": "https://zeabur.com/docs/zh-CN/guides/bun",
             "Hono": "https://zeabur.com/docs/zh-CN/guides/bun/hono",
             "Hugo": "https://zeabur.com/docs/zh-CN/guides/static/hugo",
@@ -385,6 +703,7 @@
             "在 Zeabur 上部署 Astro": "https://zeabur.com/docs/zh-CN/guides/nodejs/astro",
             "在 Zeabur 上部署 Flutter": "https://zeabur.com/docs/zh-CN/guides/dart/flutter",
             "在 Zeabur 上部署 Waku": "https://zeabur.com/docs/zh-CN/guides/nodejs/waku",
+            "框架": "https://zeabur.com/docs/zh-CN/guides",
             "部署 .NET 项目": "https://zeabur.com/docs/zh-CN/guides/dotnet",
             "部署 Deno 应用": "https://zeabur.com/docs/zh-CN/guides/deno/typescript",
             "部署 Django 项目": "https://zeabur.com/docs/zh-CN/guides/python/django",
@@ -413,102 +732,233 @@
             "部署 Vite": "https://zeabur.com/docs/zh-CN/guides/nodejs/vite",
             "部署静态网页": "https://zeabur.com/docs/zh-CN/guides/static"
         },
-        "项目管理": {
+        "定价": {
+            "Dev Plan（开发者方案）": "https://zeabur.com/docs/zh-CN/pricing/dev-plan",
+            "Free Plan": "https://zeabur.com/docs/zh-CN/pricing/free-plan",
+            "Team Plan（团队方案）": "https://zeabur.com/docs/zh-CN/pricing/team-plan",
+            "兑换预付卡": "https://zeabur.com/docs/zh-CN/pricing/redeem",
+            "定价": "https://zeabur.com/docs/zh-CN/pricing",
+            "推荐计划": "https://zeabur.com/docs/zh-CN/pricing/referral",
+            "订阅": "https://zeabur.com/docs/zh-CN/pricing/subscription",
+            "订阅方案": "https://zeabur.com/docs/zh-CN/pricing/plans",
+            "贡献奖励计划": "https://zeabur.com/docs/zh-CN/pricing/reward",
+            "赞助": "https://zeabur.com/docs/zh-CN/pricing/sponsor"
+        },
+        "订阅与账单": {
+            "付款方式": "https://zeabur.com/docs/zh-CN/subscription/payment-methods",
+            "免费额度说明": "https://zeabur.com/docs/zh-CN/subscription/free-quota",
+            "发票与税号": "https://zeabur.com/docs/zh-CN/subscription/invoicing",
+            "订阅": "https://zeabur.com/docs/zh-CN/subscription",
+            "退款政策": "https://zeabur.com/docs/zh-CN/subscription/refund-policy"
+        },
+        "推荐与奖励": {
+            "兑换预付卡": "https://zeabur.com/docs/zh-CN/rewards/redeem-card",
+            "合作伙伴计划": "https://zeabur.com/docs/zh-CN/rewards/partner",
+            "推荐与奖励": "https://zeabur.com/docs/zh-CN/rewards",
+            "推荐计划": "https://zeabur.com/docs/zh-CN/rewards/referral",
+            "贡献奖励计划": "https://zeabur.com/docs/zh-CN/rewards/contribution",
+            "赞助": "https://zeabur.com/docs/zh-CN/rewards/sponsor"
+        },
+        "合作伙伴计划": {
+            "合作伙伴计划": "https://zeabur.com/docs/zh-CN/partner",
+            "导入顾问（Sales Partner）": "https://zeabur.com/docs/zh-CN/partner/sales-partner",
+            "教育推广": "https://zeabur.com/docs/zh-CN/partner/education"
+        },
+        "隐私政策": {
+            "隐私权政策": "https://zeabur.com/docs/zh-CN/privacy-policy"
+        },
+        "合规": {
+            "公平使用指南": "https://zeabur.com/docs/zh-CN/compliance/fair-use-guidelines",
+            "滥用回报指引": "https://zeabur.com/docs/zh-CN/compliance/abuse-report"
+        },
+        "服务条款": {
+            "服务条款": "https://zeabur.com/docs/zh-CN/terms-of-service"
+        },
+        "Advanced": {
+            "构建原理": "https://zeabur.com/docs/zh-CN/advanced/builds"
+        },
+        "Billing": {
+            "兑换预付卡": "https://zeabur.com/docs/zh-CN/billing/redeem",
+            "定价": "https://zeabur.com/docs/zh-CN/billing-legal",
+            "赞助": "https://zeabur.com/docs/zh-CN/billing/sponsor"
+        },
+        "Billing Legal": {},
+        "Community": {
+            "在社群论坛验证你的账户": "https://zeabur.com/docs/zh-CN/community/verify",
+            "寻求帮助": "https://zeabur.com/docs/zh-CN/community/help",
+            "常见问题与支持": "https://zeabur.com/docs/zh-CN/community/forum",
+            "推荐计划": "https://zeabur.com/docs/zh-CN/community/referral",
+            "贡献奖励计划": "https://zeabur.com/docs/zh-CN/community/contribution"
+        },
+        "Data Management": {
+            "备份服务": "https://zeabur.com/docs/zh-CN/data-management/backup",
+            "数据管理": "https://zeabur.com/docs/zh-CN/data-management",
+            "文件管理": "https://zeabur.com/docs/zh-CN/data-management/file-management",
+            "注意事项": "https://zeabur.com/docs/zh-CN/data-management/volumes",
+            "编辑配置文件": "https://zeabur.com/docs/zh-CN/data-management/config-edit",
+            "还原备份": "https://zeabur.com/docs/zh-CN/data-management/restore"
+        },
+        "Legal": {
+            "公平使用指南": "https://zeabur.com/docs/zh-CN/legal/fair-use-guideline",
+            "服务条款": "https://zeabur.com/docs/zh-CN/legal/terms",
+            "隐私权政策": "https://zeabur.com/docs/zh-CN/legal/privacy"
+        },
+        "Monitoring": {
+            "健康检查": "https://zeabur.com/docs/zh-CN/monitoring/health-checks",
+            "日志与流式传输": "https://zeabur.com/docs/zh-CN/monitoring/logging",
+            "监控": "https://zeabur.com/docs/zh-CN/monitoring",
+            "监控指标": "https://zeabur.com/docs/zh-CN/monitoring/metrics"
+        },
+        "Networking": {
+            "公网存取": "https://zeabur.com/docs/zh-CN/networking/public",
+            "服务内网": "https://zeabur.com/docs/zh-CN/networking/private",
+            "网络": "https://zeabur.com/docs/zh-CN/networking",
+            "高可用性架构": "https://zeabur.com/docs/zh-CN/networking/high-availability"
+        },
+        "Manage": {
             "安全报告": "https://zeabur.com/docs/zh-CN/manage/security-report",
-            "服务用量": "https://zeabur.com/docs/zh-CN/manage/metric",
+            "监控指标": "https://zeabur.com/docs/zh-CN/manage/metric",
             "邀请成员": "https://zeabur.com/docs/zh-CN/manage/invite",
             "项目预算": "https://zeabur.com/docs/zh-CN/manage/budget"
         },
-        "法律及政策": {
-            "公平使用指南": "https://zeabur.com/docs/zh-CN/legal/fair-use-guideline",
-            "服务条款": "https://zeabur.com/docs/zh-CN/legal/terms",
-            "滥用举报指引": "https://zeabur.com/docs/zh-CN/legal/abuse-report",
-            "隐私权政策": "https://zeabur.com/docs/zh-CN/legal/privacy"
+        "Infrastructure": {
+            "部署与服务": "https://zeabur.com/docs/zh-CN/infrastructure"
         },
-        "付款与账单": {
-            "兑换代金券": "https://zeabur.com/docs/zh-CN/billing/redeem",
-            "定价": "https://zeabur.com/docs/zh-CN/billing/pricing",
-            "订阅": "https://zeabur.com/docs/zh-CN/billing/subscription",
-            "订阅方案": "https://zeabur.com/docs/zh-CN/billing/plans",
-            "赞助": "https://zeabur.com/docs/zh-CN/billing/sponsor"
+        "Mesh": {
+            "Zeabur Mesh": "https://zeabur.com/docs/zh-CN/mesh"
         },
-        "社区": {
-            "在 Discord 验证你的账户": "https://zeabur.com/docs/zh-CN/community/verify",
-            "寻求帮助": "https://zeabur.com/docs/zh-CN/community/help",
-            "推荐奖励": "https://zeabur.com/docs/zh-CN/community/referral",
-            "社区论坛": "https://zeabur.com/docs/zh-CN/community/forum",
-            "贡献奖励计划": "https://zeabur.com/docs/zh-CN/community/contribution"
-        },
-        "高级": {
-            "构建原理": "https://zeabur.com/docs/zh-CN/advanced/builds"
-        },
-        "开发者": {
-            "WebSocket 连接指南": "https://zeabur.com/docs/zh-CN/developer/websocket-guide",
-            "创建和使用 API 密钥": "https://zeabur.com/docs/zh-CN/developer/use-api-key",
-            "开放 API": "https://zeabur.com/docs/zh-CN/developer/public-api"
-        },
-        "导入指南": {
+        "Tutorials": {
+            "从 Vercel 迁移": "https://zeabur.com/docs/zh-CN/tutorials/v0",
+            "入门和快速指南": "https://zeabur.com/docs/zh-CN/tutorials",
             "如何从 Emergent 迁移到 Zeabur": "https://zeabur.com/docs/zh-CN/tutorials/emergent",
             "如何使用 Zeabur 将 Bolt.new 项目部署到网络": "https://zeabur.com/docs/zh-CN/tutorials/bolt",
             "如何使用 Zeabur 将 Lovable.dev 项目部署到网络": "https://zeabur.com/docs/zh-CN/tutorials/lovable",
             "如何使用 Zeabur 将 Replit 项目部署到网络": "https://zeabur.com/docs/zh-CN/tutorials/replit",
-            "如何使用 Zeabur 将您的 v0 项目部署到网络": "https://zeabur.com/docs/zh-CN/tutorials/v0",
-            "如何使用 Zeabur 部署 GitHub 仓库": "https://zeabur.com/docs/zh-CN/tutorials/github",
             "如何将 Google AI Studio 项目导出到 GitHub": "https://zeabur.com/docs/zh-CN/tutorials/aistudio",
-            "导入指南": "https://zeabur.com/docs/zh-CN/tutorials"
-        }
+            "集成 GitHub": "https://zeabur.com/docs/zh-CN/tutorials/github"
+        },
+        "Mcp": {
+            "Zeabur MCP 服务器": "https://zeabur.com/docs/zh-CN/mcp"
+        },
+        "Index": {}
     },
     "ja-JP": {
-        "イントロダクション": {},
-        "スタート": {
-            "クイックスタート": "https://zeabur.com/docs/ja-JP/get-started",
-            "スタート": "https://zeabur.com/docs/ja-JP/wonder-mesh/get-started"
+        "はじめに": {
+            "Bolt.newプロジェクトをZeaburを使用してウェブにデプロイする方法": "https://zeabur.com/docs/ja-JP/get-started/migration/bolt",
+            "EmergentからZeaburへの移行方法": "https://zeabur.com/docs/ja-JP/get-started/migration/emergent",
+            "FAQ とサポート": "https://zeabur.com/docs/ja-JP/get-started/faq-support",
+            "Fly.io からの移行": "https://zeabur.com/docs/ja-JP/get-started/migration/fly-io",
+            "Google AI StudioプロジェクトをGitHubにエクスポートする方法": "https://zeabur.com/docs/ja-JP/get-started/migration/aistudio",
+            "Heroku からの移行": "https://zeabur.com/docs/ja-JP/get-started/migration/heroku",
+            "Lovable.devプロジェクトをZeaburでウェブに展開する方法": "https://zeabur.com/docs/ja-JP/get-started/migration/lovable",
+            "Railway からの移行": "https://zeabur.com/docs/ja-JP/get-started/migration/railway",
+            "Replit プロジェクトを Zeabur でウェブにデプロイする方法": "https://zeabur.com/docs/ja-JP/get-started/migration/replit",
+            "Vercel からの移行": "https://zeabur.com/docs/ja-JP/get-started/migration/vercel",
+            "はじめに＆クイックガイド": "https://zeabur.com/docs/ja-JP/get-started",
+            "アカウントを確認してください": "https://zeabur.com/docs/ja-JP/get-started/faq-support/verify",
+            "クイックスタート": "https://zeabur.com/docs/ja-JP/get-started/quick-start",
+            "スタート": "https://zeabur.com/docs/ja-JP/wonder-mesh/get-started",
+            "ニーズから始める": "https://zeabur.com/docs/ja-JP/get-started/start-by-need",
+            "プラットフォーム概要": "https://zeabur.com/docs/ja-JP/get-started/platform-overview",
+            "ヘルプを取得する": "https://zeabur.com/docs/ja-JP/get-started/faq-support/help",
+            "ベストプラクティス": "https://zeabur.com/docs/ja-JP/get-started/best-practices"
+        },
+        "サーバー": {
+            "Zeabur からサーバーを購入する": "https://zeabur.com/docs/ja-JP/dedicated-server/purchase",
+            "ファイアウォールとセキュリティ設定": "https://zeabur.com/docs/ja-JP/dedicated-server/firewall",
+            "共有クラスター（廃止）": "https://zeabur.com/docs/ja-JP/dedicated-server/shared-cluster",
+            "専用サーバー": "https://zeabur.com/docs/ja-JP/dedicated-server",
+            "専用サーバーのメンテナンス": "https://zeabur.com/docs/ja-JP/dedicated-server/operate",
+            "専用サーバーの登録": "https://zeabur.com/docs/ja-JP/dedicated-server/register"
         },
         "デプロイ": {
-            "CLIを使用したサービスのデプロイ": "https://zeabur.com/docs/ja-JP/deploy/deploy-in-cli",
-            "Chrome 拡張機能": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-chrome-extension",
+            "404": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-chrome-extension",
             "Docker サービスのイメージ参照を更新する": "https://zeabur.com/docs/ja-JP/deploy/update-image-reference",
-            "Dockerfile を使用したデプロイ": "https://zeabur.com/docs/ja-JP/deploy/dockerfile",
-            "Gemini Canvas から Chrome 拡張機能でデプロイする": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-chrome-extension/gemini",
-            "GitHub 連携": "https://zeabur.com/docs/ja-JP/deploy/github",
-            "Raycast 拡張機能を使ってサービスをデプロイする": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-raycast-extension",
-            "VS Code 拡張機能を使ってサービスをデプロイする": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-vscode-extension",
+            "Dockerfile を使用したデプロイ": "https://zeabur.com/docs/ja-JP/deploy/methods/dockerfile",
+            "Gemini Canvas から Chrome 拡張機能でデプロイする": "https://zeabur.com/docs/ja-JP/deploy/methods/deploy-with-chrome-extension/gemini",
+            "GitHub 連携": "https://zeabur.com/docs/ja-JP/deploy/methods/github-integration",
+            "Raycast 拡張機能を使ってサービスをデプロイする": "https://zeabur.com/docs/ja-JP/deploy/methods/deploy-with-raycast-extension",
+            "VS Code 拡張機能を使ってサービスをデプロイする": "https://zeabur.com/docs/ja-JP/deploy/methods/deploy-with-vscode-extension",
+            "Zeabur テンプレートカタログ": "https://zeabur.com/docs/ja-JP/deploy/templates/template-catalog",
             "ウォッチパス": "https://zeabur.com/docs/ja-JP/deploy/watch-paths",
-            "カスタム Docker イメージ": "https://zeabur.com/docs/ja-JP/deploy/customize-prebuilt",
+            "カスタム Docker イメージ": "https://zeabur.com/docs/ja-JP/deploy/methods/custom-docker-image",
             "カスタムルートディレクトリ": "https://zeabur.com/docs/ja-JP/deploy/root-directory",
             "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/command-execution",
+            "サービスの一時停止": "https://zeabur.com/docs/ja-JP/operations/deployment/suspend-service",
             "サービスの作成": "https://zeabur.com/docs/ja-JP/deploy/create-service",
-            "デプロイボタン": "https://zeabur.com/docs/ja-JP/deploy/deploy-button",
-            "プロジェクトのエクスポート": "https://zeabur.com/docs/ja-JP/deploy/export-project",
-            "プロジェクトをコピー": "https://zeabur.com/docs/ja-JP/deploy/copy-project",
+            "サービス設定": "https://zeabur.com/docs/ja-JP/deploy/config",
+            "テンプレートのメンテナンスと更新": "https://zeabur.com/docs/ja-JP/deploy/templates/maintain-template",
+            "テンプレート形式": "https://zeabur.com/docs/ja-JP/deploy/templates/template-format",
+            "デプロイとサービス": "https://zeabur.com/docs/ja-JP/deploy",
+            "デプロイボタン": "https://zeabur.com/docs/ja-JP/deploy/methods/deploy-button",
+            "デプロイ方法": "https://zeabur.com/docs/ja-JP/deploy/methods",
+            "デプロイ管理": "https://zeabur.com/docs/ja-JP/operations/deployment",
+            "ドメイン登録": "https://zeabur.com/docs/ja-JP/deploy/networking/domain-registration",
+            "ネットワーク": "https://zeabur.com/docs/ja-JP/deploy/networking",
+            "パブリックネットワーク": "https://zeabur.com/docs/ja-JP/deploy/public-networking",
+            "ビルド": "https://zeabur.com/docs/ja-JP/deploy/how-deploys-work",
+            "プライベートネットワーク": "https://zeabur.com/docs/ja-JP/deploy/private-networking",
+            "プロジェクトとサービスの作成": "https://zeabur.com/docs/ja-JP/deploy/create",
+            "プロジェクトのエクスポート": "https://zeabur.com/docs/ja-JP/deploy/manage/export-project",
+            "プロジェクトの移行": "https://zeabur.com/docs/ja-JP/deploy/migrate-project",
+            "プロジェクトをコピー": "https://zeabur.com/docs/ja-JP/deploy/manage/copy-project",
             "プロジェクトを作成": "https://zeabur.com/docs/ja-JP/deploy/create-project",
+            "プロジェクト管理": "https://zeabur.com/docs/ja-JP/deploy/manage",
+            "ロールバック": "https://zeabur.com/docs/ja-JP/operations/deployment/rollbacks",
             "大容量ファイルの取り扱い": "https://zeabur.com/docs/ja-JP/deploy/large-files",
-            "環境変数の設定": "https://zeabur.com/docs/ja-JP/deploy/variables"
+            "環境変数の設定": "https://zeabur.com/docs/ja-JP/deploy/variables",
+            "高可用性アーキテクチャ": "https://zeabur.com/docs/ja-JP/deploy/networking/high-availability"
         },
-        "テンプレート": {
-            "Creating Templates from YAML": "https://zeabur.com/docs/ja-JP/template/template-in-code",
-            "テンプレートサービスからコードを Fork する": "https://zeabur.com/docs/ja-JP/template/fork-git-repo-from-template"
+        "オペレーション": {
+            "サービスの一時停止": "https://zeabur.com/docs/ja-JP/operations/suspend-service",
+            "スケーリング": "https://zeabur.com/docs/ja-JP/operations/scaling",
+            "セキュリティレポート": "https://zeabur.com/docs/ja-JP/operations/team/security-report",
+            "チーム管理": "https://zeabur.com/docs/ja-JP/operations/team",
+            "データ管理": "https://zeabur.com/docs/ja-JP/operations/data",
+            "バックアップと復元": "https://zeabur.com/docs/ja-JP/operations/backup-restore",
+            "ファイル管理": "https://zeabur.com/docs/ja-JP/operations/file-management",
+            "プロジェクト予算": "https://zeabur.com/docs/ja-JP/operations/project-budget",
+            "ヘルスチェック": "https://zeabur.com/docs/ja-JP/operations/health-checks",
+            "ボリューム": "https://zeabur.com/docs/ja-JP/operations/volumes",
+            "メトリクス": "https://zeabur.com/docs/ja-JP/operations/monitoring/metrics",
+            "メンバーの招待": "https://zeabur.com/docs/ja-JP/operations/team/invite-member",
+            "モニタリング": "https://zeabur.com/docs/ja-JP/operations/monitoring",
+            "リソース設定": "https://zeabur.com/docs/ja-JP/operations/resources",
+            "ログとストリーミング": "https://zeabur.com/docs/ja-JP/operations/logging",
+            "ロールバック": "https://zeabur.com/docs/ja-JP/operations/rollbacks",
+            "使用量分析": "https://zeabur.com/docs/ja-JP/operations/service-usage",
+            "設定ファイルエディタ": "https://zeabur.com/docs/ja-JP/operations/data/config-file-management",
+            "運用と開発者ツール": "https://zeabur.com/docs/ja-JP/operations"
         },
-        "Zeaburテンプレートカタログ": {
-            "Zeaburテンプレートカタログ": "https://zeabur.com/templates"
-        },
-        "Zeabur AI Hub": {
+        "AI Hub": {
             "SillyTavern で Zeabur AI Hub を使用する": "https://zeabur.com/docs/ja-JP/ai-hub/sillytavern-integration",
             "Zeabur AI Hub": "https://zeabur.com/docs/ja-JP/ai-hub",
             "n8n で Zeabur AI Hub を使用する": "https://zeabur.com/docs/ja-JP/ai-hub/n8n-integration"
         },
-        "Zeabur Email": {
+        "ドメイン": {
+            "DNS レコード": "https://zeabur.com/docs/ja-JP/domain/dns",
+            "ICP申請前サブドメイン": "https://zeabur.com/docs/ja-JP/networking/pre-icp-subdomain",
+            "ドメイン登録": "https://zeabur.com/docs/ja-JP/domain/register",
+            "ドメイン管理": "https://zeabur.com/docs/ja-JP/email/domains",
+            "登録者プロファイル": "https://zeabur.com/docs/ja-JP/domain/profiles"
+        },
+        "Email": {
             "API キー管理": "https://zeabur.com/docs/ja-JP/email/api-keys",
             "REST API リファレンス": "https://zeabur.com/docs/ja-JP/email/rest-api",
             "Webhook 設定": "https://zeabur.com/docs/ja-JP/email/webhooks",
             "Zeabur Email": "https://zeabur.com/docs/ja-JP/email",
-            "クイックスタート": "https://zeabur.com/docs/ja-JP/email/quick-start",
-            "ドメイン管理": "https://zeabur.com/docs/ja-JP/email/domains"
+            "クイックスタート": "https://zeabur.com/docs/ja-JP/email/quick-start"
         },
         "Wonder Mesh": {
             "Wonder Mesh": "https://zeabur.com/docs/ja-JP/wonder-mesh",
             "Wonder Mesh のアンインストール": "https://zeabur.com/docs/ja-JP/wonder-mesh/uninstall",
             "インストールスクリプトの内容": "https://zeabur.com/docs/ja-JP/wonder-mesh/install-script-details"
+        },
+        "テンプレート": {
+            "Zeabur テンプレートカタログ": "https://zeabur.com/docs/ja-JP/template/template-catalog",
+            "テンプレート": "https://zeabur.com/docs/ja-JP/template",
+            "テンプレートのメンテナンスと更新": "https://zeabur.com/docs/ja-JP/template/maintain-template",
+            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-in-code"
         },
         "インテグレーション": {
             "AI IDEの接続": "https://zeabur.com/docs/ja-JP/integrations/insforge/connect-ai-ide",
@@ -517,19 +967,15 @@
             "クイックスタート": "https://zeabur.com/docs/ja-JP/integrations/insforge/quick-start",
             "使用量と請求": "https://zeabur.com/docs/ja-JP/integrations/insforge/usage-and-billing"
         },
-        "データ管理": {
-            "バックアップの復元": "https://zeabur.com/docs/ja-JP/data-management/restore",
-            "バックアップサービス": "https://zeabur.com/docs/ja-JP/data-management/backup",
-            "ファイル管理": "https://zeabur.com/docs/ja-JP/data-management/file-management",
-            "永続ストレージ": "https://zeabur.com/docs/ja-JP/data-management/volumes",
-            "設定ファイルの編集": "https://zeabur.com/docs/ja-JP/data-management/config-edit"
+        "開発者ツール": {
+            "API キーの作成と使用": "https://zeabur.com/docs/ja-JP/developer/api-keys",
+            "Claude Code Skills": "https://zeabur.com/docs/ja-JP/developer/claude-code-skills",
+            "WebSocket 接続ガイド": "https://zeabur.com/docs/ja-JP/developer/websocket-guide",
+            "Zeabur CLI": "https://zeabur.com/docs/ja-JP/developer/cli",
+            "オープン API": "https://zeabur.com/docs/ja-JP/developer/public-api",
+            "開発者リソース": "https://zeabur.com/docs/ja-JP/developer"
         },
-        "ネットワーキング": {
-            "プライベートネットワーキング": "https://zeabur.com/docs/ja-JP/networking/private",
-            "ルートドメインの DNS 設定": "https://zeabur.com/docs/ja-JP/networking/public",
-            "高可用性アーキテクチャ": "https://zeabur.com/docs/ja-JP/networking/high-availability"
-        },
-        "ガイド": {
+        "フレームワーク": {
             "": "https://zeabur.com/docs/ja-JP/guides/nodejs/waku",
             ".NET アプリのデプロイ": "https://zeabur.com/docs/ja-JP/guides/dotnet",
             "Bun": "https://zeabur.com/docs/ja-JP/guides/bun",
@@ -564,95 +1010,224 @@
             "ZeaburでFlutterをデプロイする": "https://zeabur.com/docs/ja-JP/guides/dart/flutter",
             "エクスプレスアプリのデプロイ": "https://zeabur.com/docs/ja-JP/guides/nodejs/express",
             "スプリングブートのデプロイ": "https://zeabur.com/docs/ja-JP/guides/java/spring-boot",
-            "フレッシュアプリをデプロイする": "https://zeabur.com/docs/ja-JP/guides/deno/fresh"
+            "フレッシュアプリをデプロイする": "https://zeabur.com/docs/ja-JP/guides/deno/fresh",
+            "フレームワーク": "https://zeabur.com/docs/ja-JP/guides"
         },
-        "プロジェクト管理": {
-            "": "https://zeabur.com/docs/ja-JP/manage/metric",
-            "セキュリティレポート": "https://zeabur.com/docs/ja-JP/manage/security-report",
-            "プロジェクト予算": "https://zeabur.com/docs/ja-JP/manage/budget",
-            "メンバーを招待する": "https://zeabur.com/docs/ja-JP/manage/invite"
+        "料金プラン": {
+            "Dev プラン（Developer プラン）": "https://zeabur.com/docs/ja-JP/pricing/dev-plan",
+            "Free プラン（Serverless プラン）": "https://zeabur.com/docs/ja-JP/pricing/free-plan",
+            "Team プラン": "https://zeabur.com/docs/ja-JP/pricing/team-plan",
+            "コントリビューション報酬プログラム": "https://zeabur.com/docs/ja-JP/pricing/reward",
+            "スポンサー": "https://zeabur.com/docs/ja-JP/pricing/sponsor",
+            "プラン": "https://zeabur.com/docs/ja-JP/pricing/plans",
+            "プリペイドカードの交換": "https://zeabur.com/docs/ja-JP/pricing/redeem",
+            "定価": "https://zeabur.com/docs/ja-JP/pricing/pricing",
+            "定期購読": "https://zeabur.com/docs/ja-JP/pricing/subscription",
+            "料金": "https://zeabur.com/docs/ja-JP/pricing",
+            "料金プラン": "https://zeabur.com/docs/ja-JP/pricing/pricing-plans",
+            "紹介プログラム": "https://zeabur.com/docs/ja-JP/pricing/referral"
         },
-        "法律とポリシー": {
-            "フェアユースガイドライン": "https://zeabur.com/docs/ja-JP/legal/fair-use-guideline",
-            "プライバシーポリシー": "https://zeabur.com/docs/ja-JP/legal/privacy",
-            "不正利用の報告ガイドライン": "https://zeabur.com/docs/ja-JP/legal/abuse-report",
-            "利用規約": "https://zeabur.com/docs/ja-JP/legal/terms"
+        "サブスクリプションと請求": {
+            "お支払い方法": "https://zeabur.com/docs/ja-JP/subscription/payment-methods",
+            "サブスクリプション": "https://zeabur.com/docs/ja-JP/subscription",
+            "無料クォータ": "https://zeabur.com/docs/ja-JP/subscription/free-quota",
+            "請求書": "https://zeabur.com/docs/ja-JP/subscription/invoicing",
+            "返金ポリシー": "https://zeabur.com/docs/ja-JP/subscription/refund-policy"
         },
-        "支払いと請求": {
-            "スポンサー": "https://zeabur.com/docs/ja-JP/billing/sponsor",
-            "プラン": "https://zeabur.com/docs/ja-JP/billing/plans",
-            "プリペイドカードの引換": "https://zeabur.com/docs/ja-JP/billing/redeem",
-            "定価": "https://zeabur.com/docs/ja-JP/billing/pricing",
-            "定期購読": "https://zeabur.com/docs/ja-JP/billing/subscription"
+        "リワードと紹介": {
+            "コントリビューション報酬プログラム": "https://zeabur.com/docs/ja-JP/rewards/contribution",
+            "スポンサー": "https://zeabur.com/docs/ja-JP/rewards/sponsor",
+            "パートナープログラム": "https://zeabur.com/docs/ja-JP/rewards/partner",
+            "プリペイドカードの交換": "https://zeabur.com/docs/ja-JP/rewards/redeem-card",
+            "リワードと紹介": "https://zeabur.com/docs/ja-JP/rewards",
+            "紹介プログラム": "https://zeabur.com/docs/ja-JP/rewards/referral"
         },
-        "コミュニティ": {
-            "アカウントを確認してください": "https://zeabur.com/docs/ja-JP/community/verify",
-            "コミュニティフォーラム": "https://zeabur.com/docs/ja-JP/community/forum",
-            "ヘルプを取得する": "https://zeabur.com/docs/ja-JP/community/help",
-            "紹介報酬": "https://zeabur.com/docs/ja-JP/community/referral",
-            "貢献報酬プログラム": "https://zeabur.com/docs/ja-JP/community/contribution"
+        "パートナープログラム": {
+            "セールスパートナー": "https://zeabur.com/docs/ja-JP/partner/sales-partner",
+            "パートナープログラム": "https://zeabur.com/docs/ja-JP/partner",
+            "教育推進": "https://zeabur.com/docs/ja-JP/partner/education"
         },
-        "高度な内容": {
+        "プライバシーポリシー": {
+            "プライバシーポリシー": "https://zeabur.com/docs/ja-JP/privacy-policy"
+        },
+        "コンプライアンス": {
+            "不正利用報告ガイドライン": "https://zeabur.com/docs/ja-JP/compliance/abuse-report",
+            "公正利用ガイドライン": "https://zeabur.com/docs/ja-JP/compliance/fair-use-guidelines"
+        },
+        "利用規約": {
+            "利用規約": "https://zeabur.com/docs/ja-JP/terms-of-service"
+        },
+        "Advanced": {
             "ビルド": "https://zeabur.com/docs/ja-JP/advanced/builds"
         },
-        "開発者": {
-            "API キーの作成と使用": "https://zeabur.com/docs/ja-JP/developer/use-api-key",
-            "WebSocket 接続ガイド": "https://zeabur.com/docs/ja-JP/developer/websocket-guide",
-            "オープン API": "https://zeabur.com/docs/ja-JP/developer/public-api"
+        "Billing": {
+            "スポンサー": "https://zeabur.com/docs/ja-JP/billing/sponsor",
+            "プリペイドカードの交換": "https://zeabur.com/docs/ja-JP/billing/redeem",
+            "料金プラン": "https://zeabur.com/docs/ja-JP/billing-legal"
         },
-        "インポートガイド": {
+        "Billing Legal": {},
+        "Community": {
+            "FAQ とサポート": "https://zeabur.com/docs/ja-JP/community/forum",
+            "アカウントを確認してください": "https://zeabur.com/docs/ja-JP/community/verify",
+            "コントリビューション報酬プログラム": "https://zeabur.com/docs/ja-JP/community/contribution",
+            "ヘルプを取得する": "https://zeabur.com/docs/ja-JP/community/help",
+            "紹介プログラム": "https://zeabur.com/docs/ja-JP/community/referral"
+        },
+        "Data Management": {
+            "データ管理": "https://zeabur.com/docs/ja-JP/data-management",
+            "バックアップの復元": "https://zeabur.com/docs/ja-JP/data-management/restore",
+            "バックアップサービス": "https://zeabur.com/docs/ja-JP/data-management/backup",
+            "ファイル管理": "https://zeabur.com/docs/ja-JP/data-management/file-management",
+            "永続ストレージ": "https://zeabur.com/docs/ja-JP/data-management/volumes",
+            "設定ファイルの編集": "https://zeabur.com/docs/ja-JP/data-management/config-edit"
+        },
+        "Legal": {
+            "プライバシーポリシー": "https://zeabur.com/docs/ja-JP/legal/privacy",
+            "公正利用ガイドライン": "https://zeabur.com/docs/ja-JP/legal/fair-use-guideline",
+            "利用規約": "https://zeabur.com/docs/ja-JP/legal/terms"
+        },
+        "Monitoring": {
+            "ヘルスチェック": "https://zeabur.com/docs/ja-JP/monitoring/health-checks",
+            "メトリクス": "https://zeabur.com/docs/ja-JP/monitoring/metrics",
+            "モニタリング": "https://zeabur.com/docs/ja-JP/monitoring",
+            "ログとストリーミング": "https://zeabur.com/docs/ja-JP/monitoring/logging"
+        },
+        "Networking": {
+            "ネットワーク": "https://zeabur.com/docs/ja-JP/networking",
+            "プライベートネットワーキング": "https://zeabur.com/docs/ja-JP/networking/private",
+            "ルートドメインの DNS 設定": "https://zeabur.com/docs/ja-JP/networking/public",
+            "高可用性アーキテクチャ": "https://zeabur.com/docs/ja-JP/networking/high-availability"
+        },
+        "Manage": {
+            "セキュリティレポート": "https://zeabur.com/docs/ja-JP/manage/security-report",
+            "プロジェクト予算": "https://zeabur.com/docs/ja-JP/manage/budget",
+            "メトリクス": "https://zeabur.com/docs/ja-JP/manage/metric",
+            "メンバーの招待": "https://zeabur.com/docs/ja-JP/manage/invite"
+        },
+        "Infrastructure": {
+            "デプロイとサービス": "https://zeabur.com/docs/ja-JP/infrastructure"
+        },
+        "Mesh": {
+            "Zeabur Mesh": "https://zeabur.com/docs/ja-JP/mesh"
+        },
+        "Tutorials": {
             "Bolt.newプロジェクトをZeaburを使用してウェブにデプロイする方法": "https://zeabur.com/docs/ja-JP/tutorials/bolt",
             "EmergentからZeaburへの移行方法": "https://zeabur.com/docs/ja-JP/tutorials/emergent",
+            "GitHub 連携": "https://zeabur.com/docs/ja-JP/tutorials/github",
             "Google AI StudioプロジェクトをGitHubにエクスポートする方法": "https://zeabur.com/docs/ja-JP/tutorials/aistudio",
             "Lovable.devプロジェクトをZeaburでウェブに展開する方法": "https://zeabur.com/docs/ja-JP/tutorials/lovable",
             "Replit プロジェクトを Zeabur でウェブにデプロイする方法": "https://zeabur.com/docs/ja-JP/tutorials/replit",
-            "ZeaburでGitHubリポジトリをデプロイする方法": "https://zeabur.com/docs/ja-JP/tutorials/github",
-            "v0 プロジェクトを Zeabur で Web にデプロイする方法": "https://zeabur.com/docs/ja-JP/tutorials/v0",
-            "インポートガイド": "https://zeabur.com/docs/ja-JP/tutorials"
-        }
+            "Vercel からの移行": "https://zeabur.com/docs/ja-JP/tutorials/v0",
+            "はじめに＆クイックガイド": "https://zeabur.com/docs/ja-JP/tutorials"
+        },
+        "Mcp": {
+            "Zeabur MCP サーバー": "https://zeabur.com/docs/ja-JP/mcp"
+        },
+        "Index": {}
     },
     "es-ES": {
-        "Introducción": {},
-        "Empezar": {
+        "Comenzar": {
+            "Comenzar y Guías Rápidas": "https://zeabur.com/docs/es-ES/get-started",
+            "Cómo desplegar tu proyecto Bolt.new en la web con Zeabur": "https://zeabur.com/docs/es-ES/get-started/migration/bolt",
+            "Cómo desplegar tu proyecto de Replit en la web con Zeabur": "https://zeabur.com/docs/es-ES/get-started/migration/replit",
+            "Cómo exportar tu proyecto de Google AI Studio a GitHub": "https://zeabur.com/docs/es-ES/get-started/migration/aistudio",
+            "Cómo implementar tu proyecto Lovable.dev en la web con Zeabur": "https://zeabur.com/docs/es-ES/get-started/migration/lovable",
+            "Cómo migrar de Emergent a Zeabur": "https://zeabur.com/docs/es-ES/get-started/migration/emergent",
             "Empezar": "https://zeabur.com/docs/es-ES/wonder-mesh/get-started",
-            "Primeros Pasos": "https://zeabur.com/docs/es-ES/get-started"
+            "Empezar según tu Necesidad": "https://zeabur.com/docs/es-ES/get-started/start-by-need",
+            "FAQ y Soporte": "https://zeabur.com/docs/es-ES/get-started/faq-support",
+            "Inicio Rápido": "https://zeabur.com/docs/es-ES/get-started/quick-start",
+            "Mejores Prácticas": "https://zeabur.com/docs/es-ES/get-started/best-practices",
+            "Migrar desde Fly.io": "https://zeabur.com/docs/es-ES/get-started/migration/fly-io",
+            "Migrar desde Heroku": "https://zeabur.com/docs/es-ES/get-started/migration/heroku",
+            "Migrar desde Railway": "https://zeabur.com/docs/es-ES/get-started/migration/railway",
+            "Migrar desde Vercel": "https://zeabur.com/docs/es-ES/get-started/migration/vercel",
+            "Obtener Ayuda": "https://zeabur.com/docs/es-ES/get-started/faq-support/help",
+            "Verify Your Account": "https://zeabur.com/docs/es-ES/get-started/faq-support/verify",
+            "Visión General de la Plataforma": "https://zeabur.com/docs/es-ES/get-started/platform-overview"
+        },
+        "Servidores": {
+            "Clúster Compartido (Descontinuado)": "https://zeabur.com/docs/es-ES/dedicated-server/shared-cluster",
+            "Comprar un Servidor en Zeabur": "https://zeabur.com/docs/es-ES/dedicated-server/purchase",
+            "Firewall y Configuración de Seguridad": "https://zeabur.com/docs/es-ES/dedicated-server/firewall",
+            "Mantener tu Servidor Dedicado": "https://zeabur.com/docs/es-ES/dedicated-server/operate",
+            "Registrar Servidor Dedicado": "https://zeabur.com/docs/es-ES/dedicated-server/register",
+            "Servidor Dedicado": "https://zeabur.com/docs/es-ES/dedicated-server"
         },
         "Implementar": {
+            "404": "https://zeabur.com/docs/es-ES/deploy/deploy-with-chrome-extension",
             "Actualizar la referencia de imagen del servicio Docker": "https://zeabur.com/docs/es-ES/deploy/update-image-reference",
-            "Copiar Proyecto": "https://zeabur.com/docs/es-ES/deploy/copy-project",
+            "Arquitectura de Alta Disponibilidad": "https://zeabur.com/docs/es-ES/deploy/networking/high-availability",
+            "Botón de Despliegue": "https://zeabur.com/docs/es-ES/deploy/methods/deploy-button",
+            "Catálogo de Plantillas": "https://zeabur.com/docs/es-ES/deploy/templates/template-catalog",
+            "Compilaciones": "https://zeabur.com/docs/es-ES/deploy/how-deploys-work",
+            "Configuración del Servicio": "https://zeabur.com/docs/es-ES/deploy/config",
+            "Copiar Proyecto": "https://zeabur.com/docs/es-ES/deploy/manage/copy-project",
+            "Crear Proyecto": "https://zeabur.com/docs/es-ES/deploy/create-project",
+            "Crear Proyectos y Servicios": "https://zeabur.com/docs/es-ES/deploy/create",
             "Crear Servicio": "https://zeabur.com/docs/es-ES/deploy/create-service",
             "Custom Root Directory": "https://zeabur.com/docs/es-ES/deploy/root-directory",
-            "Deploy Button": "https://zeabur.com/docs/es-ES/deploy/deploy-button",
-            "Deploy Service in Zeabur CLI": "https://zeabur.com/docs/es-ES/deploy/deploy-in-cli",
+            "Despliegue y Servicios": "https://zeabur.com/docs/es-ES/deploy",
             "Ejecutar Comandos": "https://zeabur.com/docs/es-ES/deploy/command-execution",
-            "Exportar Proyecto": "https://zeabur.com/docs/es-ES/deploy/export-project",
-            "Imagen Docker personalizada": "https://zeabur.com/docs/es-ES/deploy/customize-prebuilt",
-            "Implementación con Dockerfile": "https://zeabur.com/docs/es-ES/deploy/dockerfile",
-            "Implementar proyectos de Gemini Canvas con la extensión de Chrome": "https://zeabur.com/docs/es-ES/deploy/deploy-with-chrome-extension/gemini",
-            "Implementar servicios con extensiones": "https://zeabur.com/docs/es-ES/deploy/deploy-with-chrome-extension",
-            "Integración con GitHub": "https://zeabur.com/docs/es-ES/deploy/github",
+            "Exportar Proyecto": "https://zeabur.com/docs/es-ES/deploy/manage/export-project",
+            "Formato de Plantilla": "https://zeabur.com/docs/es-ES/deploy/templates/template-format",
+            "Gestión de Despliegue": "https://zeabur.com/docs/es-ES/operations/deployment",
+            "Gestión de Proyectos": "https://zeabur.com/docs/es-ES/deploy/manage",
+            "Imagen Docker personalizada": "https://zeabur.com/docs/es-ES/deploy/methods/custom-docker-image",
+            "Implementación con Dockerfile": "https://zeabur.com/docs/es-ES/deploy/methods/dockerfile",
+            "Implementar proyectos de Gemini Canvas con la extensión de Chrome": "https://zeabur.com/docs/es-ES/deploy/methods/deploy-with-chrome-extension/gemini",
+            "Integración con GitHub": "https://zeabur.com/docs/es-ES/deploy/methods/github-integration",
             "Manejo de Archivos Grandes": "https://zeabur.com/docs/es-ES/deploy/large-files",
+            "Mantener y Actualizar Plantillas": "https://zeabur.com/docs/es-ES/deploy/templates/maintain-template",
+            "Migrar Proyecto": "https://zeabur.com/docs/es-ES/deploy/migrate-project",
+            "Métodos de Despliegue": "https://zeabur.com/docs/es-ES/deploy/methods",
+            "Red": "https://zeabur.com/docs/es-ES/deploy/networking",
+            "Red Privada": "https://zeabur.com/docs/es-ES/deploy/private-networking",
+            "Red Pública": "https://zeabur.com/docs/es-ES/deploy/public-networking",
+            "Registro de Dominios": "https://zeabur.com/docs/es-ES/deploy/networking/domain-registration",
+            "Reversiones": "https://zeabur.com/docs/es-ES/operations/deployment/rollbacks",
             "Setting Environment Variables": "https://zeabur.com/docs/es-ES/deploy/variables",
-            "Usar el complemento de Chrome para desplegar servicios": "https://zeabur.com/docs/es-ES/deploy/deploy-with-raycast-extension",
-            "Usar el complemento de VS Code para desplegar servicios": "https://zeabur.com/docs/es-ES/deploy/deploy-with-vscode-extension",
+            "Suspender Servicio": "https://zeabur.com/docs/es-ES/operations/deployment/suspend-service",
+            "Usar el complemento de Chrome para desplegar servicios": "https://zeabur.com/docs/es-ES/deploy/methods/deploy-with-raycast-extension",
+            "Usar el complemento de VS Code para desplegar servicios": "https://zeabur.com/docs/es-ES/deploy/methods/deploy-with-vscode-extension",
             "Watch Paths": "https://zeabur.com/docs/es-ES/deploy/watch-paths"
         },
-        "Plantilla": {
-            "Creating Templates from YAML": "https://zeabur.com/docs/es-ES/template/template-in-code",
-            "Fork Code from Template Services": "https://zeabur.com/docs/es-ES/template/fork-git-repo-from-template"
+        "Operaciones": {
+            "Configuración de Recursos": "https://zeabur.com/docs/es-ES/operations/resources",
+            "Editor de Configuración": "https://zeabur.com/docs/es-ES/operations/config-file-management",
+            "Escalado": "https://zeabur.com/docs/es-ES/operations/scaling",
+            "Gestión de Archivos": "https://zeabur.com/docs/es-ES/operations/file-management",
+            "Gestión de Datos": "https://zeabur.com/docs/es-ES/operations/data",
+            "Gestión del Equipo": "https://zeabur.com/docs/es-ES/operations/team",
+            "Informe de Seguridad": "https://zeabur.com/docs/es-ES/operations/team/security-report",
+            "Invitar Miembros": "https://zeabur.com/docs/es-ES/operations/team/invite-member",
+            "Monitoreo": "https://zeabur.com/docs/es-ES/operations/monitoring",
+            "Métricas": "https://zeabur.com/docs/es-ES/operations/metrics",
+            "Operaciones y Herramientas para Desarrolladores": "https://zeabur.com/docs/es-ES/operations",
+            "Presupuesto del Proyecto": "https://zeabur.com/docs/es-ES/operations/resources/project-budget",
+            "Registros y Streaming": "https://zeabur.com/docs/es-ES/operations/logging",
+            "Respaldo y Restauración": "https://zeabur.com/docs/es-ES/operations/backup-restore",
+            "Reversiones": "https://zeabur.com/docs/es-ES/operations/rollbacks",
+            "Suspender Servicio": "https://zeabur.com/docs/es-ES/operations/suspend-service",
+            "Uso del Servicio": "https://zeabur.com/docs/es-ES/operations/service-usage",
+            "Verificaciones de Salud": "https://zeabur.com/docs/es-ES/operations/health-checks",
+            "Volúmenes": "https://zeabur.com/docs/es-ES/operations/volumes"
         },
-        "Catálogo de Plantillas": {
-            "Catálogo de Plantillas": "https://zeabur.com/templates"
-        },
-        "Zeabur AI Hub": {
+        "AI Hub": {
             "Usar Zeabur AI Hub en SillyTavern": "https://zeabur.com/docs/es-ES/ai-hub/sillytavern-integration",
             "Usar Zeabur AI Hub en n8n": "https://zeabur.com/docs/es-ES/ai-hub/n8n-integration",
             "Zeabur AI Hub": "https://zeabur.com/docs/es-ES/ai-hub"
         },
-        "Zeabur Email": {
+        "Dominio": {
+            "Gestión de Dominios": "https://zeabur.com/docs/es-ES/email/domains",
+            "Perfiles de Registrante": "https://zeabur.com/docs/es-ES/domain/profiles",
+            "Registrar un Dominio": "https://zeabur.com/docs/es-ES/domain/register",
+            "Registros DNS": "https://zeabur.com/docs/es-ES/domain/dns",
+            "Subdominio previo al registro ICP": "https://zeabur.com/docs/es-ES/networking/pre-icp-subdomain"
+        },
+        "Email": {
             "Configuración de Webhook": "https://zeabur.com/docs/es-ES/email/webhooks",
             "Gestión de Claves API": "https://zeabur.com/docs/es-ES/email/api-keys",
-            "Gestión de Dominios": "https://zeabur.com/docs/es-ES/email/domains",
             "Inicio Rápido": "https://zeabur.com/docs/es-ES/email/quick-start",
             "Referencia de REST API": "https://zeabur.com/docs/es-ES/email/rest-api",
             "Zeabur Email": "https://zeabur.com/docs/es-ES/email"
@@ -662,6 +1237,12 @@
             "Wonder Mesh": "https://zeabur.com/docs/es-ES/wonder-mesh",
             "¿Qué hace el script de instalación?": "https://zeabur.com/docs/es-ES/wonder-mesh/install-script-details"
         },
+        "Plantillas": {
+            "Catálogo de Plantillas": "https://zeabur.com/docs/es-ES/template/template-catalog",
+            "Formato de Plantilla": "https://zeabur.com/docs/es-ES/template/template-in-code",
+            "Mantener y Actualizar Plantillas": "https://zeabur.com/docs/es-ES/template/maintain-template",
+            "Plantillas": "https://zeabur.com/docs/es-ES/template"
+        },
         "Integraciones": {
             "Conectar IDE de IA": "https://zeabur.com/docs/es-ES/integrations/insforge/connect-ai-ide",
             "Inicio Rápido": "https://zeabur.com/docs/es-ES/integrations/insforge/quick-start",
@@ -669,19 +1250,15 @@
             "Integraciones": "https://zeabur.com/docs/es-ES/integrations",
             "Uso y Facturación": "https://zeabur.com/docs/es-ES/integrations/insforge/usage-and-billing"
         },
-        "Gestión de Datos": {
-            "Copia de Seguridad de tu Servicio": "https://zeabur.com/docs/es-ES/data-management/backup",
-            "Editor de Configuración": "https://zeabur.com/docs/es-ES/data-management/config-edit",
-            "Gestión de Archivos": "https://zeabur.com/docs/es-ES/data-management/file-management",
-            "Restaurar Copia de Seguridad": "https://zeabur.com/docs/es-ES/data-management/restore",
-            "Volúmenes": "https://zeabur.com/docs/es-ES/data-management/volumes"
+        "Herramientas de Desarrollador": {
+            "API Pública": "https://zeabur.com/docs/es-ES/developer/public-api",
+            "Claude Code Skills": "https://zeabur.com/docs/es-ES/developer/claude-code-skills",
+            "Crear y Usar Claves de API": "https://zeabur.com/docs/es-ES/developer/api-keys",
+            "Guía de Conexión WebSocket": "https://zeabur.com/docs/es-ES/developer/websocket-guide",
+            "Recursos para Desarrolladores": "https://zeabur.com/docs/es-ES/developer",
+            "Zeabur CLI": "https://zeabur.com/docs/es-ES/developer/cli"
         },
-        "Redes": {
-            "Arquitectura de Alta Disponibilidad": "https://zeabur.com/docs/es-ES/networking/high-availability",
-            "Red privada": "https://zeabur.com/docs/es-ES/networking/private",
-            "Red pública": "https://zeabur.com/docs/es-ES/networking/public"
-        },
-        "Guías": {
+        "Frameworks": {
             "Bun": "https://zeabur.com/docs/es-ES/guides/bun",
             "Deploy .NET App": "https://zeabur.com/docs/es-ES/guides/dotnet",
             "Deploy Astro on Zeabur": "https://zeabur.com/docs/es-ES/guides/nodejs/astro",
@@ -713,54 +1290,120 @@
             "Desplegar aplicaciones de Rust": "https://zeabur.com/docs/es-ES/guides/rust",
             "Despliega Proyectos Python": "https://zeabur.com/docs/es-ES/guides/python",
             "Despliegue de proyecto Reflex": "https://zeabur.com/docs/es-ES/guides/python/reflex",
+            "Frameworks": "https://zeabur.com/docs/es-ES/guides",
             "Guía de Despliegue de Symfony": "https://zeabur.com/docs/es-ES/guides/php/symfony",
             "Hono": "https://zeabur.com/docs/es-ES/guides/bun/hono",
             "Hugo": "https://zeabur.com/docs/es-ES/guides/static/hugo",
             "MkDocs": "https://zeabur.com/docs/es-ES/guides/static/mkdocs"
         },
-        "Gestión de Proyectos": {
-            "Informe de seguridad": "https://zeabur.com/docs/es-ES/manage/security-report",
-            "Invite Member": "https://zeabur.com/docs/es-ES/manage/invite",
-            "Project Budget": "https://zeabur.com/docs/es-ES/manage/budget",
-            "Service Usage": "https://zeabur.com/docs/es-ES/manage/metric"
+        "Precios": {
+            "Canjear Tarjeta Prepago": "https://zeabur.com/docs/es-ES/pricing/redeem-card",
+            "Patrocinio": "https://zeabur.com/docs/es-ES/pricing/sponsor",
+            "Plan Dev (Plan Desarrollador)": "https://zeabur.com/docs/es-ES/pricing/dev-plan",
+            "Plan Gratuito (Plan Serverless)": "https://zeabur.com/docs/es-ES/pricing/free-plan",
+            "Plan Team": "https://zeabur.com/docs/es-ES/pricing/team-plan",
+            "Planes": "https://zeabur.com/docs/es-ES/pricing/plans",
+            "Precios": "https://zeabur.com/docs/es-ES/pricing",
+            "Programa de Recompensas por Contribución": "https://zeabur.com/docs/es-ES/pricing/reward",
+            "Programa de Referidos": "https://zeabur.com/docs/es-ES/pricing/referral",
+            "Subscription": "https://zeabur.com/docs/es-ES/pricing/subscription"
         },
-        "Legal y Políticas": {
-            "Guía de uso justo": "https://zeabur.com/docs/es-ES/legal/fair-use-guideline",
-            "Guía para reportar abusos": "https://zeabur.com/docs/es-ES/legal/abuse-report",
-            "Política de privacidad": "https://zeabur.com/docs/es-ES/legal/privacy",
-            "Terms of Service": "https://zeabur.com/docs/es-ES/legal/terms"
+        "Suscripción y Facturación": {
+            "Cuota Gratuita": "https://zeabur.com/docs/es-ES/subscription/free-quota",
+            "Facturación": "https://zeabur.com/docs/es-ES/subscription/invoicing",
+            "Métodos de Pago": "https://zeabur.com/docs/es-ES/subscription/payment-methods",
+            "Política de Reembolso": "https://zeabur.com/docs/es-ES/subscription/refund-policy",
+            "Suscripción": "https://zeabur.com/docs/es-ES/subscription"
         },
-        "Pagos y Facturación": {
-            "Canjear Tarjeta Prepago": "https://zeabur.com/docs/es-ES/billing/redeem",
-            "Planes": "https://zeabur.com/docs/es-ES/billing/plans",
-            "Precios": "https://zeabur.com/docs/es-ES/billing/pricing",
-            "Sponsor": "https://zeabur.com/docs/es-ES/billing/sponsor",
-            "Subscription": "https://zeabur.com/docs/es-ES/billing/subscription"
+        "Recompensas y Referidos": {
+            "Canjear Tarjeta Prepago": "https://zeabur.com/docs/es-ES/rewards/redeem-card",
+            "Patrocinio": "https://zeabur.com/docs/es-ES/rewards/sponsor",
+            "Programa de Recompensas por Contribución": "https://zeabur.com/docs/es-ES/rewards/contribution",
+            "Programa de Referidos": "https://zeabur.com/docs/es-ES/rewards/referral",
+            "Programa de Socios": "https://zeabur.com/docs/es-ES/rewards/partner",
+            "Recompensas y Referidos": "https://zeabur.com/docs/es-ES/rewards"
         },
-        "Comunidad": {
-            "Foro de la Comunidad": "https://zeabur.com/docs/es-ES/community/forum",
-            "Obtener Ayuda": "https://zeabur.com/docs/es-ES/community/help",
-            "Programa de Recompensas por Contribución": "https://zeabur.com/docs/es-ES/community/contribution",
-            "Recompensas por referidos": "https://zeabur.com/docs/es-ES/community/referral",
-            "Verify Your Account": "https://zeabur.com/docs/es-ES/community/verify"
+        "Programa de Socios": {
+            "Programa de Socios": "https://zeabur.com/docs/es-ES/partner",
+            "Promoción Educativa": "https://zeabur.com/docs/es-ES/partner/education",
+            "Socio de Ventas": "https://zeabur.com/docs/es-ES/partner/sales-partner"
         },
-        "Avanzado": {
+        "Política de Privacidad": {
+            "Política de Privacidad": "https://zeabur.com/docs/es-ES/privacy-policy"
+        },
+        "Cumplimiento": {
+            "Directrices de Reporte de Abuso": "https://zeabur.com/docs/es-ES/compliance/abuse-report",
+            "Directrices de Uso Justo": "https://zeabur.com/docs/es-ES/compliance/fair-use-guidelines"
+        },
+        "Términos de Servicio": {
+            "Términos de Servicio": "https://zeabur.com/docs/es-ES/terms-of-service"
+        },
+        "Advanced": {
             "Builds": "https://zeabur.com/docs/es-ES/advanced/builds"
         },
-        "Desarrollador": {
-            "API Pública": "https://zeabur.com/docs/es-ES/developer/public-api",
-            "Crear y Usar Claves de API": "https://zeabur.com/docs/es-ES/developer/use-api-key",
-            "Guía de Conexión WebSocket": "https://zeabur.com/docs/es-ES/developer/websocket-guide"
+        "Billing": {
+            "Canjear Tarjeta Prepago": "https://zeabur.com/docs/es-ES/billing/redeem",
+            "Patrocinio": "https://zeabur.com/docs/es-ES/billing/sponsor",
+            "Precios": "https://zeabur.com/docs/es-ES/billing-legal"
         },
-        "Guías de Importación": {
+        "Billing Legal": {},
+        "Community": {
+            "FAQ y Soporte": "https://zeabur.com/docs/es-ES/community/forum",
+            "Obtener Ayuda": "https://zeabur.com/docs/es-ES/community/help",
+            "Programa de Recompensas por Contribución": "https://zeabur.com/docs/es-ES/community/contribution",
+            "Programa de Referidos": "https://zeabur.com/docs/es-ES/community/referral",
+            "Verify Your Account": "https://zeabur.com/docs/es-ES/community/verify"
+        },
+        "Data Management": {
+            "Copia de Seguridad de tu Servicio": "https://zeabur.com/docs/es-ES/data-management/backup",
+            "Editor de Configuración": "https://zeabur.com/docs/es-ES/data-management/config-edit",
+            "Gestión de Archivos": "https://zeabur.com/docs/es-ES/data-management/file-management",
+            "Gestión de Datos": "https://zeabur.com/docs/es-ES/data-management",
+            "Restaurar Copia de Seguridad": "https://zeabur.com/docs/es-ES/data-management/restore",
+            "Volúmenes": "https://zeabur.com/docs/es-ES/data-management/volumes"
+        },
+        "Legal": {
+            "Directrices de Uso Justo": "https://zeabur.com/docs/es-ES/legal/fair-use-guideline",
+            "Política de Privacidad": "https://zeabur.com/docs/es-ES/legal/privacy",
+            "Términos de Servicio": "https://zeabur.com/docs/es-ES/legal/terms"
+        },
+        "Monitoring": {
+            "Monitoreo": "https://zeabur.com/docs/es-ES/monitoring",
+            "Métricas": "https://zeabur.com/docs/es-ES/monitoring/metrics",
+            "Registros y Streaming": "https://zeabur.com/docs/es-ES/monitoring/logging",
+            "Verificaciones de Salud": "https://zeabur.com/docs/es-ES/monitoring/health-checks"
+        },
+        "Networking": {
+            "Arquitectura de Alta Disponibilidad": "https://zeabur.com/docs/es-ES/networking/high-availability",
+            "Red": "https://zeabur.com/docs/es-ES/networking",
+            "Red privada": "https://zeabur.com/docs/es-ES/networking/private",
+            "Red pública": "https://zeabur.com/docs/es-ES/networking/public"
+        },
+        "Manage": {
+            "Informe de Seguridad": "https://zeabur.com/docs/es-ES/manage/security-report",
+            "Invitar Miembros": "https://zeabur.com/docs/es-ES/manage/invite",
+            "Métricas": "https://zeabur.com/docs/es-ES/manage/metric",
+            "Presupuesto del Proyecto": "https://zeabur.com/docs/es-ES/manage/budget"
+        },
+        "Infrastructure": {
+            "Despliegue y Servicios": "https://zeabur.com/docs/es-ES/infrastructure"
+        },
+        "Mesh": {
+            "Zeabur Mesh": "https://zeabur.com/docs/es-ES/mesh"
+        },
+        "Tutorials": {
+            "Comenzar y Guías Rápidas": "https://zeabur.com/docs/es-ES/tutorials",
             "Cómo desplegar tu proyecto Bolt.new en la web con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/bolt",
             "Cómo desplegar tu proyecto de Replit en la web con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/replit",
-            "Cómo desplegar tu proyecto v0 en la web con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/v0",
-            "Cómo desplegar un repositorio de GitHub con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/github",
             "Cómo exportar tu proyecto de Google AI Studio a GitHub": "https://zeabur.com/docs/es-ES/tutorials/aistudio",
             "Cómo implementar tu proyecto Lovable.dev en la web con Zeabur": "https://zeabur.com/docs/es-ES/tutorials/lovable",
             "Cómo migrar de Emergent a Zeabur": "https://zeabur.com/docs/es-ES/tutorials/emergent",
-            "Guías de Importación": "https://zeabur.com/docs/es-ES/tutorials"
-        }
+            "Integración con GitHub": "https://zeabur.com/docs/es-ES/tutorials/github",
+            "Migrar desde Vercel": "https://zeabur.com/docs/es-ES/tutorials/v0"
+        },
+        "Mcp": {
+            "Servidor MCP de Zeabur": "https://zeabur.com/docs/es-ES/mcp"
+        },
+        "Index": {}
     }
 }
