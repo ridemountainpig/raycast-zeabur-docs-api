@@ -28,6 +28,11 @@
             "Register Dedicated Server": "https://zeabur.com/docs/en-US/dedicated-server/register",
             "Shared Cluster (Being Phased Out)": "https://zeabur.com/docs/en-US/dedicated-server/shared-cluster"
         },
+        "Clusters": {
+            "Clusters": "https://zeabur.com/docs/en-US/cluster",
+            "Connect an Existing Kubernetes Cluster": "https://zeabur.com/docs/en-US/cluster/bind",
+            "Purchase a Cluster": "https://zeabur.com/docs/en-US/cluster/purchase"
+        },
         "Deploy": {
             "404": "https://zeabur.com/docs/en-US/deploy/deploy-with-chrome-extension",
             "Builds": "https://zeabur.com/docs/en-US/deploy/how-deploys-work",
@@ -74,7 +79,7 @@
             "Health Checks": "https://zeabur.com/docs/en-US/operations/monitoring/health-checks",
             "Invite Member": "https://zeabur.com/docs/en-US/operations/team/invite-member",
             "Logging & Streaming": "https://zeabur.com/docs/en-US/operations/logging",
-            "Metrics": "https://zeabur.com/docs/en-US/operations/monitoring/metrics",
+            "Metrics": "https://zeabur.com/docs/en-US/operations/metrics",
             "Monitoring": "https://zeabur.com/docs/en-US/operations/monitoring",
             "Operations & Developer Tools": "https://zeabur.com/docs/en-US/operations",
             "Project Budget": "https://zeabur.com/docs/en-US/operations/project-budget",
@@ -94,7 +99,7 @@
         },
         "Domain": {
             "DNS Records": "https://zeabur.com/docs/en-US/domain/dns",
-            "Domain Management": "https://zeabur.com/docs/en-US/domain/management",
+            "Domain Management": "https://zeabur.com/docs/en-US/email/domains",
             "Pre-ICP-Filing Subdomain": "https://zeabur.com/docs/en-US/networking/pre-icp-subdomain",
             "Register a Domain": "https://zeabur.com/docs/en-US/domain/register",
             "Registrant Profiles": "https://zeabur.com/docs/en-US/domain/profiles"
@@ -309,6 +314,11 @@
             "註冊專用伺服器": "https://zeabur.com/docs/zh-TW/dedicated-server/register",
             "防火牆與安全設定": "https://zeabur.com/docs/zh-TW/dedicated-server/firewall"
         },
+        "叢集": {
+            "叢集": "https://zeabur.com/docs/zh-TW/cluster",
+            "綁定既有 Kubernetes 叢集": "https://zeabur.com/docs/zh-TW/cluster/bind",
+            "購買叢集": "https://zeabur.com/docs/zh-TW/cluster/purchase"
+        },
         "部署": {
             "404": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-chrome-extension",
             "Dockerfile 部署": "https://zeabur.com/docs/zh-TW/deploy/methods/dockerfile",
@@ -318,7 +328,7 @@
             "公網存取": "https://zeabur.com/docs/zh-TW/deploy/public-networking",
             "匯出專案": "https://zeabur.com/docs/zh-TW/deploy/manage/export-project",
             "在 Gemini Canvas 使用 Chrome 擴充功能部署": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-with-chrome-extension/gemini",
-            "執行命令": "https://zeabur.com/docs/zh-TW/deploy/command-execution",
+            "執行命令": "https://zeabur.com/docs/zh-TW/deploy/config/command-execution",
             "大型檔案處理": "https://zeabur.com/docs/zh-TW/deploy/large-files",
             "專案管理": "https://zeabur.com/docs/zh-TW/deploy/manage",
             "建立專案": "https://zeabur.com/docs/zh-TW/deploy/create-project",
@@ -349,7 +359,7 @@
         },
         "維運": {
             "404": "https://zeabur.com/docs/zh-TW/operations/maintenance-mode",
-            "使用量分析": "https://zeabur.com/docs/zh-TW/operations/resources/service-usage",
+            "使用量分析": "https://zeabur.com/docs/zh-TW/operations/service-usage",
             "健康檢查": "https://zeabur.com/docs/zh-TW/operations/monitoring/health-checks",
             "備份與還原": "https://zeabur.com/docs/zh-TW/operations/backup-restore",
             "團隊管理": "https://zeabur.com/docs/zh-TW/operations/team",
@@ -362,7 +372,7 @@
             "檔案管理": "https://zeabur.com/docs/zh-TW/operations/file-management",
             "版本還原": "https://zeabur.com/docs/zh-TW/operations/rollbacks",
             "監控": "https://zeabur.com/docs/zh-TW/operations/monitoring",
-            "監控指標": "https://zeabur.com/docs/zh-TW/operations/monitoring/metrics",
+            "監控指標": "https://zeabur.com/docs/zh-TW/operations/metrics",
             "編輯設定檔": "https://zeabur.com/docs/zh-TW/operations/config-file-management",
             "資料管理": "https://zeabur.com/docs/zh-TW/operations/data",
             "資源配置": "https://zeabur.com/docs/zh-TW/operations/resources",
@@ -395,7 +405,7 @@
         },
         "模板": {
             "模板": "https://zeabur.com/docs/zh-TW/template",
-            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-in-code",
+            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-format",
             "模板目錄": "https://zeabur.com/docs/zh-TW/template/template-catalog",
             "維護與更新模板": "https://zeabur.com/docs/zh-TW/template/maintain-template"
         },
@@ -590,6 +600,11 @@
             "维护独立服务器": "https://zeabur.com/docs/zh-CN/dedicated-server/operate",
             "防火墙与安全设置": "https://zeabur.com/docs/zh-CN/dedicated-server/firewall"
         },
+        "集群": {
+            "绑定现有 Kubernetes 集群": "https://zeabur.com/docs/zh-CN/cluster/bind",
+            "购买集群": "https://zeabur.com/docs/zh-CN/cluster/purchase",
+            "集群": "https://zeabur.com/docs/zh-CN/cluster"
+        },
         "部署": {
             "404": "https://zeabur.com/docs/zh-CN/deploy/deploy-with-chrome-extension",
             "Dockerfile 部署": "https://zeabur.com/docs/zh-CN/deploy/methods/dockerfile",
@@ -620,7 +635,7 @@
             "自定义 Docker 镜像": "https://zeabur.com/docs/zh-CN/deploy/methods/custom-docker-image",
             "自定义根目录": "https://zeabur.com/docs/zh-CN/deploy/root-directory",
             "迁移项目": "https://zeabur.com/docs/zh-CN/deploy/migrate-project",
-            "运行命令": "https://zeabur.com/docs/zh-CN/deploy/command-execution",
+            "运行命令": "https://zeabur.com/docs/zh-CN/deploy/config/command-execution",
             "部署与服务": "https://zeabur.com/docs/zh-CN/deploy",
             "部署方式": "https://zeabur.com/docs/zh-CN/deploy/methods",
             "部署管理": "https://zeabur.com/docs/zh-CN/operations/deployment",
@@ -642,12 +657,12 @@
             "暂停服务": "https://zeabur.com/docs/zh-CN/operations/suspend-service",
             "版本回滚": "https://zeabur.com/docs/zh-CN/operations/rollbacks",
             "监控": "https://zeabur.com/docs/zh-CN/operations/monitoring",
-            "监控指标": "https://zeabur.com/docs/zh-CN/operations/monitoring/metrics",
-            "编辑配置文件": "https://zeabur.com/docs/zh-CN/operations/config-file-management",
+            "监控指标": "https://zeabur.com/docs/zh-CN/operations/metrics",
+            "编辑配置文件": "https://zeabur.com/docs/zh-CN/operations/data/config-file-management",
             "资源配置": "https://zeabur.com/docs/zh-CN/operations/resources",
             "运营与开发者工具": "https://zeabur.com/docs/zh-CN/operations",
             "邀请成员": "https://zeabur.com/docs/zh-CN/operations/team/invite-member",
-            "项目预算": "https://zeabur.com/docs/zh-CN/operations/project-budget"
+            "项目预算": "https://zeabur.com/docs/zh-CN/operations/resources/project-budget"
         },
         "AI Hub": {
             "Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub",
@@ -871,6 +886,11 @@
             "専用サーバーのメンテナンス": "https://zeabur.com/docs/ja-JP/dedicated-server/operate",
             "専用サーバーの登録": "https://zeabur.com/docs/ja-JP/dedicated-server/register"
         },
+        "クラスター": {
+            "クラスター": "https://zeabur.com/docs/ja-JP/cluster",
+            "クラスターを購入する": "https://zeabur.com/docs/ja-JP/cluster/purchase",
+            "既存の Kubernetes クラスターを接続する": "https://zeabur.com/docs/ja-JP/cluster/bind"
+        },
         "デプロイ": {
             "404": "https://zeabur.com/docs/ja-JP/deploy/deploy-with-chrome-extension",
             "Docker サービスのイメージ参照を更新する": "https://zeabur.com/docs/ja-JP/deploy/update-image-reference",
@@ -915,16 +935,16 @@
             "セキュリティレポート": "https://zeabur.com/docs/ja-JP/operations/team/security-report",
             "チーム管理": "https://zeabur.com/docs/ja-JP/operations/team",
             "データ管理": "https://zeabur.com/docs/ja-JP/operations/data",
-            "バックアップと復元": "https://zeabur.com/docs/ja-JP/operations/backup-restore",
+            "バックアップと復元": "https://zeabur.com/docs/ja-JP/operations/data/backup-restore",
             "ファイル管理": "https://zeabur.com/docs/ja-JP/operations/file-management",
             "プロジェクト予算": "https://zeabur.com/docs/ja-JP/operations/project-budget",
-            "ヘルスチェック": "https://zeabur.com/docs/ja-JP/operations/monitoring/health-checks",
+            "ヘルスチェック": "https://zeabur.com/docs/ja-JP/operations/health-checks",
             "ボリューム": "https://zeabur.com/docs/ja-JP/operations/volumes",
             "メトリクス": "https://zeabur.com/docs/ja-JP/operations/monitoring/metrics",
             "メンバーの招待": "https://zeabur.com/docs/ja-JP/operations/team/invite-member",
             "モニタリング": "https://zeabur.com/docs/ja-JP/operations/monitoring",
             "リソース設定": "https://zeabur.com/docs/ja-JP/operations/resources",
-            "ログとストリーミング": "https://zeabur.com/docs/ja-JP/operations/monitoring/logging",
+            "ログとストリーミング": "https://zeabur.com/docs/ja-JP/operations/logging",
             "ロールバック": "https://zeabur.com/docs/ja-JP/operations/rollbacks",
             "使用量分析": "https://zeabur.com/docs/ja-JP/operations/service-usage",
             "設定ファイルエディタ": "https://zeabur.com/docs/ja-JP/operations/config-file-management",
@@ -1154,6 +1174,11 @@
             "Registrar Servidor Dedicado": "https://zeabur.com/docs/es-ES/dedicated-server/register",
             "Servidor Dedicado": "https://zeabur.com/docs/es-ES/dedicated-server"
         },
+        "Clústeres": {
+            "Clústeres": "https://zeabur.com/docs/es-ES/cluster",
+            "Comprar un Clúster": "https://zeabur.com/docs/es-ES/cluster/purchase",
+            "Conectar un Clúster de Kubernetes Existente": "https://zeabur.com/docs/es-ES/cluster/bind"
+        },
         "Implementar": {
             "404": "https://zeabur.com/docs/es-ES/deploy/deploy-with-chrome-extension",
             "Actualizar la referencia de imagen del servicio Docker": "https://zeabur.com/docs/es-ES/deploy/update-image-reference",
@@ -1194,18 +1219,18 @@
         },
         "Operaciones": {
             "Configuración de Recursos": "https://zeabur.com/docs/es-ES/operations/resources",
-            "Editor de Configuración": "https://zeabur.com/docs/es-ES/operations/config-file-management",
+            "Editor de Configuración": "https://zeabur.com/docs/es-ES/operations/data/config-file-management",
             "Escalado": "https://zeabur.com/docs/es-ES/operations/scaling",
             "Gestión de Archivos": "https://zeabur.com/docs/es-ES/operations/file-management",
             "Gestión de Datos": "https://zeabur.com/docs/es-ES/operations/data",
             "Gestión del Equipo": "https://zeabur.com/docs/es-ES/operations/team",
-            "Informe de Seguridad": "https://zeabur.com/docs/es-ES/operations/team/security-report",
+            "Informe de Seguridad": "https://zeabur.com/docs/es-ES/operations/security-report",
             "Invitar Miembros": "https://zeabur.com/docs/es-ES/operations/team/invite-member",
             "Monitoreo": "https://zeabur.com/docs/es-ES/operations/monitoring",
-            "Métricas": "https://zeabur.com/docs/es-ES/operations/monitoring/metrics",
+            "Métricas": "https://zeabur.com/docs/es-ES/operations/metrics",
             "Operaciones y Herramientas para Desarrolladores": "https://zeabur.com/docs/es-ES/operations",
             "Presupuesto del Proyecto": "https://zeabur.com/docs/es-ES/operations/project-budget",
-            "Registros y Streaming": "https://zeabur.com/docs/es-ES/operations/logging",
+            "Registros y Streaming": "https://zeabur.com/docs/es-ES/operations/monitoring/logging",
             "Respaldo y Restauración": "https://zeabur.com/docs/es-ES/operations/backup-restore",
             "Reversiones": "https://zeabur.com/docs/es-ES/operations/rollbacks",
             "Suspender Servicio": "https://zeabur.com/docs/es-ES/operations/suspend-service",
