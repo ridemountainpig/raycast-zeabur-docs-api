@@ -21,12 +21,12 @@
             "Verify Your Account": "https://zeabur.com/docs/en-US/get-started/faq-support/verify"
         },
         "Servers": {
-            "Dedicated Server": "https://zeabur.com/docs/en-US/dedicated-server",
-            "Firewall & Security Settings": "https://zeabur.com/docs/en-US/dedicated-server/firewall",
-            "Maintain your Dedicated Server": "https://zeabur.com/docs/en-US/dedicated-server/operate",
-            "Purchase a Server from Zeabur": "https://zeabur.com/docs/en-US/dedicated-server/purchase",
-            "Register Dedicated Server": "https://zeabur.com/docs/en-US/dedicated-server/register",
-            "Shared Cluster (Being Phased Out)": "https://zeabur.com/docs/en-US/dedicated-server/shared-cluster"
+            "Firewall & Security Settings": "https://zeabur.com/docs/en-US/server/firewall",
+            "Maintain your Server": "https://zeabur.com/docs/en-US/server/operate",
+            "Purchase a Server from Zeabur": "https://zeabur.com/docs/en-US/server/purchase",
+            "Register Server": "https://zeabur.com/docs/en-US/server/register",
+            "Server": "https://zeabur.com/docs/en-US/server",
+            "Shared Cluster (Being Phased Out)": "https://zeabur.com/docs/en-US/server/shared-cluster"
         },
         "Clusters": {
             "Clusters": "https://zeabur.com/docs/en-US/cluster",
@@ -52,7 +52,7 @@
             "Deployment Methods": "https://zeabur.com/docs/en-US/deploy/methods",
             "Domain Registration": "https://zeabur.com/docs/en-US/deploy/networking/domain-registration",
             "Execute Commands": "https://zeabur.com/docs/en-US/deploy/command-execution",
-            "Export Project": "https://zeabur.com/docs/en-US/deploy/export-project",
+            "Export Project": "https://zeabur.com/docs/en-US/deploy/manage/export-project",
             "GitHub Integration": "https://zeabur.com/docs/en-US/deploy/methods/github-integration",
             "High Availability Architecture": "https://zeabur.com/docs/en-US/deploy/networking/high-availability",
             "Large File Handling": "https://zeabur.com/docs/en-US/deploy/large-files",
@@ -73,16 +73,16 @@
         },
         "Operations": {
             "Backup & Restore": "https://zeabur.com/docs/en-US/operations/backup-restore",
-            "Config Editor": "https://zeabur.com/docs/en-US/operations/data/config-file-management",
+            "Config Editor": "https://zeabur.com/docs/en-US/operations/config-file-management",
             "Data Management": "https://zeabur.com/docs/en-US/operations/data",
             "File Management": "https://zeabur.com/docs/en-US/operations/file-management",
             "Health Checks": "https://zeabur.com/docs/en-US/operations/monitoring/health-checks",
             "Invite Member": "https://zeabur.com/docs/en-US/operations/team/invite-member",
-            "Logging & Streaming": "https://zeabur.com/docs/en-US/operations/monitoring/logging",
+            "Logging & Streaming": "https://zeabur.com/docs/en-US/operations/logging",
             "Metrics": "https://zeabur.com/docs/en-US/operations/monitoring/metrics",
             "Monitoring": "https://zeabur.com/docs/en-US/operations/monitoring",
             "Operations & Developer Tools": "https://zeabur.com/docs/en-US/operations",
-            "Project Budget": "https://zeabur.com/docs/en-US/operations/project-budget",
+            "Project Budget": "https://zeabur.com/docs/en-US/operations/resources/project-budget",
             "Resource Configuration": "https://zeabur.com/docs/en-US/operations/resources",
             "Rollbacks": "https://zeabur.com/docs/en-US/operations/rollbacks",
             "Scaling": "https://zeabur.com/docs/en-US/operations/scaling",
@@ -99,7 +99,7 @@
         },
         "Domain": {
             "DNS Records": "https://zeabur.com/docs/en-US/domain/dns",
-            "Domain Management": "https://zeabur.com/docs/en-US/domain/management",
+            "Domain Management": "https://zeabur.com/docs/en-US/email/domains",
             "Pre-ICP-Filing Subdomain": "https://zeabur.com/docs/en-US/networking/pre-icp-subdomain",
             "Register a Domain": "https://zeabur.com/docs/en-US/domain/register",
             "Registrant Profiles": "https://zeabur.com/docs/en-US/domain/profiles"
@@ -307,12 +307,12 @@
             "最佳實踐": "https://zeabur.com/docs/zh-TW/get-started/best-practices"
         },
         "伺服器": {
-            "共享叢集（即將停止服務）": "https://zeabur.com/docs/zh-TW/dedicated-server/shared-cluster",
-            "專用伺服器": "https://zeabur.com/docs/zh-TW/dedicated-server",
-            "從 Zeabur 購買主機": "https://zeabur.com/docs/zh-TW/dedicated-server/purchase",
-            "維護專用伺服器": "https://zeabur.com/docs/zh-TW/dedicated-server/operate",
-            "註冊專用伺服器": "https://zeabur.com/docs/zh-TW/dedicated-server/register",
-            "防火牆與安全設定": "https://zeabur.com/docs/zh-TW/dedicated-server/firewall"
+            "伺服器": "https://zeabur.com/docs/zh-TW/server",
+            "共享叢集（即將停止服務）": "https://zeabur.com/docs/zh-TW/server/shared-cluster",
+            "從 Zeabur 購買主機": "https://zeabur.com/docs/zh-TW/server/purchase",
+            "維護伺服器": "https://zeabur.com/docs/zh-TW/server/operate",
+            "註冊伺服器": "https://zeabur.com/docs/zh-TW/server/register",
+            "防火牆與安全設定": "https://zeabur.com/docs/zh-TW/server/firewall"
         },
         "叢集": {
             "叢集": "https://zeabur.com/docs/zh-TW/cluster",
@@ -360,11 +360,11 @@
         "維運": {
             "404": "https://zeabur.com/docs/zh-TW/operations/maintenance-mode",
             "使用量分析": "https://zeabur.com/docs/zh-TW/operations/service-usage",
-            "健康檢查": "https://zeabur.com/docs/zh-TW/operations/monitoring/health-checks",
+            "健康檢查": "https://zeabur.com/docs/zh-TW/operations/health-checks",
             "備份與還原": "https://zeabur.com/docs/zh-TW/operations/data/backup-restore",
             "團隊管理": "https://zeabur.com/docs/zh-TW/operations/team",
             "安全報告": "https://zeabur.com/docs/zh-TW/operations/team/security-report",
-            "專案預算": "https://zeabur.com/docs/zh-TW/operations/project-budget",
+            "專案預算": "https://zeabur.com/docs/zh-TW/operations/resources/project-budget",
             "持久儲存空間": "https://zeabur.com/docs/zh-TW/operations/volumes",
             "擴展": "https://zeabur.com/docs/zh-TW/operations/scaling",
             "日誌與串流": "https://zeabur.com/docs/zh-TW/operations/monitoring/logging",
@@ -593,12 +593,12 @@
             "最佳实践": "https://zeabur.com/docs/zh-CN/get-started/best-practices"
         },
         "服务器": {
-            "专用服务器": "https://zeabur.com/docs/zh-CN/dedicated-server",
-            "从 Zeabur 购买服务器": "https://zeabur.com/docs/zh-CN/dedicated-server/purchase",
-            "共享集群（已停止服务）": "https://zeabur.com/docs/zh-CN/dedicated-server/shared-cluster",
-            "注册独立服务器": "https://zeabur.com/docs/zh-CN/dedicated-server/register",
-            "维护独立服务器": "https://zeabur.com/docs/zh-CN/dedicated-server/operate",
-            "防火墙与安全设置": "https://zeabur.com/docs/zh-CN/dedicated-server/firewall"
+            "从 Zeabur 购买服务器": "https://zeabur.com/docs/zh-CN/server/purchase",
+            "共享集群（已停止服务）": "https://zeabur.com/docs/zh-CN/server/shared-cluster",
+            "服务器": "https://zeabur.com/docs/zh-CN/server",
+            "注册服务器": "https://zeabur.com/docs/zh-CN/server/register",
+            "维护服务器": "https://zeabur.com/docs/zh-CN/server/operate",
+            "防火墙与安全设置": "https://zeabur.com/docs/zh-CN/server/firewall"
         },
         "集群": {
             "绑定现有 Kubernetes 集群": "https://zeabur.com/docs/zh-CN/cluster/bind",
@@ -623,7 +623,7 @@
             "导出项目": "https://zeabur.com/docs/zh-CN/deploy/manage/export-project",
             "暂停服务": "https://zeabur.com/docs/zh-CN/operations/deployment/suspend-service",
             "更新 Docker 服务的映像引用": "https://zeabur.com/docs/zh-CN/deploy/update-image-reference",
-            "服务内网": "https://zeabur.com/docs/zh-CN/deploy/networking/private-networking",
+            "服务内网": "https://zeabur.com/docs/zh-CN/deploy/private-networking",
             "服务配置": "https://zeabur.com/docs/zh-CN/deploy/config",
             "构建": "https://zeabur.com/docs/zh-CN/deploy/how-deploys-work",
             "模板格式": "https://zeabur.com/docs/zh-CN/deploy/templates/template-format",
@@ -645,9 +645,9 @@
         },
         "运维": {
             "使用量分析": "https://zeabur.com/docs/zh-CN/operations/service-usage",
-            "健康检查": "https://zeabur.com/docs/zh-CN/operations/health-checks",
+            "健康检查": "https://zeabur.com/docs/zh-CN/operations/monitoring/health-checks",
             "团队管理": "https://zeabur.com/docs/zh-CN/operations/team",
-            "备份与还原": "https://zeabur.com/docs/zh-CN/operations/data/backup-restore",
+            "备份与还原": "https://zeabur.com/docs/zh-CN/operations/backup-restore",
             "安全报告": "https://zeabur.com/docs/zh-CN/operations/team/security-report",
             "扩展": "https://zeabur.com/docs/zh-CN/operations/scaling",
             "持久存储空间": "https://zeabur.com/docs/zh-CN/operations/volumes",
@@ -657,7 +657,7 @@
             "暂停服务": "https://zeabur.com/docs/zh-CN/operations/suspend-service",
             "版本回滚": "https://zeabur.com/docs/zh-CN/operations/rollbacks",
             "监控": "https://zeabur.com/docs/zh-CN/operations/monitoring",
-            "监控指标": "https://zeabur.com/docs/zh-CN/operations/monitoring/metrics",
+            "监控指标": "https://zeabur.com/docs/zh-CN/operations/metrics",
             "编辑配置文件": "https://zeabur.com/docs/zh-CN/operations/data/config-file-management",
             "资源配置": "https://zeabur.com/docs/zh-CN/operations/resources",
             "运营与开发者工具": "https://zeabur.com/docs/zh-CN/operations",
@@ -879,12 +879,12 @@
             "ベストプラクティス": "https://zeabur.com/docs/ja-JP/get-started/best-practices"
         },
         "サーバー": {
-            "Zeabur からサーバーを購入する": "https://zeabur.com/docs/ja-JP/dedicated-server/purchase",
-            "ファイアウォールとセキュリティ設定": "https://zeabur.com/docs/ja-JP/dedicated-server/firewall",
-            "共有クラスター（廃止）": "https://zeabur.com/docs/ja-JP/dedicated-server/shared-cluster",
-            "専用サーバー": "https://zeabur.com/docs/ja-JP/dedicated-server",
-            "専用サーバーのメンテナンス": "https://zeabur.com/docs/ja-JP/dedicated-server/operate",
-            "専用サーバーの登録": "https://zeabur.com/docs/ja-JP/dedicated-server/register"
+            "Zeabur からサーバーを購入する": "https://zeabur.com/docs/ja-JP/server/purchase",
+            "サーバー": "https://zeabur.com/docs/ja-JP/server",
+            "サーバーのメンテナンス": "https://zeabur.com/docs/ja-JP/server/operate",
+            "サーバーの登録": "https://zeabur.com/docs/ja-JP/server/register",
+            "ファイアウォールとセキュリティ設定": "https://zeabur.com/docs/ja-JP/server/firewall",
+            "共有クラスター（廃止）": "https://zeabur.com/docs/ja-JP/server/shared-cluster"
         },
         "クラスター": {
             "クラスター": "https://zeabur.com/docs/ja-JP/cluster",
@@ -903,7 +903,7 @@
             "ウォッチパス": "https://zeabur.com/docs/ja-JP/deploy/watch-paths",
             "カスタム Docker イメージ": "https://zeabur.com/docs/ja-JP/deploy/methods/custom-docker-image",
             "カスタムルートディレクトリ": "https://zeabur.com/docs/ja-JP/deploy/root-directory",
-            "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/config/command-execution",
+            "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/command-execution",
             "サービスの一時停止": "https://zeabur.com/docs/ja-JP/operations/deployment/suspend-service",
             "サービスの作成": "https://zeabur.com/docs/ja-JP/deploy/create-service",
             "サービス設定": "https://zeabur.com/docs/ja-JP/deploy/config",
@@ -940,14 +940,14 @@
             "プロジェクト予算": "https://zeabur.com/docs/ja-JP/operations/project-budget",
             "ヘルスチェック": "https://zeabur.com/docs/ja-JP/operations/monitoring/health-checks",
             "ボリューム": "https://zeabur.com/docs/ja-JP/operations/volumes",
-            "メトリクス": "https://zeabur.com/docs/ja-JP/operations/monitoring/metrics",
+            "メトリクス": "https://zeabur.com/docs/ja-JP/operations/metrics",
             "メンバーの招待": "https://zeabur.com/docs/ja-JP/operations/team/invite-member",
             "モニタリング": "https://zeabur.com/docs/ja-JP/operations/monitoring",
             "リソース設定": "https://zeabur.com/docs/ja-JP/operations/resources",
             "ログとストリーミング": "https://zeabur.com/docs/ja-JP/operations/logging",
             "ロールバック": "https://zeabur.com/docs/ja-JP/operations/rollbacks",
             "使用量分析": "https://zeabur.com/docs/ja-JP/operations/service-usage",
-            "設定ファイルエディタ": "https://zeabur.com/docs/ja-JP/operations/data/config-file-management",
+            "設定ファイルエディタ": "https://zeabur.com/docs/ja-JP/operations/config-file-management",
             "運用と開発者ツール": "https://zeabur.com/docs/ja-JP/operations"
         },
         "AI Hub": {
@@ -1167,12 +1167,12 @@
             "Visión General de la Plataforma": "https://zeabur.com/docs/es-ES/get-started/platform-overview"
         },
         "Servidores": {
-            "Clúster Compartido (Descontinuado)": "https://zeabur.com/docs/es-ES/dedicated-server/shared-cluster",
-            "Comprar un Servidor en Zeabur": "https://zeabur.com/docs/es-ES/dedicated-server/purchase",
-            "Firewall y Configuración de Seguridad": "https://zeabur.com/docs/es-ES/dedicated-server/firewall",
-            "Mantener tu Servidor Dedicado": "https://zeabur.com/docs/es-ES/dedicated-server/operate",
-            "Registrar Servidor Dedicado": "https://zeabur.com/docs/es-ES/dedicated-server/register",
-            "Servidor Dedicado": "https://zeabur.com/docs/es-ES/dedicated-server"
+            "Clúster Compartido (Descontinuado)": "https://zeabur.com/docs/es-ES/server/shared-cluster",
+            "Comprar un Servidor en Zeabur": "https://zeabur.com/docs/es-ES/server/purchase",
+            "Firewall y Configuración de Seguridad": "https://zeabur.com/docs/es-ES/server/firewall",
+            "Mantener tu Servidor": "https://zeabur.com/docs/es-ES/server/operate",
+            "Registrar Servidor": "https://zeabur.com/docs/es-ES/server/register",
+            "Servidor": "https://zeabur.com/docs/es-ES/server"
         },
         "Clústeres": {
             "Clústeres": "https://zeabur.com/docs/es-ES/cluster",
@@ -1193,7 +1193,7 @@
             "Crear Servicio": "https://zeabur.com/docs/es-ES/deploy/create-service",
             "Custom Root Directory": "https://zeabur.com/docs/es-ES/deploy/root-directory",
             "Despliegue y Servicios": "https://zeabur.com/docs/es-ES/deploy",
-            "Ejecutar Comandos": "https://zeabur.com/docs/es-ES/deploy/config/command-execution",
+            "Ejecutar Comandos": "https://zeabur.com/docs/es-ES/deploy/command-execution",
             "Exportar Proyecto": "https://zeabur.com/docs/es-ES/deploy/manage/export-project",
             "Formato de Plantilla": "https://zeabur.com/docs/es-ES/deploy/templates/template-format",
             "Gestión de Despliegue": "https://zeabur.com/docs/es-ES/operations/deployment",
@@ -1219,7 +1219,7 @@
         },
         "Operaciones": {
             "Configuración de Recursos": "https://zeabur.com/docs/es-ES/operations/resources",
-            "Editor de Configuración": "https://zeabur.com/docs/es-ES/operations/config-file-management",
+            "Editor de Configuración": "https://zeabur.com/docs/es-ES/operations/data/config-file-management",
             "Escalado": "https://zeabur.com/docs/es-ES/operations/scaling",
             "Gestión de Archivos": "https://zeabur.com/docs/es-ES/operations/file-management",
             "Gestión de Datos": "https://zeabur.com/docs/es-ES/operations/data",
@@ -1235,7 +1235,7 @@
             "Reversiones": "https://zeabur.com/docs/es-ES/operations/rollbacks",
             "Suspender Servicio": "https://zeabur.com/docs/es-ES/operations/suspend-service",
             "Uso del Servicio": "https://zeabur.com/docs/es-ES/operations/service-usage",
-            "Verificaciones de Salud": "https://zeabur.com/docs/es-ES/operations/monitoring/health-checks",
+            "Verificaciones de Salud": "https://zeabur.com/docs/es-ES/operations/health-checks",
             "Volúmenes": "https://zeabur.com/docs/es-ES/operations/volumes"
         },
         "AI Hub": {
@@ -1264,7 +1264,7 @@
         },
         "Plantillas": {
             "Catálogo de Plantillas": "https://zeabur.com/docs/es-ES/template/template-catalog",
-            "Formato de Plantilla": "https://zeabur.com/docs/es-ES/template/template-in-code",
+            "Formato de Plantilla": "https://zeabur.com/docs/es-ES/template/fork-git-repo-from-template",
             "Mantener y Actualizar Plantillas": "https://zeabur.com/docs/es-ES/template/maintain-template",
             "Plantillas": "https://zeabur.com/docs/es-ES/template"
         },
