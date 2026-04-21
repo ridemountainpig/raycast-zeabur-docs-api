@@ -72,21 +72,21 @@
             "Watch Paths": "https://zeabur.com/docs/en-US/deploy/watch-paths"
         },
         "Operations": {
-            "Backup & Restore": "https://zeabur.com/docs/en-US/operations/backup-restore",
-            "Config Editor": "https://zeabur.com/docs/en-US/operations/config-file-management",
+            "Backup & Restore": "https://zeabur.com/docs/en-US/operations/data/backup-restore",
+            "Config Editor": "https://zeabur.com/docs/en-US/operations/data/config-file-management",
             "Data Management": "https://zeabur.com/docs/en-US/operations/data",
             "File Management": "https://zeabur.com/docs/en-US/operations/file-management",
             "Health Checks": "https://zeabur.com/docs/en-US/operations/monitoring/health-checks",
             "Invite Member": "https://zeabur.com/docs/en-US/operations/team/invite-member",
             "Logging & Streaming": "https://zeabur.com/docs/en-US/operations/monitoring/logging",
-            "Metrics": "https://zeabur.com/docs/en-US/operations/monitoring/metrics",
+            "Metrics": "https://zeabur.com/docs/en-US/operations/metrics",
             "Monitoring": "https://zeabur.com/docs/en-US/operations/monitoring",
             "Operations & Developer Tools": "https://zeabur.com/docs/en-US/operations",
             "Project Budget": "https://zeabur.com/docs/en-US/operations/project-budget",
             "Resource Configuration": "https://zeabur.com/docs/en-US/operations/resources",
             "Rollbacks": "https://zeabur.com/docs/en-US/operations/rollbacks",
             "Scaling": "https://zeabur.com/docs/en-US/operations/scaling",
-            "Security Report": "https://zeabur.com/docs/en-US/operations/team/security-report",
+            "Security Report": "https://zeabur.com/docs/en-US/operations/security-report",
             "Service Usage": "https://zeabur.com/docs/en-US/operations/service-usage",
             "Suspend Service": "https://zeabur.com/docs/en-US/operations/suspend-service",
             "Team Management": "https://zeabur.com/docs/en-US/operations/team",
@@ -122,7 +122,7 @@
         "Templates": {
             "Maintain & Update Templates": "https://zeabur.com/docs/en-US/template/maintain-template",
             "Template Catalog": "https://zeabur.com/docs/en-US/template/template-catalog",
-            "Template Format": "https://zeabur.com/docs/en-US/template/template-in-code",
+            "Template Format": "https://zeabur.com/docs/en-US/template/fork-git-repo-from-template",
             "Templates": "https://zeabur.com/docs/en-US/template"
         },
         "Integrations": {
@@ -199,15 +199,15 @@
         },
         "Rewards & Referrals": {
             "Contribution Reward Program": "https://zeabur.com/docs/en-US/rewards/contribution",
-            "Partner Program": "https://zeabur.com/docs/en-US/rewards/partner",
-            "Redeem Prepaid Card": "https://zeabur.com/docs/en-US/rewards/redeem-card",
             "Referral Program": "https://zeabur.com/docs/en-US/rewards/referral",
             "Rewards & Referrals": "https://zeabur.com/docs/en-US/rewards",
             "Sponsor": "https://zeabur.com/docs/en-US/rewards/sponsor"
         },
         "Partner Program": {
-            "Education Advocacy": "https://zeabur.com/docs/en-US/partner/education",
+            "Education Partner": "https://zeabur.com/docs/en-US/partner/event-partner",
             "Partner Program": "https://zeabur.com/docs/en-US/partner",
+            "Redeem Event Code": "https://zeabur.com/docs/en-US/partner/event-partner/redeem-event-code",
+            "Redeem Prepaid Card": "https://zeabur.com/docs/en-US/partner/sales-partner/redeem-card",
             "Sales Partner": "https://zeabur.com/docs/en-US/partner/sales-partner"
         },
         "Privacy Policy": {
@@ -366,16 +366,16 @@
             "健康檢查": "https://zeabur.com/docs/zh-TW/operations/monitoring/health-checks",
             "備份與還原": "https://zeabur.com/docs/zh-TW/operations/backup-restore",
             "團隊管理": "https://zeabur.com/docs/zh-TW/operations/team",
-            "安全報告": "https://zeabur.com/docs/zh-TW/operations/security-report",
+            "安全報告": "https://zeabur.com/docs/zh-TW/operations/team/security-report",
             "專案預算": "https://zeabur.com/docs/zh-TW/operations/project-budget",
             "持久儲存空間": "https://zeabur.com/docs/zh-TW/operations/volumes",
             "擴展": "https://zeabur.com/docs/zh-TW/operations/scaling",
-            "日誌與串流": "https://zeabur.com/docs/zh-TW/operations/logging",
+            "日誌與串流": "https://zeabur.com/docs/zh-TW/operations/monitoring/logging",
             "暫停服務": "https://zeabur.com/docs/zh-TW/operations/suspend-service",
             "檔案管理": "https://zeabur.com/docs/zh-TW/operations/file-management",
             "版本還原": "https://zeabur.com/docs/zh-TW/operations/rollbacks",
             "監控": "https://zeabur.com/docs/zh-TW/operations/monitoring",
-            "監控指標": "https://zeabur.com/docs/zh-TW/operations/metrics",
+            "監控指標": "https://zeabur.com/docs/zh-TW/operations/monitoring/metrics",
             "編輯設定檔": "https://zeabur.com/docs/zh-TW/operations/config-file-management",
             "資料管理": "https://zeabur.com/docs/zh-TW/operations/data",
             "資源配置": "https://zeabur.com/docs/zh-TW/operations/resources",
@@ -472,7 +472,7 @@
             "Dev Plan（開發者方案）": "https://zeabur.com/docs/zh-TW/pricing/dev-plan",
             "Free Plan": "https://zeabur.com/docs/zh-TW/pricing/free-plan",
             "Team Plan（團隊方案）": "https://zeabur.com/docs/zh-TW/pricing/team-plan",
-            "兌換預付卡": "https://zeabur.com/docs/zh-TW/pricing/redeem",
+            "兌換預付卡": "https://zeabur.com/docs/zh-TW/pricing/redeem-card",
             "定價": "https://zeabur.com/docs/zh-TW/pricing",
             "推薦計畫": "https://zeabur.com/docs/zh-TW/pricing/referral",
             "訂閱": "https://zeabur.com/docs/zh-TW/pricing/subscription",
@@ -488,17 +488,17 @@
             "退款政策": "https://zeabur.com/docs/zh-TW/subscription/refund-policy"
         },
         "推薦與獎勵": {
-            "兌換預付卡": "https://zeabur.com/docs/zh-TW/rewards/redeem-card",
-            "合作夥伴計畫": "https://zeabur.com/docs/zh-TW/rewards/partner",
             "推薦與獎勵": "https://zeabur.com/docs/zh-TW/rewards",
             "推薦計畫": "https://zeabur.com/docs/zh-TW/rewards/referral",
             "貢獻獎勵計劃": "https://zeabur.com/docs/zh-TW/rewards/contribution",
             "贊助": "https://zeabur.com/docs/zh-TW/rewards/sponsor"
         },
         "合作夥伴計畫": {
+            "兌換活動碼": "https://zeabur.com/docs/zh-TW/partner/event-partner/redeem-event-code",
+            "兌換預付卡": "https://zeabur.com/docs/zh-TW/partner/sales-partner/redeem-card",
             "合作夥伴計畫": "https://zeabur.com/docs/zh-TW/partner",
-            "導入顧問（Sales Partner）": "https://zeabur.com/docs/zh-TW/partner/sales-partner",
-            "教育推廣": "https://zeabur.com/docs/zh-TW/partner/education"
+            "教育夥伴（Education Partner）": "https://zeabur.com/docs/zh-TW/partner/event-partner",
+            "銷售夥伴（Sales Partner）": "https://zeabur.com/docs/zh-TW/partner/sales-partner"
         },
         "隱私權政策": {
             "隱私權政策": "https://zeabur.com/docs/zh-TW/privacy-policy"
@@ -641,7 +641,7 @@
             "自定义 Docker 镜像": "https://zeabur.com/docs/zh-CN/deploy/methods/custom-docker-image",
             "自定义根目录": "https://zeabur.com/docs/zh-CN/deploy/root-directory",
             "迁移项目": "https://zeabur.com/docs/zh-CN/deploy/migrate-project",
-            "运行命令": "https://zeabur.com/docs/zh-CN/deploy/command-execution",
+            "运行命令": "https://zeabur.com/docs/zh-CN/deploy/config/command-execution",
             "部署与服务": "https://zeabur.com/docs/zh-CN/deploy",
             "部署方式": "https://zeabur.com/docs/zh-CN/deploy/methods",
             "部署管理": "https://zeabur.com/docs/zh-CN/operations/deployment",
@@ -654,7 +654,7 @@
             "健康检查": "https://zeabur.com/docs/zh-CN/operations/monitoring/health-checks",
             "团队管理": "https://zeabur.com/docs/zh-CN/operations/team",
             "备份与还原": "https://zeabur.com/docs/zh-CN/operations/backup-restore",
-            "安全报告": "https://zeabur.com/docs/zh-CN/operations/security-report",
+            "安全报告": "https://zeabur.com/docs/zh-CN/operations/team/security-report",
             "扩展": "https://zeabur.com/docs/zh-CN/operations/scaling",
             "持久存储空间": "https://zeabur.com/docs/zh-CN/operations/volumes",
             "数据管理": "https://zeabur.com/docs/zh-CN/operations/data",
@@ -663,7 +663,7 @@
             "暂停服务": "https://zeabur.com/docs/zh-CN/operations/suspend-service",
             "版本回滚": "https://zeabur.com/docs/zh-CN/operations/rollbacks",
             "监控": "https://zeabur.com/docs/zh-CN/operations/monitoring",
-            "监控指标": "https://zeabur.com/docs/zh-CN/operations/metrics",
+            "监控指标": "https://zeabur.com/docs/zh-CN/operations/monitoring/metrics",
             "编辑配置文件": "https://zeabur.com/docs/zh-CN/operations/config-file-management",
             "资源配置": "https://zeabur.com/docs/zh-CN/operations/resources",
             "运营与开发者工具": "https://zeabur.com/docs/zh-CN/operations",
@@ -776,17 +776,17 @@
             "退款政策": "https://zeabur.com/docs/zh-CN/subscription/refund-policy"
         },
         "推荐与奖励": {
-            "兑换预付卡": "https://zeabur.com/docs/zh-CN/rewards/redeem-card",
-            "合作伙伴计划": "https://zeabur.com/docs/zh-CN/rewards/partner",
             "推荐与奖励": "https://zeabur.com/docs/zh-CN/rewards",
             "推荐计划": "https://zeabur.com/docs/zh-CN/rewards/referral",
             "贡献奖励计划": "https://zeabur.com/docs/zh-CN/rewards/contribution",
             "赞助": "https://zeabur.com/docs/zh-CN/rewards/sponsor"
         },
         "合作伙伴计划": {
+            "兑换活动码": "https://zeabur.com/docs/zh-CN/partner/event-partner/redeem-event-code",
+            "兑换预付卡": "https://zeabur.com/docs/zh-CN/partner/sales-partner/redeem-card",
             "合作伙伴计划": "https://zeabur.com/docs/zh-CN/partner",
-            "导入顾问（Sales Partner）": "https://zeabur.com/docs/zh-CN/partner/sales-partner",
-            "教育推广": "https://zeabur.com/docs/zh-CN/partner/education"
+            "教育伙伴（Education Partner）": "https://zeabur.com/docs/zh-CN/partner/event-partner",
+            "销售伙伴（Sales Partner）": "https://zeabur.com/docs/zh-CN/partner/sales-partner"
         },
         "隐私政策": {
             "隐私权政策": "https://zeabur.com/docs/zh-CN/privacy-policy"
@@ -946,8 +946,8 @@
             "データ管理": "https://zeabur.com/docs/ja-JP/operations/data",
             "バックアップと復元": "https://zeabur.com/docs/ja-JP/operations/backup-restore",
             "ファイル管理": "https://zeabur.com/docs/ja-JP/operations/file-management",
-            "プロジェクト予算": "https://zeabur.com/docs/ja-JP/operations/resources/project-budget",
-            "ヘルスチェック": "https://zeabur.com/docs/ja-JP/operations/health-checks",
+            "プロジェクト予算": "https://zeabur.com/docs/ja-JP/operations/project-budget",
+            "ヘルスチェック": "https://zeabur.com/docs/ja-JP/operations/monitoring/health-checks",
             "ボリューム": "https://zeabur.com/docs/ja-JP/operations/volumes",
             "メトリクス": "https://zeabur.com/docs/ja-JP/operations/monitoring/metrics",
             "メンバーの招待": "https://zeabur.com/docs/ja-JP/operations/team/invite-member",
@@ -956,7 +956,7 @@
             "ログとストリーミング": "https://zeabur.com/docs/ja-JP/operations/monitoring/logging",
             "ロールバック": "https://zeabur.com/docs/ja-JP/operations/rollbacks",
             "使用量分析": "https://zeabur.com/docs/ja-JP/operations/service-usage",
-            "設定ファイルエディタ": "https://zeabur.com/docs/ja-JP/operations/data/config-file-management",
+            "設定ファイルエディタ": "https://zeabur.com/docs/ja-JP/operations/config-file-management",
             "運用と開発者ツール": "https://zeabur.com/docs/ja-JP/operations"
         },
         "BYOS": {
@@ -1052,7 +1052,7 @@
             "コントリビューション報酬プログラム": "https://zeabur.com/docs/ja-JP/pricing/reward",
             "スポンサー": "https://zeabur.com/docs/ja-JP/pricing/sponsor",
             "プラン": "https://zeabur.com/docs/ja-JP/pricing/plans",
-            "プリペイドカードの交換": "https://zeabur.com/docs/ja-JP/pricing/redeem",
+            "プリペイドカードの引き換え": "https://zeabur.com/docs/ja-JP/pricing/redeem",
             "定価": "https://zeabur.com/docs/ja-JP/pricing/pricing",
             "定期購読": "https://zeabur.com/docs/ja-JP/pricing/subscription",
             "料金": "https://zeabur.com/docs/ja-JP/pricing",
@@ -1069,15 +1069,15 @@
         "リワードと紹介": {
             "コントリビューション報酬プログラム": "https://zeabur.com/docs/ja-JP/rewards/contribution",
             "スポンサー": "https://zeabur.com/docs/ja-JP/rewards/sponsor",
-            "パートナープログラム": "https://zeabur.com/docs/ja-JP/rewards/partner",
-            "プリペイドカードの交換": "https://zeabur.com/docs/ja-JP/rewards/redeem-card",
             "リワードと紹介": "https://zeabur.com/docs/ja-JP/rewards",
             "紹介プログラム": "https://zeabur.com/docs/ja-JP/rewards/referral"
         },
         "パートナープログラム": {
-            "セールスパートナー": "https://zeabur.com/docs/ja-JP/partner/sales-partner",
+            "イベントコードの引き換え": "https://zeabur.com/docs/ja-JP/partner/event-partner/redeem-event-code",
+            "セールスパートナー (Sales Partner)": "https://zeabur.com/docs/ja-JP/partner/sales-partner",
             "パートナープログラム": "https://zeabur.com/docs/ja-JP/partner",
-            "教育推進": "https://zeabur.com/docs/ja-JP/partner/education"
+            "プリペイドカードの引き換え": "https://zeabur.com/docs/ja-JP/partner/sales-partner/redeem-card",
+            "教育パートナー (Education Partner)": "https://zeabur.com/docs/ja-JP/partner/event-partner"
         },
         "プライバシーポリシー": {
             "プライバシーポリシー": "https://zeabur.com/docs/ja-JP/privacy-policy"
@@ -1094,7 +1094,7 @@
         },
         "Billing": {
             "スポンサー": "https://zeabur.com/docs/ja-JP/billing/sponsor",
-            "プリペイドカードの交換": "https://zeabur.com/docs/ja-JP/billing/redeem",
+            "プリペイドカードの引き換え": "https://zeabur.com/docs/ja-JP/billing/redeem",
             "料金プラン": "https://zeabur.com/docs/ja-JP/billing-legal"
         },
         "Billing Legal": {},
@@ -1241,13 +1241,13 @@
             "Monitoreo": "https://zeabur.com/docs/es-ES/operations/monitoring",
             "Métricas": "https://zeabur.com/docs/es-ES/operations/metrics",
             "Operaciones y Herramientas para Desarrolladores": "https://zeabur.com/docs/es-ES/operations",
-            "Presupuesto del Proyecto": "https://zeabur.com/docs/es-ES/operations/resources/project-budget",
+            "Presupuesto del Proyecto": "https://zeabur.com/docs/es-ES/operations/project-budget",
             "Registros y Streaming": "https://zeabur.com/docs/es-ES/operations/logging",
             "Respaldo y Restauración": "https://zeabur.com/docs/es-ES/operations/data/backup-restore",
             "Reversiones": "https://zeabur.com/docs/es-ES/operations/rollbacks",
             "Suspender Servicio": "https://zeabur.com/docs/es-ES/operations/suspend-service",
             "Uso del Servicio": "https://zeabur.com/docs/es-ES/operations/service-usage",
-            "Verificaciones de Salud": "https://zeabur.com/docs/es-ES/operations/monitoring/health-checks",
+            "Verificaciones de Salud": "https://zeabur.com/docs/es-ES/operations/health-checks",
             "Volúmenes": "https://zeabur.com/docs/es-ES/operations/volumes"
         },
         "BYOS": {
@@ -1356,17 +1356,17 @@
             "Suscripción": "https://zeabur.com/docs/es-ES/subscription"
         },
         "Recompensas y Referidos": {
-            "Canjear Tarjeta Prepago": "https://zeabur.com/docs/es-ES/rewards/redeem-card",
             "Patrocinio": "https://zeabur.com/docs/es-ES/rewards/sponsor",
             "Programa de Recompensas por Contribución": "https://zeabur.com/docs/es-ES/rewards/contribution",
             "Programa de Referidos": "https://zeabur.com/docs/es-ES/rewards/referral",
-            "Programa de Socios": "https://zeabur.com/docs/es-ES/rewards/partner",
             "Recompensas y Referidos": "https://zeabur.com/docs/es-ES/rewards"
         },
         "Programa de Socios": {
+            "Canjear Código de Evento": "https://zeabur.com/docs/es-ES/partner/event-partner/redeem-event-code",
+            "Canjear Tarjeta Prepago": "https://zeabur.com/docs/es-ES/partner/sales-partner/redeem-card",
             "Programa de Socios": "https://zeabur.com/docs/es-ES/partner",
-            "Promoción Educativa": "https://zeabur.com/docs/es-ES/partner/education",
-            "Socio de Ventas": "https://zeabur.com/docs/es-ES/partner/sales-partner"
+            "Socio Educativo (Education Partner)": "https://zeabur.com/docs/es-ES/partner/event-partner",
+            "Socio de Ventas (Sales Partner)": "https://zeabur.com/docs/es-ES/partner/sales-partner"
         },
         "Política de Privacidad": {
             "Política de Privacidad": "https://zeabur.com/docs/es-ES/privacy-policy"
