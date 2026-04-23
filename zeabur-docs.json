@@ -72,14 +72,14 @@
             "Watch Paths": "https://zeabur.com/docs/en-US/deploy/watch-paths"
         },
         "Operations": {
-            "Backup & Restore": "https://zeabur.com/docs/en-US/operations/backup-restore",
+            "Backup & Restore": "https://zeabur.com/docs/en-US/operations/data/backup-restore",
             "Config Editor": "https://zeabur.com/docs/en-US/operations/config-file-management",
             "Data Management": "https://zeabur.com/docs/en-US/operations/data",
             "File Management": "https://zeabur.com/docs/en-US/operations/file-management",
             "Health Checks": "https://zeabur.com/docs/en-US/operations/monitoring/health-checks",
             "Invite Member": "https://zeabur.com/docs/en-US/operations/team/invite-member",
             "Logging & Streaming": "https://zeabur.com/docs/en-US/operations/logging",
-            "Metrics": "https://zeabur.com/docs/en-US/operations/metrics",
+            "Metrics": "https://zeabur.com/docs/en-US/operations/monitoring/metrics",
             "Monitoring": "https://zeabur.com/docs/en-US/operations/monitoring",
             "Operations & Developer Tools": "https://zeabur.com/docs/en-US/operations",
             "Project Budget": "https://zeabur.com/docs/en-US/operations/project-budget",
@@ -102,7 +102,7 @@
         },
         "Domain": {
             "DNS Records": "https://zeabur.com/docs/en-US/domain/dns",
-            "Domain Management": "https://zeabur.com/docs/en-US/domain/management",
+            "Domain Management": "https://zeabur.com/docs/en-US/email/domains",
             "Pre-ICP-Filing Subdomain": "https://zeabur.com/docs/en-US/networking/pre-icp-subdomain",
             "Register a Domain": "https://zeabur.com/docs/en-US/domain/register",
             "Registrant Profiles": "https://zeabur.com/docs/en-US/domain/profiles"
@@ -179,19 +179,13 @@
             "Symfony Deployment Guide": "https://zeabur.com/docs/en-US/guides/php/symfony"
         },
         "Pricing": {
-            "Contribution Reward Program": "https://zeabur.com/docs/en-US/pricing/reward",
             "Dev Plan (Developer Plan)": "https://zeabur.com/docs/en-US/pricing/dev-plan",
             "Free Plan": "https://zeabur.com/docs/en-US/pricing/free-plan",
-            "Plans": "https://zeabur.com/docs/en-US/pricing/plans",
             "Pricing": "https://zeabur.com/docs/en-US/pricing",
-            "Redeem Prepaid Card": "https://zeabur.com/docs/en-US/pricing/redeem",
-            "Referral Program": "https://zeabur.com/docs/en-US/pricing/referral",
-            "Sponsor": "https://zeabur.com/docs/en-US/pricing/sponsor",
-            "Subscription": "https://zeabur.com/docs/en-US/pricing/subscription",
+            "Pro Plan": "https://zeabur.com/docs/en-US/pricing/pro-plan",
             "Team Plan": "https://zeabur.com/docs/en-US/pricing/team-plan"
         },
         "Subscription & Billing": {
-            "Free Quota": "https://zeabur.com/docs/en-US/subscription/free-quota",
             "Invoicing": "https://zeabur.com/docs/en-US/subscription/invoicing",
             "Payment Methods": "https://zeabur.com/docs/en-US/subscription/payment-methods",
             "Refund Policy": "https://zeabur.com/docs/en-US/subscription/refund-policy",
@@ -225,7 +219,6 @@
         },
         "Billing": {
             "Pricing": "https://zeabur.com/docs/en-US/billing-legal",
-            "Redeem Prepaid Card": "https://zeabur.com/docs/en-US/billing/redeem",
             "Sponsor": "https://zeabur.com/docs/en-US/billing/sponsor"
         },
         "Billing Legal": {},
@@ -331,7 +324,7 @@
             "公網存取": "https://zeabur.com/docs/zh-TW/deploy/public-networking",
             "匯出專案": "https://zeabur.com/docs/zh-TW/deploy/manage/export-project",
             "在 Gemini Canvas 使用 Chrome 擴充功能部署": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-with-chrome-extension/gemini",
-            "執行命令": "https://zeabur.com/docs/zh-TW/deploy/command-execution",
+            "執行命令": "https://zeabur.com/docs/zh-TW/deploy/config/command-execution",
             "大型檔案處理": "https://zeabur.com/docs/zh-TW/deploy/large-files",
             "專案管理": "https://zeabur.com/docs/zh-TW/deploy/manage",
             "建立專案": "https://zeabur.com/docs/zh-TW/deploy/create-project",
@@ -469,20 +462,14 @@
             "部署靜態網頁": "https://zeabur.com/docs/zh-TW/guides/static"
         },
         "定價": {
-            "Dev Plan（開發者方案）": "https://zeabur.com/docs/zh-TW/pricing/dev-plan",
+            "Dev Plan (Developer Plan)": "https://zeabur.com/docs/zh-TW/pricing/dev-plan",
             "Free Plan": "https://zeabur.com/docs/zh-TW/pricing/free-plan",
+            "Pro Plan": "https://zeabur.com/docs/zh-TW/pricing/pro-plan",
             "Team Plan（團隊方案）": "https://zeabur.com/docs/zh-TW/pricing/team-plan",
-            "兌換預付卡": "https://zeabur.com/docs/zh-TW/pricing/redeem",
-            "定價": "https://zeabur.com/docs/zh-TW/pricing",
-            "推薦計畫": "https://zeabur.com/docs/zh-TW/pricing/referral",
-            "訂閱": "https://zeabur.com/docs/zh-TW/pricing/subscription",
-            "訂閱方案": "https://zeabur.com/docs/zh-TW/pricing/plans",
-            "貢獻獎勵計劃": "https://zeabur.com/docs/zh-TW/pricing/reward",
-            "贊助": "https://zeabur.com/docs/zh-TW/pricing/sponsor"
+            "定價": "https://zeabur.com/docs/zh-TW/pricing"
         },
         "訂閱與帳單": {
             "付款方式": "https://zeabur.com/docs/zh-TW/subscription/payment-methods",
-            "免費額度說明": "https://zeabur.com/docs/zh-TW/subscription/free-quota",
             "發票與統編": "https://zeabur.com/docs/zh-TW/subscription/invoicing",
             "訂閱": "https://zeabur.com/docs/zh-TW/subscription",
             "退款政策": "https://zeabur.com/docs/zh-TW/subscription/refund-policy"
@@ -514,7 +501,6 @@
             "建置原理": "https://zeabur.com/docs/zh-TW/advanced/builds"
         },
         "Billing": {
-            "兌換預付卡": "https://zeabur.com/docs/zh-TW/billing/redeem",
             "定價": "https://zeabur.com/docs/zh-TW/billing-legal",
             "贊助": "https://zeabur.com/docs/zh-TW/billing/sponsor"
         },
@@ -651,7 +637,7 @@
         },
         "运维": {
             "使用量分析": "https://zeabur.com/docs/zh-CN/operations/service-usage",
-            "健康检查": "https://zeabur.com/docs/zh-CN/operations/monitoring/health-checks",
+            "健康检查": "https://zeabur.com/docs/zh-CN/operations/health-checks",
             "团队管理": "https://zeabur.com/docs/zh-CN/operations/team",
             "备份与还原": "https://zeabur.com/docs/zh-CN/operations/backup-restore",
             "安全报告": "https://zeabur.com/docs/zh-CN/operations/team/security-report",
@@ -659,12 +645,12 @@
             "持久存储空间": "https://zeabur.com/docs/zh-CN/operations/volumes",
             "数据管理": "https://zeabur.com/docs/zh-CN/operations/data",
             "文件管理": "https://zeabur.com/docs/zh-CN/operations/file-management",
-            "日志与流式传输": "https://zeabur.com/docs/zh-CN/operations/monitoring/logging",
+            "日志与流式传输": "https://zeabur.com/docs/zh-CN/operations/logging",
             "暂停服务": "https://zeabur.com/docs/zh-CN/operations/suspend-service",
             "版本回滚": "https://zeabur.com/docs/zh-CN/operations/rollbacks",
             "监控": "https://zeabur.com/docs/zh-CN/operations/monitoring",
-            "监控指标": "https://zeabur.com/docs/zh-CN/operations/metrics",
-            "编辑配置文件": "https://zeabur.com/docs/zh-CN/operations/config-file-management",
+            "监控指标": "https://zeabur.com/docs/zh-CN/operations/monitoring/metrics",
+            "编辑配置文件": "https://zeabur.com/docs/zh-CN/operations/data/config-file-management",
             "资源配置": "https://zeabur.com/docs/zh-CN/operations/resources",
             "运营与开发者工具": "https://zeabur.com/docs/zh-CN/operations",
             "邀请成员": "https://zeabur.com/docs/zh-CN/operations/team/invite-member",
@@ -757,20 +743,14 @@
             "部署静态网页": "https://zeabur.com/docs/zh-CN/guides/static"
         },
         "定价": {
-            "Dev Plan（开发者方案）": "https://zeabur.com/docs/zh-CN/pricing/dev-plan",
+            "Dev Plan (Developer Plan)": "https://zeabur.com/docs/zh-CN/pricing/dev-plan",
             "Free Plan": "https://zeabur.com/docs/zh-CN/pricing/free-plan",
+            "Pro Plan": "https://zeabur.com/docs/zh-CN/pricing/pro-plan",
             "Team Plan（团队方案）": "https://zeabur.com/docs/zh-CN/pricing/team-plan",
-            "兑换预付卡": "https://zeabur.com/docs/zh-CN/pricing/redeem",
-            "定价": "https://zeabur.com/docs/zh-CN/pricing",
-            "推荐计划": "https://zeabur.com/docs/zh-CN/pricing/referral",
-            "订阅": "https://zeabur.com/docs/zh-CN/pricing/subscription",
-            "订阅方案": "https://zeabur.com/docs/zh-CN/pricing/plans",
-            "贡献奖励计划": "https://zeabur.com/docs/zh-CN/pricing/reward",
-            "赞助": "https://zeabur.com/docs/zh-CN/pricing/sponsor"
+            "定价": "https://zeabur.com/docs/zh-CN/pricing"
         },
         "订阅与账单": {
             "付款方式": "https://zeabur.com/docs/zh-CN/subscription/payment-methods",
-            "免费额度说明": "https://zeabur.com/docs/zh-CN/subscription/free-quota",
             "发票与税号": "https://zeabur.com/docs/zh-CN/subscription/invoicing",
             "订阅": "https://zeabur.com/docs/zh-CN/subscription",
             "退款政策": "https://zeabur.com/docs/zh-CN/subscription/refund-policy"
@@ -802,7 +782,6 @@
             "构建原理": "https://zeabur.com/docs/zh-CN/advanced/builds"
         },
         "Billing": {
-            "兑换预付卡": "https://zeabur.com/docs/zh-CN/billing/redeem",
             "定价": "https://zeabur.com/docs/zh-CN/billing-legal",
             "赞助": "https://zeabur.com/docs/zh-CN/billing/sponsor"
         },
@@ -912,7 +891,7 @@
             "ウォッチパス": "https://zeabur.com/docs/ja-JP/deploy/watch-paths",
             "カスタム Docker イメージ": "https://zeabur.com/docs/ja-JP/deploy/methods/custom-docker-image",
             "カスタムルートディレクトリ": "https://zeabur.com/docs/ja-JP/deploy/root-directory",
-            "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/config/command-execution",
+            "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/command-execution",
             "サービスの一時停止": "https://zeabur.com/docs/ja-JP/operations/deployment/suspend-service",
             "サービスの作成": "https://zeabur.com/docs/ja-JP/deploy/create-service",
             "サービス設定": "https://zeabur.com/docs/ja-JP/deploy/config",
@@ -947,7 +926,7 @@
             "バックアップと復元": "https://zeabur.com/docs/ja-JP/operations/backup-restore",
             "ファイル管理": "https://zeabur.com/docs/ja-JP/operations/file-management",
             "プロジェクト予算": "https://zeabur.com/docs/ja-JP/operations/project-budget",
-            "ヘルスチェック": "https://zeabur.com/docs/ja-JP/operations/monitoring/health-checks",
+            "ヘルスチェック": "https://zeabur.com/docs/ja-JP/operations/health-checks",
             "ボリューム": "https://zeabur.com/docs/ja-JP/operations/volumes",
             "メトリクス": "https://zeabur.com/docs/ja-JP/operations/monitoring/metrics",
             "メンバーの招待": "https://zeabur.com/docs/ja-JP/operations/team/invite-member",
@@ -1046,23 +1025,15 @@
             "フレームワーク": "https://zeabur.com/docs/ja-JP/guides"
         },
         "料金プラン": {
-            "Dev プラン（Developer プラン）": "https://zeabur.com/docs/ja-JP/pricing/dev-plan",
-            "Free プラン（Serverless プラン）": "https://zeabur.com/docs/ja-JP/pricing/free-plan",
+            "Dev Plan (Developer Plan)": "https://zeabur.com/docs/ja-JP/pricing/dev-plan",
+            "Free Plan": "https://zeabur.com/docs/ja-JP/pricing/free-plan",
+            "Pro Plan": "https://zeabur.com/docs/ja-JP/pricing/pro-plan",
             "Team プラン": "https://zeabur.com/docs/ja-JP/pricing/team-plan",
-            "コントリビューション報酬プログラム": "https://zeabur.com/docs/ja-JP/pricing/reward",
-            "スポンサー": "https://zeabur.com/docs/ja-JP/pricing/sponsor",
-            "プラン": "https://zeabur.com/docs/ja-JP/pricing/plans",
-            "プリペイドカードの引き換え": "https://zeabur.com/docs/ja-JP/pricing/redeem",
-            "定価": "https://zeabur.com/docs/ja-JP/pricing/pricing",
-            "定期購読": "https://zeabur.com/docs/ja-JP/pricing/subscription",
-            "料金": "https://zeabur.com/docs/ja-JP/pricing",
-            "料金プラン": "https://zeabur.com/docs/ja-JP/pricing/pricing-plans",
-            "紹介プログラム": "https://zeabur.com/docs/ja-JP/pricing/referral"
+            "定価": "https://zeabur.com/docs/ja-JP/pricing"
         },
         "サブスクリプションと請求": {
             "お支払い方法": "https://zeabur.com/docs/ja-JP/subscription/payment-methods",
             "サブスクリプション": "https://zeabur.com/docs/ja-JP/subscription",
-            "無料クォータ": "https://zeabur.com/docs/ja-JP/subscription/free-quota",
             "請求書": "https://zeabur.com/docs/ja-JP/subscription/invoicing",
             "返金ポリシー": "https://zeabur.com/docs/ja-JP/subscription/refund-policy"
         },
@@ -1094,8 +1065,7 @@
         },
         "Billing": {
             "スポンサー": "https://zeabur.com/docs/ja-JP/billing/sponsor",
-            "プリペイドカードの引き換え": "https://zeabur.com/docs/ja-JP/billing/redeem",
-            "料金プラン": "https://zeabur.com/docs/ja-JP/billing-legal"
+            "定価": "https://zeabur.com/docs/ja-JP/billing-legal"
         },
         "Billing Legal": {},
         "Community": {
@@ -1205,7 +1175,7 @@
             "Crear Servicio": "https://zeabur.com/docs/es-ES/deploy/create-service",
             "Custom Root Directory": "https://zeabur.com/docs/es-ES/deploy/root-directory",
             "Despliegue y Servicios": "https://zeabur.com/docs/es-ES/deploy",
-            "Ejecutar Comandos": "https://zeabur.com/docs/es-ES/deploy/command-execution",
+            "Ejecutar Comandos": "https://zeabur.com/docs/es-ES/deploy/config/command-execution",
             "Exportar Proyecto": "https://zeabur.com/docs/es-ES/deploy/manage/export-project",
             "Formato de Plantilla": "https://zeabur.com/docs/es-ES/deploy/templates/template-format",
             "Gestión de Despliegue": "https://zeabur.com/docs/es-ES/operations/deployment",
@@ -1239,10 +1209,10 @@
             "Informe de Seguridad": "https://zeabur.com/docs/es-ES/operations/team/security-report",
             "Invitar Miembros": "https://zeabur.com/docs/es-ES/operations/team/invite-member",
             "Monitoreo": "https://zeabur.com/docs/es-ES/operations/monitoring",
-            "Métricas": "https://zeabur.com/docs/es-ES/operations/monitoring/metrics",
+            "Métricas": "https://zeabur.com/docs/es-ES/operations/metrics",
             "Operaciones y Herramientas para Desarrolladores": "https://zeabur.com/docs/es-ES/operations",
             "Presupuesto del Proyecto": "https://zeabur.com/docs/es-ES/operations/project-budget",
-            "Registros y Streaming": "https://zeabur.com/docs/es-ES/operations/logging",
+            "Registros y Streaming": "https://zeabur.com/docs/es-ES/operations/monitoring/logging",
             "Respaldo y Restauración": "https://zeabur.com/docs/es-ES/operations/backup-restore",
             "Reversiones": "https://zeabur.com/docs/es-ES/operations/rollbacks",
             "Suspender Servicio": "https://zeabur.com/docs/es-ES/operations/suspend-service",
@@ -1337,19 +1307,13 @@
             "MkDocs": "https://zeabur.com/docs/es-ES/guides/static/mkdocs"
         },
         "Precios": {
-            "Canjear Tarjeta Prepago": "https://zeabur.com/docs/es-ES/pricing/redeem-card",
-            "Patrocinio": "https://zeabur.com/docs/es-ES/pricing/sponsor",
-            "Plan Dev (Plan Desarrollador)": "https://zeabur.com/docs/es-ES/pricing/dev-plan",
-            "Plan Gratuito (Plan Serverless)": "https://zeabur.com/docs/es-ES/pricing/free-plan",
+            "Dev Plan (Developer Plan)": "https://zeabur.com/docs/es-ES/pricing/dev-plan",
+            "Free Plan": "https://zeabur.com/docs/es-ES/pricing/free-plan",
             "Plan Team": "https://zeabur.com/docs/es-ES/pricing/team-plan",
-            "Planes": "https://zeabur.com/docs/es-ES/pricing/plans",
             "Precios": "https://zeabur.com/docs/es-ES/pricing",
-            "Programa de Recompensas por Contribución": "https://zeabur.com/docs/es-ES/pricing/reward",
-            "Programa de Referidos": "https://zeabur.com/docs/es-ES/pricing/referral",
-            "Subscription": "https://zeabur.com/docs/es-ES/pricing/subscription"
+            "Pro Plan": "https://zeabur.com/docs/es-ES/pricing/pro-plan"
         },
         "Suscripción y Facturación": {
-            "Cuota Gratuita": "https://zeabur.com/docs/es-ES/subscription/free-quota",
             "Facturación": "https://zeabur.com/docs/es-ES/subscription/invoicing",
             "Métodos de Pago": "https://zeabur.com/docs/es-ES/subscription/payment-methods",
             "Política de Reembolso": "https://zeabur.com/docs/es-ES/subscription/refund-policy",
@@ -1382,7 +1346,6 @@
             "Builds": "https://zeabur.com/docs/es-ES/advanced/builds"
         },
         "Billing": {
-            "Canjear Tarjeta Prepago": "https://zeabur.com/docs/es-ES/billing/redeem",
             "Patrocinio": "https://zeabur.com/docs/es-ES/billing/sponsor",
             "Precios": "https://zeabur.com/docs/es-ES/billing-legal"
         },
