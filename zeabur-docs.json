@@ -41,7 +41,7 @@
             "Core Deployment & Services": "https://zeabur.com/docs/en-US/deploy",
             "Create Project": "https://zeabur.com/docs/en-US/deploy/create-project",
             "Create Projects & Services": "https://zeabur.com/docs/en-US/deploy/create",
-            "Create Service": "https://zeabur.com/docs/en-US/deploy/create/create-service",
+            "Create Service": "https://zeabur.com/docs/en-US/deploy/create-service",
             "Custom Docker image": "https://zeabur.com/docs/en-US/deploy/methods/custom-docker-image",
             "Custom Root Directory": "https://zeabur.com/docs/en-US/deploy/root-directory",
             "Deploy Button": "https://zeabur.com/docs/en-US/deploy/methods/deploy-button",
@@ -52,7 +52,7 @@
             "Deployment Management": "https://zeabur.com/docs/en-US/operations/deployment",
             "Deployment Methods": "https://zeabur.com/docs/en-US/deploy/methods",
             "Domain Registration": "https://zeabur.com/docs/en-US/deploy/networking/domain-registration",
-            "Execute Commands": "https://zeabur.com/docs/en-US/deploy/config/command-execution",
+            "Execute Commands": "https://zeabur.com/docs/en-US/deploy/command-execution",
             "Export Project": "https://zeabur.com/docs/en-US/deploy/manage/export-project",
             "GitHub Integration": "https://zeabur.com/docs/en-US/deploy/methods/github-integration",
             "High Availability Architecture": "https://zeabur.com/docs/en-US/deploy/networking/high-availability",
@@ -73,17 +73,17 @@
             "Watch Paths": "https://zeabur.com/docs/en-US/deploy/watch-paths"
         },
         "Operations": {
-            "Backup & Restore": "https://zeabur.com/docs/en-US/operations/data/backup-restore",
+            "Backup & Restore": "https://zeabur.com/docs/en-US/operations/backup-restore",
             "Config Editor": "https://zeabur.com/docs/en-US/operations/data/config-file-management",
             "Data Management": "https://zeabur.com/docs/en-US/operations/data",
             "File Management": "https://zeabur.com/docs/en-US/operations/file-management",
             "Health Checks": "https://zeabur.com/docs/en-US/operations/monitoring/health-checks",
             "Invite Member": "https://zeabur.com/docs/en-US/operations/team/invite-member",
             "Logging & Streaming": "https://zeabur.com/docs/en-US/operations/logging",
-            "Metrics": "https://zeabur.com/docs/en-US/operations/monitoring/metrics",
+            "Metrics": "https://zeabur.com/docs/en-US/operations/metrics",
             "Monitoring": "https://zeabur.com/docs/en-US/operations/monitoring",
             "Operations & Developer Tools": "https://zeabur.com/docs/en-US/operations",
-            "Project Budget": "https://zeabur.com/docs/en-US/operations/project-budget",
+            "Project Budget": "https://zeabur.com/docs/en-US/operations/resources/project-budget",
             "Resource Configuration": "https://zeabur.com/docs/en-US/operations/resources",
             "Rollbacks": "https://zeabur.com/docs/en-US/operations/rollbacks",
             "Scaling": "https://zeabur.com/docs/en-US/operations/scaling",
@@ -94,7 +94,8 @@
             "Volumes": "https://zeabur.com/docs/en-US/operations/volumes"
         },
         "BYOS": {
-            "AWS BYOS (Bring Your Own Subscription)": "https://zeabur.com/docs/en-US/byos/aws"
+            "AWS BYOS (Bring Your Own Subscription)": "https://zeabur.com/docs/en-US/byos/aws",
+            "GCP BYOS (Bring Your Own Subscription)": "https://zeabur.com/docs/en-US/byos/gcp"
         },
         "AI Hub": {
             "AI Hub": "https://zeabur.com/docs/en-US/ai-hub",
@@ -320,7 +321,7 @@
             "公網存取": "https://zeabur.com/docs/zh-TW/deploy/public-networking",
             "匯出專案": "https://zeabur.com/docs/zh-TW/deploy/manage/export-project",
             "在 Gemini Canvas 使用 Chrome 擴充功能部署": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-with-chrome-extension/gemini",
-            "執行命令": "https://zeabur.com/docs/zh-TW/deploy/config/command-execution",
+            "執行命令": "https://zeabur.com/docs/zh-TW/deploy/command-execution",
             "大型檔案處理": "https://zeabur.com/docs/zh-TW/deploy/large-files",
             "專案管理": "https://zeabur.com/docs/zh-TW/deploy/manage",
             "建立專案": "https://zeabur.com/docs/zh-TW/deploy/create-project",
@@ -353,11 +354,11 @@
         "維運": {
             "404": "https://zeabur.com/docs/zh-TW/operations/maintenance-mode",
             "使用量分析": "https://zeabur.com/docs/zh-TW/operations/service-usage",
-            "健康檢查": "https://zeabur.com/docs/zh-TW/operations/monitoring/health-checks",
+            "健康檢查": "https://zeabur.com/docs/zh-TW/operations/health-checks",
             "備份與還原": "https://zeabur.com/docs/zh-TW/operations/data/backup-restore",
             "團隊管理": "https://zeabur.com/docs/zh-TW/operations/team",
             "安全報告": "https://zeabur.com/docs/zh-TW/operations/team/security-report",
-            "專案預算": "https://zeabur.com/docs/zh-TW/operations/resources/project-budget",
+            "專案預算": "https://zeabur.com/docs/zh-TW/operations/project-budget",
             "持久儲存空間": "https://zeabur.com/docs/zh-TW/operations/volumes",
             "擴展": "https://zeabur.com/docs/zh-TW/operations/scaling",
             "日誌與串流": "https://zeabur.com/docs/zh-TW/operations/monitoring/logging",
@@ -365,7 +366,7 @@
             "檔案管理": "https://zeabur.com/docs/zh-TW/operations/file-management",
             "版本還原": "https://zeabur.com/docs/zh-TW/operations/rollbacks",
             "監控": "https://zeabur.com/docs/zh-TW/operations/monitoring",
-            "監控指標": "https://zeabur.com/docs/zh-TW/operations/monitoring/metrics",
+            "監控指標": "https://zeabur.com/docs/zh-TW/operations/metrics",
             "編輯設定檔": "https://zeabur.com/docs/zh-TW/operations/data/config-file-management",
             "資料管理": "https://zeabur.com/docs/zh-TW/operations/data",
             "資源配置": "https://zeabur.com/docs/zh-TW/operations/resources",
@@ -373,7 +374,8 @@
             "邀請成員": "https://zeabur.com/docs/zh-TW/operations/team/invite-member"
         },
         "BYOS": {
-            "AWS BYOS（自帶訂閱）": "https://zeabur.com/docs/zh-TW/byos/aws"
+            "AWS BYOS（自帶訂閱）": "https://zeabur.com/docs/zh-TW/byos/aws",
+            "GCP BYOS（自帶訂閱）": "https://zeabur.com/docs/zh-TW/byos/gcp"
         },
         "AI Hub": {
             "AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub",
@@ -620,7 +622,7 @@
             "自定义 Docker 镜像": "https://zeabur.com/docs/zh-CN/deploy/methods/custom-docker-image",
             "自定义根目录": "https://zeabur.com/docs/zh-CN/deploy/root-directory",
             "迁移项目": "https://zeabur.com/docs/zh-CN/deploy/migrate-project",
-            "运行命令": "https://zeabur.com/docs/zh-CN/deploy/config/command-execution",
+            "运行命令": "https://zeabur.com/docs/zh-CN/deploy/command-execution",
             "部署与服务": "https://zeabur.com/docs/zh-CN/deploy",
             "部署方式": "https://zeabur.com/docs/zh-CN/deploy/methods",
             "部署管理": "https://zeabur.com/docs/zh-CN/operations/deployment",
@@ -632,7 +634,7 @@
             "使用量分析": "https://zeabur.com/docs/zh-CN/operations/service-usage",
             "健康检查": "https://zeabur.com/docs/zh-CN/operations/monitoring/health-checks",
             "团队管理": "https://zeabur.com/docs/zh-CN/operations/team",
-            "备份与还原": "https://zeabur.com/docs/zh-CN/operations/data/backup-restore",
+            "备份与还原": "https://zeabur.com/docs/zh-CN/operations/backup-restore",
             "安全报告": "https://zeabur.com/docs/zh-CN/operations/team/security-report",
             "扩展": "https://zeabur.com/docs/zh-CN/operations/scaling",
             "持久存储空间": "https://zeabur.com/docs/zh-CN/operations/volumes",
@@ -642,15 +644,16 @@
             "暂停服务": "https://zeabur.com/docs/zh-CN/operations/suspend-service",
             "版本回滚": "https://zeabur.com/docs/zh-CN/operations/rollbacks",
             "监控": "https://zeabur.com/docs/zh-CN/operations/monitoring",
-            "监控指标": "https://zeabur.com/docs/zh-CN/operations/monitoring/metrics",
-            "编辑配置文件": "https://zeabur.com/docs/zh-CN/operations/data/config-file-management",
+            "监控指标": "https://zeabur.com/docs/zh-CN/operations/metrics",
+            "编辑配置文件": "https://zeabur.com/docs/zh-CN/operations/config-file-management",
             "资源配置": "https://zeabur.com/docs/zh-CN/operations/resources",
             "运营与开发者工具": "https://zeabur.com/docs/zh-CN/operations",
             "邀请成员": "https://zeabur.com/docs/zh-CN/operations/team/invite-member",
-            "项目预算": "https://zeabur.com/docs/zh-CN/operations/project-budget"
+            "项目预算": "https://zeabur.com/docs/zh-CN/operations/resources/project-budget"
         },
         "BYOS": {
-            "AWS BYOS（自带订阅）": "https://zeabur.com/docs/zh-CN/byos/aws"
+            "AWS BYOS（自带订阅）": "https://zeabur.com/docs/zh-CN/byos/aws",
+            "GCP BYOS（自带订阅）": "https://zeabur.com/docs/zh-CN/byos/gcp"
         },
         "AI Hub": {
             "Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub",
@@ -891,7 +894,7 @@
             "デプロイ管理": "https://zeabur.com/docs/ja-JP/operations/deployment",
             "ドメイン登録": "https://zeabur.com/docs/ja-JP/deploy/networking/domain-registration",
             "ネットワーク": "https://zeabur.com/docs/ja-JP/deploy/networking",
-            "パブリックネットワーク": "https://zeabur.com/docs/ja-JP/deploy/networking/public-networking",
+            "パブリックネットワーク": "https://zeabur.com/docs/ja-JP/deploy/public-networking",
             "ビルド": "https://zeabur.com/docs/ja-JP/deploy/how-deploys-work",
             "ビルドスペック": "https://zeabur.com/docs/ja-JP/deploy/config/build-spec",
             "プライベートネットワーク": "https://zeabur.com/docs/ja-JP/deploy/private-networking",
@@ -909,7 +912,7 @@
         "オペレーション": {
             "サービスの一時停止": "https://zeabur.com/docs/ja-JP/operations/suspend-service",
             "スケーリング": "https://zeabur.com/docs/ja-JP/operations/scaling",
-            "セキュリティレポート": "https://zeabur.com/docs/ja-JP/operations/team/security-report",
+            "セキュリティレポート": "https://zeabur.com/docs/ja-JP/operations/security-report",
             "チーム管理": "https://zeabur.com/docs/ja-JP/operations/team",
             "データ管理": "https://zeabur.com/docs/ja-JP/operations/data",
             "バックアップと復元": "https://zeabur.com/docs/ja-JP/operations/data/backup-restore",
@@ -917,18 +920,19 @@
             "プロジェクト予算": "https://zeabur.com/docs/ja-JP/operations/project-budget",
             "ヘルスチェック": "https://zeabur.com/docs/ja-JP/operations/monitoring/health-checks",
             "ボリューム": "https://zeabur.com/docs/ja-JP/operations/volumes",
-            "メトリクス": "https://zeabur.com/docs/ja-JP/operations/monitoring/metrics",
+            "メトリクス": "https://zeabur.com/docs/ja-JP/operations/metrics",
             "メンバーの招待": "https://zeabur.com/docs/ja-JP/operations/team/invite-member",
             "モニタリング": "https://zeabur.com/docs/ja-JP/operations/monitoring",
             "リソース設定": "https://zeabur.com/docs/ja-JP/operations/resources",
-            "ログとストリーミング": "https://zeabur.com/docs/ja-JP/operations/monitoring/logging",
+            "ログとストリーミング": "https://zeabur.com/docs/ja-JP/operations/logging",
             "ロールバック": "https://zeabur.com/docs/ja-JP/operations/rollbacks",
             "使用量分析": "https://zeabur.com/docs/ja-JP/operations/service-usage",
-            "設定ファイルエディタ": "https://zeabur.com/docs/ja-JP/operations/data/config-file-management",
+            "設定ファイルエディタ": "https://zeabur.com/docs/ja-JP/operations/config-file-management",
             "運用と開発者ツール": "https://zeabur.com/docs/ja-JP/operations"
         },
         "BYOS": {
-            "AWS BYOS（サブスクリプション持ち込み）": "https://zeabur.com/docs/ja-JP/byos/aws"
+            "AWS BYOS（サブスクリプション持ち込み）": "https://zeabur.com/docs/ja-JP/byos/aws",
+            "GCP BYOS（サブスクリプション持ち込み）": "https://zeabur.com/docs/ja-JP/byos/gcp"
         },
         "AI Hub": {
             "SillyTavern で Zeabur AI Hub を使用する": "https://zeabur.com/docs/ja-JP/ai-hub/sillytavern-integration",
@@ -1159,7 +1163,7 @@
             "Crear Servicio": "https://zeabur.com/docs/es-ES/deploy/create-service",
             "Custom Root Directory": "https://zeabur.com/docs/es-ES/deploy/root-directory",
             "Despliegue y Servicios": "https://zeabur.com/docs/es-ES/deploy",
-            "Ejecutar Comandos": "https://zeabur.com/docs/es-ES/deploy/config/command-execution",
+            "Ejecutar Comandos": "https://zeabur.com/docs/es-ES/deploy/command-execution",
             "Especificación de Compilación": "https://zeabur.com/docs/es-ES/deploy/config/build-spec",
             "Exportar Proyecto": "https://zeabur.com/docs/es-ES/deploy/manage/export-project",
             "Formato de Plantilla": "https://zeabur.com/docs/es-ES/deploy/templates/template-format",
@@ -1194,10 +1198,10 @@
             "Informe de Seguridad": "https://zeabur.com/docs/es-ES/operations/team/security-report",
             "Invitar Miembros": "https://zeabur.com/docs/es-ES/operations/team/invite-member",
             "Monitoreo": "https://zeabur.com/docs/es-ES/operations/monitoring",
-            "Métricas": "https://zeabur.com/docs/es-ES/operations/monitoring/metrics",
+            "Métricas": "https://zeabur.com/docs/es-ES/operations/metrics",
             "Operaciones y Herramientas para Desarrolladores": "https://zeabur.com/docs/es-ES/operations",
-            "Presupuesto del Proyecto": "https://zeabur.com/docs/es-ES/operations/resources/project-budget",
-            "Registros y Streaming": "https://zeabur.com/docs/es-ES/operations/logging",
+            "Presupuesto del Proyecto": "https://zeabur.com/docs/es-ES/operations/project-budget",
+            "Registros y Streaming": "https://zeabur.com/docs/es-ES/operations/monitoring/logging",
             "Respaldo y Restauración": "https://zeabur.com/docs/es-ES/operations/backup-restore",
             "Reversiones": "https://zeabur.com/docs/es-ES/operations/rollbacks",
             "Suspender Servicio": "https://zeabur.com/docs/es-ES/operations/suspend-service",
@@ -1206,7 +1210,8 @@
             "Volúmenes": "https://zeabur.com/docs/es-ES/operations/volumes"
         },
         "BYOS": {
-            "AWS BYOS (Trae tu propia suscripción)": "https://zeabur.com/docs/es-ES/byos/aws"
+            "AWS BYOS (Trae tu propia suscripción)": "https://zeabur.com/docs/es-ES/byos/aws",
+            "GCP BYOS (Trae tu propia suscripción)": "https://zeabur.com/docs/es-ES/byos/gcp"
         },
         "AI Hub": {
             "Usar Zeabur AI Hub en SillyTavern": "https://zeabur.com/docs/es-ES/ai-hub/sillytavern-integration",
