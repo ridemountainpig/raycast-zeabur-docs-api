@@ -74,13 +74,13 @@
         },
         "Operations": {
             "Backup & Restore": "https://zeabur.com/docs/en-US/operations/data/backup-restore",
-            "Config Editor": "https://zeabur.com/docs/en-US/operations/config-file-management",
+            "Config Editor": "https://zeabur.com/docs/en-US/operations/data/config-file-management",
             "Data Management": "https://zeabur.com/docs/en-US/operations/data",
             "File Management": "https://zeabur.com/docs/en-US/operations/file-management",
             "Health Checks": "https://zeabur.com/docs/en-US/operations/monitoring/health-checks",
             "Invite Member": "https://zeabur.com/docs/en-US/operations/team/invite-member",
             "Logging & Streaming": "https://zeabur.com/docs/en-US/operations/logging",
-            "Metrics": "https://zeabur.com/docs/en-US/operations/metrics",
+            "Metrics": "https://zeabur.com/docs/en-US/operations/monitoring/metrics",
             "Monitoring": "https://zeabur.com/docs/en-US/operations/monitoring",
             "Operations & Developer Tools": "https://zeabur.com/docs/en-US/operations",
             "Project Budget": "https://zeabur.com/docs/en-US/operations/resources/project-budget",
@@ -124,7 +124,7 @@
         "Templates": {
             "Maintain & Update Templates": "https://zeabur.com/docs/en-US/template/maintain-template",
             "Template Catalog": "https://zeabur.com/docs/en-US/template/template-catalog",
-            "Template Format": "https://zeabur.com/docs/en-US/template/fork-git-repo-from-template",
+            "Template Format": "https://zeabur.com/docs/en-US/template/template-in-code",
             "Templates": "https://zeabur.com/docs/en-US/template"
         },
         "Integrations": {
@@ -358,7 +358,7 @@
             "備份與還原": "https://zeabur.com/docs/zh-TW/operations/backup-restore",
             "團隊管理": "https://zeabur.com/docs/zh-TW/operations/team",
             "安全報告": "https://zeabur.com/docs/zh-TW/operations/team/security-report",
-            "專案預算": "https://zeabur.com/docs/zh-TW/operations/project-budget",
+            "專案預算": "https://zeabur.com/docs/zh-TW/operations/resources/project-budget",
             "持久儲存空間": "https://zeabur.com/docs/zh-TW/operations/volumes",
             "擴展": "https://zeabur.com/docs/zh-TW/operations/scaling",
             "日誌與串流": "https://zeabur.com/docs/zh-TW/operations/monitoring/logging",
@@ -366,7 +366,7 @@
             "檔案管理": "https://zeabur.com/docs/zh-TW/operations/file-management",
             "版本還原": "https://zeabur.com/docs/zh-TW/operations/rollbacks",
             "監控": "https://zeabur.com/docs/zh-TW/operations/monitoring",
-            "監控指標": "https://zeabur.com/docs/zh-TW/operations/metrics",
+            "監控指標": "https://zeabur.com/docs/zh-TW/operations/monitoring/metrics",
             "編輯設定檔": "https://zeabur.com/docs/zh-TW/operations/data/config-file-management",
             "資料管理": "https://zeabur.com/docs/zh-TW/operations/data",
             "資源配置": "https://zeabur.com/docs/zh-TW/operations/resources",
@@ -500,7 +500,7 @@
             "建置原理": "https://zeabur.com/docs/zh-TW/advanced/builds"
         },
         "Billing": {
-            "定價": "https://zeabur.com/docs/zh-TW/billing-legal",
+            "定價": "https://zeabur.com/docs/zh-TW/billing/plans",
             "贊助": "https://zeabur.com/docs/zh-TW/billing/sponsor"
         },
         "Billing Legal": {},
@@ -634,7 +634,7 @@
             "使用量分析": "https://zeabur.com/docs/zh-CN/operations/service-usage",
             "健康检查": "https://zeabur.com/docs/zh-CN/operations/monitoring/health-checks",
             "团队管理": "https://zeabur.com/docs/zh-CN/operations/team",
-            "备份与还原": "https://zeabur.com/docs/zh-CN/operations/data/backup-restore",
+            "备份与还原": "https://zeabur.com/docs/zh-CN/operations/backup-restore",
             "安全报告": "https://zeabur.com/docs/zh-CN/operations/team/security-report",
             "扩展": "https://zeabur.com/docs/zh-CN/operations/scaling",
             "持久存储空间": "https://zeabur.com/docs/zh-CN/operations/volumes",
@@ -644,7 +644,7 @@
             "暂停服务": "https://zeabur.com/docs/zh-CN/operations/suspend-service",
             "版本回滚": "https://zeabur.com/docs/zh-CN/operations/rollbacks",
             "监控": "https://zeabur.com/docs/zh-CN/operations/monitoring",
-            "监控指标": "https://zeabur.com/docs/zh-CN/operations/metrics",
+            "监控指标": "https://zeabur.com/docs/zh-CN/operations/monitoring/metrics",
             "编辑配置文件": "https://zeabur.com/docs/zh-CN/operations/data/config-file-management",
             "资源配置": "https://zeabur.com/docs/zh-CN/operations/resources",
             "运营与开发者工具": "https://zeabur.com/docs/zh-CN/operations",
@@ -682,7 +682,7 @@
         "模板": {
             "Zeabur 模板目录": "https://zeabur.com/docs/zh-CN/template/template-catalog",
             "模板": "https://zeabur.com/docs/zh-CN/template",
-            "模板格式": "https://zeabur.com/docs/zh-CN/template/template-in-code",
+            "模板格式": "https://zeabur.com/docs/zh-CN/template/template-format",
             "维护与更新模板": "https://zeabur.com/docs/zh-CN/template/maintain-template"
         },
         "集成": {
@@ -882,7 +882,7 @@
             "ウォッチパス": "https://zeabur.com/docs/ja-JP/deploy/watch-paths",
             "カスタム Docker イメージ": "https://zeabur.com/docs/ja-JP/deploy/methods/custom-docker-image",
             "カスタムルートディレクトリ": "https://zeabur.com/docs/ja-JP/deploy/root-directory",
-            "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/command-execution",
+            "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/config/command-execution",
             "サービスの一時停止": "https://zeabur.com/docs/ja-JP/operations/deployment/suspend-service",
             "サービスの作成": "https://zeabur.com/docs/ja-JP/deploy/create-service",
             "サービス設定": "https://zeabur.com/docs/ja-JP/deploy/config",
@@ -897,7 +897,7 @@
             "パブリックネットワーク": "https://zeabur.com/docs/ja-JP/deploy/public-networking",
             "ビルド": "https://zeabur.com/docs/ja-JP/deploy/how-deploys-work",
             "ビルドスペック": "https://zeabur.com/docs/ja-JP/deploy/config/build-spec",
-            "プライベートネットワーク": "https://zeabur.com/docs/ja-JP/deploy/networking/private-networking",
+            "プライベートネットワーク": "https://zeabur.com/docs/ja-JP/deploy/private-networking",
             "プロジェクトとサービスの作成": "https://zeabur.com/docs/ja-JP/deploy/create",
             "プロジェクトのエクスポート": "https://zeabur.com/docs/ja-JP/deploy/manage/export-project",
             "プロジェクトの移行": "https://zeabur.com/docs/ja-JP/deploy/migrate-project",
@@ -917,17 +917,17 @@
             "データ管理": "https://zeabur.com/docs/ja-JP/operations/data",
             "バックアップと復元": "https://zeabur.com/docs/ja-JP/operations/data/backup-restore",
             "ファイル管理": "https://zeabur.com/docs/ja-JP/operations/file-management",
-            "プロジェクト予算": "https://zeabur.com/docs/ja-JP/operations/project-budget",
+            "プロジェクト予算": "https://zeabur.com/docs/ja-JP/operations/resources/project-budget",
             "ヘルスチェック": "https://zeabur.com/docs/ja-JP/operations/monitoring/health-checks",
             "ボリューム": "https://zeabur.com/docs/ja-JP/operations/volumes",
-            "メトリクス": "https://zeabur.com/docs/ja-JP/operations/monitoring/metrics",
+            "メトリクス": "https://zeabur.com/docs/ja-JP/operations/metrics",
             "メンバーの招待": "https://zeabur.com/docs/ja-JP/operations/team/invite-member",
             "モニタリング": "https://zeabur.com/docs/ja-JP/operations/monitoring",
             "リソース設定": "https://zeabur.com/docs/ja-JP/operations/resources",
-            "ログとストリーミング": "https://zeabur.com/docs/ja-JP/operations/logging",
+            "ログとストリーミング": "https://zeabur.com/docs/ja-JP/operations/monitoring/logging",
             "ロールバック": "https://zeabur.com/docs/ja-JP/operations/rollbacks",
             "使用量分析": "https://zeabur.com/docs/ja-JP/operations/service-usage",
-            "設定ファイルエディタ": "https://zeabur.com/docs/ja-JP/operations/config-file-management",
+            "設定ファイルエディタ": "https://zeabur.com/docs/ja-JP/operations/data/config-file-management",
             "運用と開発者ツール": "https://zeabur.com/docs/ja-JP/operations"
         },
         "BYOS": {
@@ -1195,13 +1195,13 @@
             "Gestión de Archivos": "https://zeabur.com/docs/es-ES/operations/file-management",
             "Gestión de Datos": "https://zeabur.com/docs/es-ES/operations/data",
             "Gestión del Equipo": "https://zeabur.com/docs/es-ES/operations/team",
-            "Informe de Seguridad": "https://zeabur.com/docs/es-ES/operations/security-report",
+            "Informe de Seguridad": "https://zeabur.com/docs/es-ES/operations/team/security-report",
             "Invitar Miembros": "https://zeabur.com/docs/es-ES/operations/team/invite-member",
             "Monitoreo": "https://zeabur.com/docs/es-ES/operations/monitoring",
             "Métricas": "https://zeabur.com/docs/es-ES/operations/monitoring/metrics",
             "Operaciones y Herramientas para Desarrolladores": "https://zeabur.com/docs/es-ES/operations",
-            "Presupuesto del Proyecto": "https://zeabur.com/docs/es-ES/operations/resources/project-budget",
-            "Registros y Streaming": "https://zeabur.com/docs/es-ES/operations/monitoring/logging",
+            "Presupuesto del Proyecto": "https://zeabur.com/docs/es-ES/operations/project-budget",
+            "Registros y Streaming": "https://zeabur.com/docs/es-ES/operations/logging",
             "Respaldo y Restauración": "https://zeabur.com/docs/es-ES/operations/data/backup-restore",
             "Reversiones": "https://zeabur.com/docs/es-ES/operations/rollbacks",
             "Suspender Servicio": "https://zeabur.com/docs/es-ES/operations/suspend-service",
@@ -1239,7 +1239,7 @@
         },
         "Plantillas": {
             "Catálogo de Plantillas": "https://zeabur.com/docs/es-ES/template/template-catalog",
-            "Formato de Plantilla": "https://zeabur.com/docs/es-ES/template/template-format",
+            "Formato de Plantilla": "https://zeabur.com/docs/es-ES/template/template-in-code",
             "Mantener y Actualizar Plantillas": "https://zeabur.com/docs/es-ES/template/maintain-template",
             "Plantillas": "https://zeabur.com/docs/es-ES/template"
         },
@@ -1300,7 +1300,7 @@
             "Dev Plan (Developer Plan)": "https://zeabur.com/docs/es-ES/pricing/dev-plan",
             "Free Plan": "https://zeabur.com/docs/es-ES/pricing/free-plan",
             "Plan Team": "https://zeabur.com/docs/es-ES/pricing/team-plan",
-            "Precios": "https://zeabur.com/docs/es-ES/pricing",
+            "Precios": "https://zeabur.com/docs/es-ES/pricing/pricing-plans",
             "Pro Plan": "https://zeabur.com/docs/es-ES/pricing/pro-plan"
         },
         "Suscripción y Facturación": {
