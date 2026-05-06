@@ -73,11 +73,11 @@
             "Watch Paths": "https://zeabur.com/docs/en-US/deploy/watch-paths"
         },
         "Operations": {
-            "Backup & Restore": "https://zeabur.com/docs/en-US/operations/data/backup-restore",
+            "Backup & Restore": "https://zeabur.com/docs/en-US/operations/backup-restore",
             "Config Editor": "https://zeabur.com/docs/en-US/operations/config-file-management",
             "Data Management": "https://zeabur.com/docs/en-US/operations/data",
             "File Management": "https://zeabur.com/docs/en-US/operations/file-management",
-            "Health Checks": "https://zeabur.com/docs/en-US/operations/monitoring/health-checks",
+            "Health Checks": "https://zeabur.com/docs/en-US/operations/health-checks",
             "Invite Member": "https://zeabur.com/docs/en-US/operations/team/invite-member",
             "Logging & Streaming": "https://zeabur.com/docs/en-US/operations/monitoring/logging",
             "Metrics": "https://zeabur.com/docs/en-US/operations/metrics",
@@ -87,7 +87,7 @@
             "Resource Configuration": "https://zeabur.com/docs/en-US/operations/resources",
             "Rollbacks": "https://zeabur.com/docs/en-US/operations/rollbacks",
             "Scaling": "https://zeabur.com/docs/en-US/operations/scaling",
-            "Security Report": "https://zeabur.com/docs/en-US/operations/security-report",
+            "Security Report": "https://zeabur.com/docs/en-US/operations/team/security-report",
             "Service Usage": "https://zeabur.com/docs/en-US/operations/service-usage",
             "Suspend Service": "https://zeabur.com/docs/en-US/operations/suspend-service",
             "Team Management": "https://zeabur.com/docs/en-US/operations/team",
@@ -220,7 +220,7 @@
             "Builds": "https://zeabur.com/docs/en-US/advanced/builds"
         },
         "Billing": {
-            "Pricing": "https://zeabur.com/docs/en-US/billing/plans",
+            "Pricing": "https://zeabur.com/docs/en-US/billing-legal",
             "Sponsor": "https://zeabur.com/docs/en-US/billing/sponsor"
         },
         "Billing Legal": {},
@@ -315,7 +315,7 @@
         "部署": {
             "404": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-chrome-extension",
             "Dockerfile 部署": "https://zeabur.com/docs/zh-TW/deploy/methods/dockerfile",
-            "Raycast 擴充功能": "https://zeabur.com/docs/zh-TW/deploy/deploy-with-raycast-extension",
+            "Raycast 擴充功能": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-with-raycast-extension",
             "VS Code / Cursor 擴充功能": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-with-vscode-extension",
             "一鍵部署按鈕": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-button",
             "公網存取": "https://zeabur.com/docs/zh-TW/deploy/public-networking",
@@ -366,7 +366,7 @@
             "檔案管理": "https://zeabur.com/docs/zh-TW/operations/file-management",
             "版本還原": "https://zeabur.com/docs/zh-TW/operations/rollbacks",
             "監控": "https://zeabur.com/docs/zh-TW/operations/monitoring",
-            "監控指標": "https://zeabur.com/docs/zh-TW/operations/monitoring/metrics",
+            "監控指標": "https://zeabur.com/docs/zh-TW/operations/metrics",
             "編輯設定檔": "https://zeabur.com/docs/zh-TW/operations/config-file-management",
             "資料管理": "https://zeabur.com/docs/zh-TW/operations/data",
             "資源配置": "https://zeabur.com/docs/zh-TW/operations/resources",
@@ -632,10 +632,10 @@
         },
         "运维": {
             "使用量分析": "https://zeabur.com/docs/zh-CN/operations/service-usage",
-            "健康检查": "https://zeabur.com/docs/zh-CN/operations/monitoring/health-checks",
+            "健康检查": "https://zeabur.com/docs/zh-CN/operations/health-checks",
             "团队管理": "https://zeabur.com/docs/zh-CN/operations/team",
             "备份与还原": "https://zeabur.com/docs/zh-CN/operations/backup-restore",
-            "安全报告": "https://zeabur.com/docs/zh-CN/operations/security-report",
+            "安全报告": "https://zeabur.com/docs/zh-CN/operations/team/security-report",
             "扩展": "https://zeabur.com/docs/zh-CN/operations/scaling",
             "持久存储空间": "https://zeabur.com/docs/zh-CN/operations/volumes",
             "数据管理": "https://zeabur.com/docs/zh-CN/operations/data",
@@ -649,7 +649,7 @@
             "资源配置": "https://zeabur.com/docs/zh-CN/operations/resources",
             "运营与开发者工具": "https://zeabur.com/docs/zh-CN/operations",
             "邀请成员": "https://zeabur.com/docs/zh-CN/operations/team/invite-member",
-            "项目预算": "https://zeabur.com/docs/zh-CN/operations/resources/project-budget"
+            "项目预算": "https://zeabur.com/docs/zh-CN/operations/project-budget"
         },
         "BYOS": {
             "AWS BYOS（自带订阅）": "https://zeabur.com/docs/zh-CN/byos/aws",
@@ -882,7 +882,7 @@
             "ウォッチパス": "https://zeabur.com/docs/ja-JP/deploy/watch-paths",
             "カスタム Docker イメージ": "https://zeabur.com/docs/ja-JP/deploy/methods/custom-docker-image",
             "カスタムルートディレクトリ": "https://zeabur.com/docs/ja-JP/deploy/root-directory",
-            "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/config/command-execution",
+            "コマンドの実行": "https://zeabur.com/docs/ja-JP/deploy/command-execution",
             "サービスの一時停止": "https://zeabur.com/docs/ja-JP/operations/deployment/suspend-service",
             "サービスの作成": "https://zeabur.com/docs/ja-JP/deploy/create-service",
             "サービス設定": "https://zeabur.com/docs/ja-JP/deploy/config",
@@ -915,12 +915,12 @@
             "セキュリティレポート": "https://zeabur.com/docs/ja-JP/operations/team/security-report",
             "チーム管理": "https://zeabur.com/docs/ja-JP/operations/team",
             "データ管理": "https://zeabur.com/docs/ja-JP/operations/data",
-            "バックアップと復元": "https://zeabur.com/docs/ja-JP/operations/backup-restore",
+            "バックアップと復元": "https://zeabur.com/docs/ja-JP/operations/data/backup-restore",
             "ファイル管理": "https://zeabur.com/docs/ja-JP/operations/file-management",
             "プロジェクト予算": "https://zeabur.com/docs/ja-JP/operations/project-budget",
             "ヘルスチェック": "https://zeabur.com/docs/ja-JP/operations/monitoring/health-checks",
             "ボリューム": "https://zeabur.com/docs/ja-JP/operations/volumes",
-            "メトリクス": "https://zeabur.com/docs/ja-JP/operations/metrics",
+            "メトリクス": "https://zeabur.com/docs/ja-JP/operations/monitoring/metrics",
             "メンバーの招待": "https://zeabur.com/docs/ja-JP/operations/team/invite-member",
             "モニタリング": "https://zeabur.com/docs/ja-JP/operations/monitoring",
             "リソース設定": "https://zeabur.com/docs/ja-JP/operations/resources",
@@ -1058,7 +1058,7 @@
         },
         "Billing": {
             "スポンサー": "https://zeabur.com/docs/ja-JP/billing/sponsor",
-            "定価": "https://zeabur.com/docs/ja-JP/billing/plans"
+            "定価": "https://zeabur.com/docs/ja-JP/billing-legal"
         },
         "Billing Legal": {},
         "Community": {
@@ -1190,7 +1190,7 @@
         },
         "Operaciones": {
             "Configuración de Recursos": "https://zeabur.com/docs/es-ES/operations/resources",
-            "Editor de Configuración": "https://zeabur.com/docs/es-ES/operations/data/config-file-management",
+            "Editor de Configuración": "https://zeabur.com/docs/es-ES/operations/config-file-management",
             "Escalado": "https://zeabur.com/docs/es-ES/operations/scaling",
             "Gestión de Archivos": "https://zeabur.com/docs/es-ES/operations/file-management",
             "Gestión de Datos": "https://zeabur.com/docs/es-ES/operations/data",
@@ -1198,7 +1198,7 @@
             "Informe de Seguridad": "https://zeabur.com/docs/es-ES/operations/team/security-report",
             "Invitar Miembros": "https://zeabur.com/docs/es-ES/operations/team/invite-member",
             "Monitoreo": "https://zeabur.com/docs/es-ES/operations/monitoring",
-            "Métricas": "https://zeabur.com/docs/es-ES/operations/monitoring/metrics",
+            "Métricas": "https://zeabur.com/docs/es-ES/operations/metrics",
             "Operaciones y Herramientas para Desarrolladores": "https://zeabur.com/docs/es-ES/operations",
             "Presupuesto del Proyecto": "https://zeabur.com/docs/es-ES/operations/project-budget",
             "Registros y Streaming": "https://zeabur.com/docs/es-ES/operations/monitoring/logging",
@@ -1206,7 +1206,7 @@
             "Reversiones": "https://zeabur.com/docs/es-ES/operations/rollbacks",
             "Suspender Servicio": "https://zeabur.com/docs/es-ES/operations/suspend-service",
             "Uso del Servicio": "https://zeabur.com/docs/es-ES/operations/service-usage",
-            "Verificaciones de Salud": "https://zeabur.com/docs/es-ES/operations/monitoring/health-checks",
+            "Verificaciones de Salud": "https://zeabur.com/docs/es-ES/operations/health-checks",
             "Volúmenes": "https://zeabur.com/docs/es-ES/operations/volumes"
         },
         "BYOS": {
