@@ -39,7 +39,7 @@
             "Chrome Extension": "https://zeabur.com/docs/en-US/deploy/methods/deploy-with-chrome-extension",
             "Copy Project": "https://zeabur.com/docs/en-US/deploy/manage/copy-project",
             "Core Deployment & Services": "https://zeabur.com/docs/en-US/deploy",
-            "Create Project": "https://zeabur.com/docs/en-US/deploy/create/create-project",
+            "Create Project": "https://zeabur.com/docs/en-US/deploy/create-project",
             "Create Projects & Services": "https://zeabur.com/docs/en-US/deploy/create",
             "Create Service": "https://zeabur.com/docs/en-US/deploy/create/create-service",
             "Custom Docker image": "https://zeabur.com/docs/en-US/deploy/methods/custom-docker-image",
@@ -120,7 +120,7 @@
             "Fork Code from Template Services": "https://zeabur.com/docs/en-US/template/fork-git-repo-from-template",
             "Maintain & Update Templates": "https://zeabur.com/docs/en-US/template/maintain-template",
             "Template Catalog": "https://zeabur.com/docs/en-US/template/template-catalog",
-            "Template Format": "https://zeabur.com/docs/en-US/template/template-format",
+            "Template Format": "https://zeabur.com/docs/en-US/template/template-in-code",
             "Templates": "https://zeabur.com/docs/en-US/template"
         },
         "Integrations": {
@@ -917,7 +917,7 @@
             "テンプレート": "https://zeabur.com/docs/ja-JP/template",
             "テンプレートのメンテナンスと更新": "https://zeabur.com/docs/ja-JP/template/maintain-template",
             "テンプレートサービスからコードを Fork する": "https://zeabur.com/docs/ja-JP/template/fork-git-repo-from-template",
-            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-in-code"
+            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-format"
         },
         "インテグレーション": {
             "AI IDEの接続": "https://zeabur.com/docs/ja-JP/integrations/insforge/connect-ai-ide",
@@ -1184,7 +1184,7 @@
         "Plantillas": {
             "Catálogo de Plantillas": "https://zeabur.com/docs/es-ES/template/template-catalog",
             "Fork Code from Template Services": "https://zeabur.com/docs/es-ES/template/fork-git-repo-from-template",
-            "Formato de Plantilla": "https://zeabur.com/docs/es-ES/template/template-format",
+            "Formato de Plantilla": "https://zeabur.com/docs/es-ES/template/template-in-code",
             "Mantener y Actualizar Plantillas": "https://zeabur.com/docs/es-ES/template/maintain-template",
             "Plantillas": "https://zeabur.com/docs/es-ES/template"
         },
