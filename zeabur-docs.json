@@ -382,7 +382,7 @@
         "模板": {
             "從模板服務 Fork 程式碼": "https://zeabur.com/docs/zh-TW/template/fork-git-repo-from-template",
             "模板": "https://zeabur.com/docs/zh-TW/template",
-            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-in-code",
+            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-format",
             "模板目錄": "https://zeabur.com/docs/zh-TW/template/template-catalog",
             "維護與更新模板": "https://zeabur.com/docs/zh-TW/template/maintain-template"
         },
@@ -483,7 +483,7 @@
             "服務條款": "https://zeabur.com/docs/zh-TW/terms-of-service"
         },
         "Billing": {
-            "定價": "https://zeabur.com/docs/zh-TW/billing-legal",
+            "定價": "https://zeabur.com/docs/zh-TW/billing/plans",
             "贊助": "https://zeabur.com/docs/zh-TW/billing/sponsor"
         },
         "Billing Legal": {},
@@ -917,7 +917,7 @@
             "テンプレート": "https://zeabur.com/docs/ja-JP/template",
             "テンプレートのメンテナンスと更新": "https://zeabur.com/docs/ja-JP/template/maintain-template",
             "テンプレートサービスからコードを Fork する": "https://zeabur.com/docs/ja-JP/template/fork-git-repo-from-template",
-            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-format"
+            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-in-code"
         },
         "インテグレーション": {
             "AI IDEの接続": "https://zeabur.com/docs/ja-JP/integrations/insforge/connect-ai-ide",
