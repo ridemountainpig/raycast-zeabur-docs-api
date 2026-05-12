@@ -54,6 +54,7 @@
             "Domain Registration": "https://zeabur.com/docs/en-US/deploy/networking/domain-registration",
             "Execute Commands": "https://zeabur.com/docs/en-US/deploy/config/command-execution",
             "Export Project": "https://zeabur.com/docs/en-US/deploy/manage/export-project",
+            "Gateway": "https://zeabur.com/docs/en-US/deploy/networking/gateway",
             "GitHub Integration": "https://zeabur.com/docs/en-US/deploy/methods/github-integration",
             "High Availability Architecture": "https://zeabur.com/docs/en-US/deploy/networking/high-availability",
             "Large File Handling": "https://zeabur.com/docs/en-US/deploy/large-files",
@@ -240,11 +241,7 @@
         "Monitoring": {
             "Monitoring": "https://zeabur.com/docs/en-US/monitoring"
         },
-        "Networking": {
-            "Networking": "https://zeabur.com/docs/en-US/networking",
-            "Private Networking": "https://zeabur.com/docs/en-US/networking/private",
-            "Public Networking": "https://zeabur.com/docs/en-US/networking/public"
-        },
+        "Networking": {},
         "Manage": {
             "Metrics": "https://zeabur.com/docs/en-US/manage/metric"
         },
@@ -298,6 +295,7 @@
         "部署": {
             "Chrome 擴充功能": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-with-chrome-extension",
             "Dockerfile 部署": "https://zeabur.com/docs/zh-TW/deploy/methods/dockerfile",
+            "Gateway": "https://zeabur.com/docs/zh-TW/deploy/networking/gateway",
             "Raycast 擴充功能": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-with-raycast-extension",
             "VS Code / Cursor 擴充功能": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-with-vscode-extension",
             "一鍵部署按鈕": "https://zeabur.com/docs/zh-TW/deploy/methods/deploy-button",
@@ -382,7 +380,7 @@
         "模板": {
             "從模板服務 Fork 程式碼": "https://zeabur.com/docs/zh-TW/template/fork-git-repo-from-template",
             "模板": "https://zeabur.com/docs/zh-TW/template",
-            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-format",
+            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-in-code",
             "模板目錄": "https://zeabur.com/docs/zh-TW/template/template-catalog",
             "維護與更新模板": "https://zeabur.com/docs/zh-TW/template/maintain-template"
         },
@@ -483,7 +481,7 @@
             "服務條款": "https://zeabur.com/docs/zh-TW/terms-of-service"
         },
         "Billing": {
-            "定價": "https://zeabur.com/docs/zh-TW/billing/plans",
+            "定價": "https://zeabur.com/docs/zh-TW/billing-legal",
             "贊助": "https://zeabur.com/docs/zh-TW/billing/sponsor"
         },
         "Billing Legal": {},
@@ -505,11 +503,7 @@
             "監控": "https://zeabur.com/docs/zh-TW/monitoring",
             "監控指標": "https://zeabur.com/docs/zh-TW/monitoring/metrics"
         },
-        "Networking": {
-            "公網存取": "https://zeabur.com/docs/zh-TW/networking/public",
-            "服務內網": "https://zeabur.com/docs/zh-TW/networking/private",
-            "網路": "https://zeabur.com/docs/zh-TW/networking"
-        },
+        "Networking": {},
         "Manage": {
             "監控指標": "https://zeabur.com/docs/zh-TW/manage/metric"
         },
@@ -562,6 +556,7 @@
         "部署": {
             "Chrome 扩展": "https://zeabur.com/docs/zh-CN/deploy/methods/deploy-with-chrome-extension",
             "Dockerfile 部署": "https://zeabur.com/docs/zh-CN/deploy/methods/dockerfile",
+            "Gateway": "https://zeabur.com/docs/zh-CN/deploy/networking/gateway",
             "一键部署": "https://zeabur.com/docs/zh-CN/deploy/methods/deploy-button",
             "使用 Raycast 扩展部署服务": "https://zeabur.com/docs/zh-CN/deploy/methods/deploy-with-raycast-extension",
             "使用 VS Code 扩展部署服务": "https://zeabur.com/docs/zh-CN/deploy/methods/deploy-with-vscode-extension",
@@ -770,9 +765,7 @@
         "Monitoring": {
             "监控": "https://zeabur.com/docs/zh-CN/monitoring"
         },
-        "Networking": {
-            "网络": "https://zeabur.com/docs/zh-CN/networking"
-        },
+        "Networking": {},
         "Manage": {
             "安全报告": "https://zeabur.com/docs/zh-CN/manage/security-report",
             "监控指标": "https://zeabur.com/docs/zh-CN/manage/metric",
@@ -833,6 +826,7 @@
             "Chrome 拡張機能": "https://zeabur.com/docs/ja-JP/deploy/methods/deploy-with-chrome-extension",
             "Docker サービスのイメージ参照を更新する": "https://zeabur.com/docs/ja-JP/deploy/manage/update-image-reference",
             "Dockerfile を使用したデプロイ": "https://zeabur.com/docs/ja-JP/deploy/methods/dockerfile",
+            "Gateway": "https://zeabur.com/docs/ja-JP/deploy/networking/gateway",
             "Gemini Canvas から Chrome 拡張機能でデプロイする": "https://zeabur.com/docs/ja-JP/deploy/methods/deploy-with-chrome-extension/gemini",
             "GitHub 連携": "https://zeabur.com/docs/ja-JP/deploy/methods/github-integration",
             "Raycast 拡張機能を使ってサービスをデプロイする": "https://zeabur.com/docs/ja-JP/deploy/methods/deploy-with-raycast-extension",
@@ -917,7 +911,7 @@
             "テンプレート": "https://zeabur.com/docs/ja-JP/template",
             "テンプレートのメンテナンスと更新": "https://zeabur.com/docs/ja-JP/template/maintain-template",
             "テンプレートサービスからコードを Fork する": "https://zeabur.com/docs/ja-JP/template/fork-git-repo-from-template",
-            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-in-code"
+            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-format"
         },
         "インテグレーション": {
             "AI IDEの接続": "https://zeabur.com/docs/ja-JP/integrations/insforge/connect-ai-ide",
@@ -1039,9 +1033,7 @@
         "Monitoring": {
             "モニタリング": "https://zeabur.com/docs/ja-JP/monitoring"
         },
-        "Networking": {
-            "ネットワーク": "https://zeabur.com/docs/ja-JP/networking"
-        },
+        "Networking": {},
         "Manage": {
             "セキュリティレポート": "https://zeabur.com/docs/ja-JP/manage/security-report",
             "プロジェクト予算": "https://zeabur.com/docs/ja-JP/manage/budget",
@@ -1113,6 +1105,7 @@
             "Ejecutar Comandos": "https://zeabur.com/docs/es-ES/deploy/config/command-execution",
             "Especificación de Compilación": "https://zeabur.com/docs/es-ES/deploy/config/build-spec",
             "Exportar Proyecto": "https://zeabur.com/docs/es-ES/deploy/manage/export-project",
+            "Gateway": "https://zeabur.com/docs/es-ES/deploy/networking/gateway",
             "Gestión de Despliegue": "https://zeabur.com/docs/es-ES/operations/deployment",
             "Gestión de Proyectos": "https://zeabur.com/docs/es-ES/deploy/manage",
             "Imagen Docker personalizada": "https://zeabur.com/docs/es-ES/deploy/methods/custom-docker-image",
@@ -1125,7 +1118,7 @@
             "Métodos de Despliegue": "https://zeabur.com/docs/es-ES/deploy/methods",
             "Red": "https://zeabur.com/docs/es-ES/deploy/networking",
             "Red Privada": "https://zeabur.com/docs/es-ES/deploy/private-networking",
-            "Red Pública": "https://zeabur.com/docs/es-ES/deploy/public-networking",
+            "Red Pública": "https://zeabur.com/docs/es-ES/deploy/networking/public-networking",
             "Registro de Dominios": "https://zeabur.com/docs/es-ES/deploy/networking/domain-registration",
             "Reversiones": "https://zeabur.com/docs/es-ES/operations/deployment/rollbacks",
             "Setting Environment Variables": "https://zeabur.com/docs/es-ES/deploy/config/environment-variables",
@@ -1308,9 +1301,7 @@
         "Monitoring": {
             "Monitoreo": "https://zeabur.com/docs/es-ES/monitoring"
         },
-        "Networking": {
-            "Red": "https://zeabur.com/docs/es-ES/networking"
-        },
+        "Networking": {},
         "Manage": {
             "Informe de Seguridad": "https://zeabur.com/docs/es-ES/manage/security-report",
             "Invitar Miembros": "https://zeabur.com/docs/es-ES/manage/invite",
