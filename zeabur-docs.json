@@ -221,7 +221,7 @@
             "Terms of Service": "https://zeabur.com/docs/en-US/terms-of-service"
         },
         "Billing": {
-            "Pricing": "https://zeabur.com/docs/en-US/billing/plans",
+            "Pricing": "https://zeabur.com/docs/en-US/billing-legal",
             "Sponsor": "https://zeabur.com/docs/en-US/billing/sponsor"
         },
         "Billing Legal": {},
@@ -380,7 +380,7 @@
         "模板": {
             "從模板服務 Fork 程式碼": "https://zeabur.com/docs/zh-TW/template/fork-git-repo-from-template",
             "模板": "https://zeabur.com/docs/zh-TW/template",
-            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-format",
+            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-in-code",
             "模板目錄": "https://zeabur.com/docs/zh-TW/template/template-catalog",
             "維護與更新模板": "https://zeabur.com/docs/zh-TW/template/maintain-template"
         },
