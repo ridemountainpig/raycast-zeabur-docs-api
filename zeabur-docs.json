@@ -221,7 +221,7 @@
             "Terms of Service": "https://zeabur.com/docs/en-US/terms-of-service"
         },
         "Billing": {
-            "Pricing": "https://zeabur.com/docs/en-US/billing-legal",
+            "Pricing": "https://zeabur.com/docs/en-US/billing/plans",
             "Sponsor": "https://zeabur.com/docs/en-US/billing/sponsor"
         },
         "Billing Legal": {},
@@ -481,7 +481,7 @@
             "服務條款": "https://zeabur.com/docs/zh-TW/terms-of-service"
         },
         "Billing": {
-            "定價": "https://zeabur.com/docs/zh-TW/billing/plans",
+            "定價": "https://zeabur.com/docs/zh-TW/billing-legal",
             "贊助": "https://zeabur.com/docs/zh-TW/billing/sponsor"
         },
         "Billing Legal": {},
