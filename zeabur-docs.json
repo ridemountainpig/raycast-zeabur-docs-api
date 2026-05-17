@@ -224,7 +224,7 @@
             "Terms of Service": "https://zeabur.com/docs/en-US/terms-of-service"
         },
         "Billing": {
-            "Pricing": "https://zeabur.com/docs/en-US/billing-legal",
+            "Pricing": "https://zeabur.com/docs/en-US/billing/plans",
             "Sponsor": "https://zeabur.com/docs/en-US/billing/sponsor"
         },
         "Billing Legal": {},
@@ -383,7 +383,7 @@
         "模板": {
             "從模板服務 Fork 程式碼": "https://zeabur.com/docs/zh-TW/template/fork-git-repo-from-template",
             "模板": "https://zeabur.com/docs/zh-TW/template",
-            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-format",
+            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-in-code",
             "模板目錄": "https://zeabur.com/docs/zh-TW/template/template-catalog",
             "維護與更新模板": "https://zeabur.com/docs/zh-TW/template/maintain-template"
         },
@@ -648,7 +648,7 @@
             "Zeabur 模板目录": "https://zeabur.com/docs/zh-CN/template/template-catalog",
             "从模板服务 Fork 代码": "https://zeabur.com/docs/zh-CN/template/fork-git-repo-from-template",
             "模板": "https://zeabur.com/docs/zh-CN/template",
-            "模板格式": "https://zeabur.com/docs/zh-CN/template/template-in-code",
+            "模板格式": "https://zeabur.com/docs/zh-CN/template/template-format",
             "维护与更新模板": "https://zeabur.com/docs/zh-CN/template/maintain-template"
         },
         "集成": {
@@ -853,10 +853,10 @@
             "デプロイ管理": "https://zeabur.com/docs/ja-JP/operations/deployment",
             "ドメイン登録": "https://zeabur.com/docs/ja-JP/deploy/networking/domain-registration",
             "ネットワーク": "https://zeabur.com/docs/ja-JP/deploy/networking",
-            "パブリックネットワーク": "https://zeabur.com/docs/ja-JP/deploy/networking/public-networking",
+            "パブリックネットワーク": "https://zeabur.com/docs/ja-JP/deploy/public-networking",
             "ビルド": "https://zeabur.com/docs/ja-JP/deploy/how-deploys-work",
             "ビルドスペック": "https://zeabur.com/docs/ja-JP/deploy/config/build-spec",
-            "プライベートネットワーク": "https://zeabur.com/docs/ja-JP/deploy/networking/private-networking",
+            "プライベートネットワーク": "https://zeabur.com/docs/ja-JP/deploy/private-networking",
             "プロジェクトとサービスの作成": "https://zeabur.com/docs/ja-JP/deploy/create",
             "プロジェクトのエクスポート": "https://zeabur.com/docs/ja-JP/deploy/manage/export-project",
             "プロジェクトの移行": "https://zeabur.com/docs/ja-JP/deploy/manage/migrate-project",
@@ -920,7 +920,7 @@
             "テンプレート": "https://zeabur.com/docs/ja-JP/template",
             "テンプレートのメンテナンスと更新": "https://zeabur.com/docs/ja-JP/template/maintain-template",
             "テンプレートサービスからコードを Fork する": "https://zeabur.com/docs/ja-JP/template/fork-git-repo-from-template",
-            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-format"
+            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-in-code"
         },
         "インテグレーション": {
             "AI IDEの接続": "https://zeabur.com/docs/ja-JP/integrations/insforge/connect-ai-ide",
