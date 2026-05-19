@@ -224,7 +224,7 @@
             "Terms of Service": "https://zeabur.com/docs/en-US/terms-of-service"
         },
         "Billing": {
-            "Pricing": "https://zeabur.com/docs/en-US/billing/plans",
+            "Pricing": "https://zeabur.com/docs/en-US/billing-legal",
             "Sponsor": "https://zeabur.com/docs/en-US/billing/sponsor"
         },
         "Billing Legal": {},
@@ -920,7 +920,7 @@
             "テンプレート": "https://zeabur.com/docs/ja-JP/template",
             "テンプレートのメンテナンスと更新": "https://zeabur.com/docs/ja-JP/template/maintain-template",
             "テンプレートサービスからコードを Fork する": "https://zeabur.com/docs/ja-JP/template/fork-git-repo-from-template",
-            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-in-code"
+            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-format"
         },
         "インテグレーション": {
             "AI IDEの接続": "https://zeabur.com/docs/ja-JP/integrations/insforge/connect-ai-ide",
@@ -1250,7 +1250,7 @@
             "Dev Plan (Developer Plan)": "https://zeabur.com/docs/es-ES/pricing/dev-plan",
             "Free Plan": "https://zeabur.com/docs/es-ES/pricing/free-plan",
             "Plan Team": "https://zeabur.com/docs/es-ES/pricing/team-plan",
-            "Precios": "https://zeabur.com/docs/es-ES/pricing",
+            "Precios": "https://zeabur.com/docs/es-ES/pricing/pricing-plans",
             "Pro Plan": "https://zeabur.com/docs/es-ES/pricing/pro-plan"
         },
         "Suscripción y Facturación": {
