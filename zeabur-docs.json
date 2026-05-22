@@ -232,7 +232,9 @@
             "FAQ & Support": "https://zeabur.com/docs/en-US/community/forum",
             "Get Help": "https://zeabur.com/docs/en-US/community/help",
             "Referral Program": "https://zeabur.com/docs/en-US/community/referral",
-            "Verify Your Account": "https://zeabur.com/docs/en-US/community/verify"
+            "Verify Your Account": "https://zeabur.com/docs/en-US/community/verify",
+            "Zeabur Ambassador Programme": "https://zeabur.com/docs/en-US/community/ambassador-programme",
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/en-US/community/code-of-conduct"
         },
         "Data Management": {
             "Backup your Service": "https://zeabur.com/docs/en-US/data-management/backup",
@@ -492,6 +494,8 @@
         },
         "Billing Legal": {},
         "Community": {
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/zh-TW/community/code-of-conduct",
+            "Zeabur 大使計畫": "https://zeabur.com/docs/zh-TW/community/ambassador-programme",
             "在社群論壇驗證你的帳戶": "https://zeabur.com/docs/zh-TW/community/verify",
             "尋求幫助": "https://zeabur.com/docs/zh-TW/community/help",
             "常見問答與支援": "https://zeabur.com/docs/zh-TW/community/forum",
@@ -759,6 +763,8 @@
         },
         "Billing Legal": {},
         "Community": {
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/zh-CN/community/code-of-conduct",
+            "Zeabur 大使计划": "https://zeabur.com/docs/zh-CN/community/ambassador-programme",
             "常见问题与支持": "https://zeabur.com/docs/zh-CN/community/forum",
             "推荐计划": "https://zeabur.com/docs/zh-CN/community/referral",
             "贡献奖励计划": "https://zeabur.com/docs/zh-CN/community/contribution"
@@ -1031,6 +1037,8 @@
         "Billing Legal": {},
         "Community": {
             "FAQ とサポート": "https://zeabur.com/docs/ja-JP/community/forum",
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/ja-JP/community/code-of-conduct",
+            "Zeabur アンバサダープログラム": "https://zeabur.com/docs/ja-JP/community/ambassador-programme",
             "コントリビューション報酬プログラム": "https://zeabur.com/docs/ja-JP/community/contribution",
             "紹介プログラム": "https://zeabur.com/docs/ja-JP/community/referral"
         },
@@ -1189,7 +1197,7 @@
         "Plantillas": {
             "Catálogo de Plantillas": "https://zeabur.com/docs/es-ES/template/template-catalog",
             "Fork Code from Template Services": "https://zeabur.com/docs/es-ES/template/fork-git-repo-from-template",
-            "Formato de Plantilla": "https://zeabur.com/docs/es-ES/template/template-in-code",
+            "Formato de Plantilla": "https://zeabur.com/docs/es-ES/template/template-format",
             "Mantener y Actualizar Plantillas": "https://zeabur.com/docs/es-ES/template/maintain-template",
             "Plantillas": "https://zeabur.com/docs/es-ES/template"
         },
@@ -1302,8 +1310,10 @@
         "Billing Legal": {},
         "Community": {
             "FAQ y Soporte": "https://zeabur.com/docs/es-ES/community/forum",
+            "Programa de Embajadores de Zeabur": "https://zeabur.com/docs/es-ES/community/ambassador-programme",
             "Programa de Recompensas por Contribución": "https://zeabur.com/docs/es-ES/community/contribution",
-            "Programa de Referidos": "https://zeabur.com/docs/es-ES/community/referral"
+            "Programa de Referidos": "https://zeabur.com/docs/es-ES/community/referral",
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/es-ES/community/code-of-conduct"
         },
         "Data Management": {
             "Copia de Seguridad de tu Servicio": "https://zeabur.com/docs/es-ES/data-management/backup",
