@@ -39,7 +39,7 @@
             "Chrome Extension": "https://zeabur.com/docs/en-US/deploy/methods/deploy-with-chrome-extension",
             "Copy Project": "https://zeabur.com/docs/en-US/deploy/manage/copy-project",
             "Core Deployment & Services": "https://zeabur.com/docs/en-US/deploy",
-            "Create Project": "https://zeabur.com/docs/en-US/deploy/create-project",
+            "Create Project": "https://zeabur.com/docs/en-US/deploy/create/create-project",
             "Create Projects & Services": "https://zeabur.com/docs/en-US/deploy/create",
             "Create Service": "https://zeabur.com/docs/en-US/deploy/create/create-service",
             "Custom Docker image": "https://zeabur.com/docs/en-US/deploy/methods/custom-docker-image",
@@ -95,6 +95,7 @@
         },
         "AI Hub": {
             "AI Hub": "https://zeabur.com/docs/en-US/ai-hub",
+            "Reading Usage and Cost": "https://zeabur.com/docs/en-US/ai-hub/usage-and-cost",
             "Using Zeabur AI Hub in SillyTavern": "https://zeabur.com/docs/en-US/ai-hub/sillytavern-integration",
             "Using Zeabur AI Hub in n8n": "https://zeabur.com/docs/en-US/ai-hub/n8n-integration"
         },
@@ -121,7 +122,7 @@
             "Fork Code from Template Services": "https://zeabur.com/docs/en-US/template/fork-git-repo-from-template",
             "Maintain & Update Templates": "https://zeabur.com/docs/en-US/template/maintain-template",
             "Template Catalog": "https://zeabur.com/docs/en-US/template/template-catalog",
-            "Template Format": "https://zeabur.com/docs/en-US/template/template-in-code",
+            "Template Format": "https://zeabur.com/docs/en-US/template/template-format",
             "Templates": "https://zeabur.com/docs/en-US/template"
         },
         "Integrations": {
@@ -223,16 +224,9 @@
         "Terms of Service": {
             "Terms of Service": "https://zeabur.com/docs/en-US/terms-of-service"
         },
-        "Billing": {
-            "Pricing": "https://zeabur.com/docs/en-US/billing-legal",
-            "Sponsor": "https://zeabur.com/docs/en-US/billing/sponsor"
-        },
+        "Billing": {},
         "Billing Legal": {},
         "Community": {
-            "FAQ & Support": "https://zeabur.com/docs/en-US/community/forum",
-            "Get Help": "https://zeabur.com/docs/en-US/community/help",
-            "Referral Program": "https://zeabur.com/docs/en-US/community/referral",
-            "Verify Your Account": "https://zeabur.com/docs/en-US/community/verify",
             "Zeabur Ambassador Programme": "https://zeabur.com/docs/en-US/community/ambassador-programme",
             "Zeabur Community Code of Conduct": "https://zeabur.com/docs/en-US/community/code-of-conduct"
         },
@@ -247,17 +241,11 @@
             "Monitoring": "https://zeabur.com/docs/en-US/monitoring"
         },
         "Networking": {},
-        "Manage": {
-            "Metrics": "https://zeabur.com/docs/en-US/manage/metric"
-        },
+        "Manage": {},
         "Mesh": {
             "Zeabur Mesh": "https://zeabur.com/docs/en-US/mesh"
         },
-        "Tutorials": {
-            "Get Started & Quick Guides": "https://zeabur.com/docs/en-US/tutorials",
-            "GitHub Integration": "https://zeabur.com/docs/en-US/tutorials/github",
-            "Migrate from Vercel": "https://zeabur.com/docs/en-US/tutorials/v0"
-        },
+        "Tutorials": {},
         "Mcp": {
             "Zeabur MCP Server": "https://zeabur.com/docs/en-US/mcp"
         },
@@ -310,7 +298,7 @@
             "執行命令": "https://zeabur.com/docs/zh-TW/deploy/config/command-execution",
             "大型檔案處理": "https://zeabur.com/docs/zh-TW/deploy/large-files",
             "專案管理": "https://zeabur.com/docs/zh-TW/deploy/manage",
-            "建立專案": "https://zeabur.com/docs/zh-TW/deploy/create-project",
+            "建立專案": "https://zeabur.com/docs/zh-TW/deploy/create/create-project",
             "建立專案與服務": "https://zeabur.com/docs/zh-TW/deploy/create",
             "建立服務": "https://zeabur.com/docs/zh-TW/deploy/create/create-service",
             "建置原理": "https://zeabur.com/docs/zh-TW/deploy/how-deploys-work",
@@ -345,7 +333,6 @@
             "擴展": "https://zeabur.com/docs/zh-TW/operations/resources/scaling",
             "日誌與串流": "https://zeabur.com/docs/zh-TW/operations/monitoring/logging",
             "檔案管理": "https://zeabur.com/docs/zh-TW/operations/data/file-management",
-            "版本還原": "https://zeabur.com/docs/zh-TW/operations/rollbacks",
             "監控": "https://zeabur.com/docs/zh-TW/operations/monitoring",
             "監控指標": "https://zeabur.com/docs/zh-TW/operations/monitoring/metrics",
             "編輯設定檔": "https://zeabur.com/docs/zh-TW/operations/data/config-file-management",
@@ -361,7 +348,8 @@
         "AI Hub": {
             "AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub",
             "在 SillyTavern 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub/sillytavern-integration",
-            "在 n8n 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub/n8n-integration"
+            "在 n8n 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub/n8n-integration",
+            "讀取用量與費用": "https://zeabur.com/docs/zh-TW/ai-hub/usage-and-cost"
         },
         "網域": {
             "DNS 記錄": "https://zeabur.com/docs/zh-TW/domain/dns",
@@ -385,7 +373,7 @@
         "模板": {
             "從模板服務 Fork 程式碼": "https://zeabur.com/docs/zh-TW/template/fork-git-repo-from-template",
             "模板": "https://zeabur.com/docs/zh-TW/template",
-            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-in-code",
+            "模板格式說明": "https://zeabur.com/docs/zh-TW/template/template-format",
             "模板目錄": "https://zeabur.com/docs/zh-TW/template/template-catalog",
             "維護與更新模板": "https://zeabur.com/docs/zh-TW/template/maintain-template"
         },
@@ -488,18 +476,11 @@
         "服務條款": {
             "服務條款": "https://zeabur.com/docs/zh-TW/terms-of-service"
         },
-        "Billing": {
-            "定價": "https://zeabur.com/docs/zh-TW/billing-legal",
-            "贊助": "https://zeabur.com/docs/zh-TW/billing/sponsor"
-        },
+        "Billing": {},
         "Billing Legal": {},
         "Community": {
             "Zeabur Community Code of Conduct": "https://zeabur.com/docs/zh-TW/community/code-of-conduct",
-            "Zeabur 大使計畫": "https://zeabur.com/docs/zh-TW/community/ambassador-programme",
-            "在社群論壇驗證你的帳戶": "https://zeabur.com/docs/zh-TW/community/verify",
-            "尋求幫助": "https://zeabur.com/docs/zh-TW/community/help",
-            "常見問答與支援": "https://zeabur.com/docs/zh-TW/community/forum",
-            "推薦計畫": "https://zeabur.com/docs/zh-TW/community/referral"
+            "Zeabur 大使計畫": "https://zeabur.com/docs/zh-TW/community/ambassador-programme"
         },
         "Data Management": {
             "備份服務": "https://zeabur.com/docs/zh-TW/data-management/backup",
@@ -514,17 +495,11 @@
             "監控指標": "https://zeabur.com/docs/zh-TW/monitoring/metrics"
         },
         "Networking": {},
-        "Manage": {
-            "監控指標": "https://zeabur.com/docs/zh-TW/manage/metric"
-        },
+        "Manage": {},
         "Mesh": {
             "Zeabur Mesh": "https://zeabur.com/docs/zh-TW/mesh"
         },
-        "Tutorials": {
-            "入門與快速指南": "https://zeabur.com/docs/zh-TW/tutorials",
-            "從 Vercel 遷移": "https://zeabur.com/docs/zh-TW/tutorials/v0",
-            "整合 GitHub": "https://zeabur.com/docs/zh-TW/tutorials/github"
-        },
+        "Tutorials": {},
         "Mcp": {
             "Zeabur MCP 伺服器": "https://zeabur.com/docs/zh-TW/mcp"
         },
@@ -588,7 +563,6 @@
             "添加变量": "https://zeabur.com/docs/zh-CN/deploy/config/environment-variables",
             "版本回滚": "https://zeabur.com/docs/zh-CN/operations/deployment/rollbacks",
             "监控路径": "https://zeabur.com/docs/zh-CN/deploy/config/watch-paths",
-            "维护与更新模板": "https://zeabur.com/docs/zh-CN/deploy/templates/maintain-template",
             "网络": "https://zeabur.com/docs/zh-CN/deploy/networking",
             "自定义 Docker 镜像": "https://zeabur.com/docs/zh-CN/deploy/methods/custom-docker-image",
             "自定义根目录": "https://zeabur.com/docs/zh-CN/deploy/config/root-directory",
@@ -627,7 +601,8 @@
         "AI Hub": {
             "Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub",
             "在 SillyTavern 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub/sillytavern-integration",
-            "在 n8n 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub/n8n-integration"
+            "在 n8n 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub/n8n-integration",
+            "读取用量与费用": "https://zeabur.com/docs/zh-CN/ai-hub/usage-and-cost"
         },
         "域名": {
             "DNS 记录": "https://zeabur.com/docs/zh-CN/domain/dns",
@@ -652,7 +627,7 @@
             "Zeabur 模板目录": "https://zeabur.com/docs/zh-CN/template/template-catalog",
             "从模板服务 Fork 代码": "https://zeabur.com/docs/zh-CN/template/fork-git-repo-from-template",
             "模板": "https://zeabur.com/docs/zh-CN/template",
-            "模板格式": "https://zeabur.com/docs/zh-CN/template/template-in-code",
+            "模板格式": "https://zeabur.com/docs/zh-CN/template/template-format",
             "维护与更新模板": "https://zeabur.com/docs/zh-CN/template/maintain-template"
         },
         "集成": {
@@ -757,17 +732,11 @@
         "Advanced": {
             "构建原理": "https://zeabur.com/docs/zh-CN/advanced/builds"
         },
-        "Billing": {
-            "定价": "https://zeabur.com/docs/zh-CN/billing-legal",
-            "赞助": "https://zeabur.com/docs/zh-CN/billing/sponsor"
-        },
+        "Billing": {},
         "Billing Legal": {},
         "Community": {
             "Zeabur Community Code of Conduct": "https://zeabur.com/docs/zh-CN/community/code-of-conduct",
-            "Zeabur 大使计划": "https://zeabur.com/docs/zh-CN/community/ambassador-programme",
-            "常见问题与支持": "https://zeabur.com/docs/zh-CN/community/forum",
-            "推荐计划": "https://zeabur.com/docs/zh-CN/community/referral",
-            "贡献奖励计划": "https://zeabur.com/docs/zh-CN/community/contribution"
+            "Zeabur 大使计划": "https://zeabur.com/docs/zh-CN/community/ambassador-programme"
         },
         "Data Management": {
             "备份服务": "https://zeabur.com/docs/zh-CN/data-management/backup",
@@ -781,23 +750,12 @@
             "监控": "https://zeabur.com/docs/zh-CN/monitoring"
         },
         "Networking": {},
-        "Manage": {
-            "安全报告": "https://zeabur.com/docs/zh-CN/manage/security-report",
-            "监控指标": "https://zeabur.com/docs/zh-CN/manage/metric",
-            "邀请成员": "https://zeabur.com/docs/zh-CN/manage/invite",
-            "项目预算": "https://zeabur.com/docs/zh-CN/manage/budget"
-        },
-        "Infrastructure": {
-            "部署与服务": "https://zeabur.com/docs/zh-CN/infrastructure"
-        },
+        "Manage": {},
+        "Infrastructure": {},
         "Mesh": {
             "Zeabur Mesh": "https://zeabur.com/docs/zh-CN/mesh"
         },
-        "Tutorials": {
-            "从 Vercel 迁移": "https://zeabur.com/docs/zh-CN/tutorials/v0",
-            "入门和快速指南": "https://zeabur.com/docs/zh-CN/tutorials",
-            "集成 GitHub": "https://zeabur.com/docs/zh-CN/tutorials/github"
-        },
+        "Tutorials": {},
         "Mcp": {
             "Zeabur MCP 服务器": "https://zeabur.com/docs/zh-CN/mcp"
         },
@@ -859,10 +817,10 @@
             "デプロイ管理": "https://zeabur.com/docs/ja-JP/operations/deployment",
             "ドメイン登録": "https://zeabur.com/docs/ja-JP/deploy/networking/domain-registration",
             "ネットワーク": "https://zeabur.com/docs/ja-JP/deploy/networking",
-            "パブリックネットワーク": "https://zeabur.com/docs/ja-JP/deploy/public-networking",
+            "パブリックネットワーク": "https://zeabur.com/docs/ja-JP/deploy/networking/public-networking",
             "ビルド": "https://zeabur.com/docs/ja-JP/deploy/how-deploys-work",
             "ビルドスペック": "https://zeabur.com/docs/ja-JP/deploy/config/build-spec",
-            "プライベートネットワーク": "https://zeabur.com/docs/ja-JP/deploy/private-networking",
+            "プライベートネットワーク": "https://zeabur.com/docs/ja-JP/deploy/networking/private-networking",
             "プロジェクトとサービスの作成": "https://zeabur.com/docs/ja-JP/deploy/create",
             "プロジェクトのエクスポート": "https://zeabur.com/docs/ja-JP/deploy/manage/export-project",
             "プロジェクトの移行": "https://zeabur.com/docs/ja-JP/deploy/manage/migrate-project",
@@ -900,7 +858,8 @@
         "AI Hub": {
             "SillyTavern で Zeabur AI Hub を使用する": "https://zeabur.com/docs/ja-JP/ai-hub/sillytavern-integration",
             "Zeabur AI Hub": "https://zeabur.com/docs/ja-JP/ai-hub",
-            "n8n で Zeabur AI Hub を使用する": "https://zeabur.com/docs/ja-JP/ai-hub/n8n-integration"
+            "n8n で Zeabur AI Hub を使用する": "https://zeabur.com/docs/ja-JP/ai-hub/n8n-integration",
+            "使用量と料金の取得": "https://zeabur.com/docs/ja-JP/ai-hub/usage-and-cost"
         },
         "ドメイン": {
             "DNS レコード": "https://zeabur.com/docs/ja-JP/domain/dns",
@@ -926,7 +885,7 @@
             "テンプレート": "https://zeabur.com/docs/ja-JP/template",
             "テンプレートのメンテナンスと更新": "https://zeabur.com/docs/ja-JP/template/maintain-template",
             "テンプレートサービスからコードを Fork する": "https://zeabur.com/docs/ja-JP/template/fork-git-repo-from-template",
-            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-in-code"
+            "テンプレート形式": "https://zeabur.com/docs/ja-JP/template/template-format"
         },
         "インテグレーション": {
             "AI IDEの接続": "https://zeabur.com/docs/ja-JP/integrations/insforge/connect-ai-ide",
@@ -1030,17 +989,11 @@
         "Advanced": {
             "ビルド": "https://zeabur.com/docs/ja-JP/advanced/builds"
         },
-        "Billing": {
-            "スポンサー": "https://zeabur.com/docs/ja-JP/billing/sponsor",
-            "定価": "https://zeabur.com/docs/ja-JP/billing-legal"
-        },
+        "Billing": {},
         "Billing Legal": {},
         "Community": {
-            "FAQ とサポート": "https://zeabur.com/docs/ja-JP/community/forum",
             "Zeabur Community Code of Conduct": "https://zeabur.com/docs/ja-JP/community/code-of-conduct",
-            "Zeabur アンバサダープログラム": "https://zeabur.com/docs/ja-JP/community/ambassador-programme",
-            "コントリビューション報酬プログラム": "https://zeabur.com/docs/ja-JP/community/contribution",
-            "紹介プログラム": "https://zeabur.com/docs/ja-JP/community/referral"
+            "Zeabur アンバサダープログラム": "https://zeabur.com/docs/ja-JP/community/ambassador-programme"
         },
         "Data Management": {
             "データ管理": "https://zeabur.com/docs/ja-JP/data-management",
@@ -1054,23 +1007,12 @@
             "モニタリング": "https://zeabur.com/docs/ja-JP/monitoring"
         },
         "Networking": {},
-        "Manage": {
-            "セキュリティレポート": "https://zeabur.com/docs/ja-JP/manage/security-report",
-            "プロジェクト予算": "https://zeabur.com/docs/ja-JP/manage/budget",
-            "メトリクス": "https://zeabur.com/docs/ja-JP/manage/metric",
-            "メンバーの招待": "https://zeabur.com/docs/ja-JP/manage/invite"
-        },
-        "Infrastructure": {
-            "デプロイとサービス": "https://zeabur.com/docs/ja-JP/infrastructure"
-        },
+        "Manage": {},
+        "Infrastructure": {},
         "Mesh": {
             "Zeabur Mesh": "https://zeabur.com/docs/ja-JP/mesh"
         },
-        "Tutorials": {
-            "GitHub 連携": "https://zeabur.com/docs/ja-JP/tutorials/github",
-            "Vercel からの移行": "https://zeabur.com/docs/ja-JP/tutorials/v0",
-            "はじめに＆クイックガイド": "https://zeabur.com/docs/ja-JP/tutorials"
-        },
+        "Tutorials": {},
         "Mcp": {
             "Zeabur MCP サーバー": "https://zeabur.com/docs/ja-JP/mcp"
         },
@@ -1137,8 +1079,8 @@
             "Migrar Proyecto": "https://zeabur.com/docs/es-ES/deploy/manage/migrate-project",
             "Métodos de Despliegue": "https://zeabur.com/docs/es-ES/deploy/methods",
             "Red": "https://zeabur.com/docs/es-ES/deploy/networking",
-            "Red Privada": "https://zeabur.com/docs/es-ES/deploy/private-networking",
-            "Red Pública": "https://zeabur.com/docs/es-ES/deploy/public-networking",
+            "Red Privada": "https://zeabur.com/docs/es-ES/deploy/networking/private-networking",
+            "Red Pública": "https://zeabur.com/docs/es-ES/deploy/networking/public-networking",
             "Registro de Dominios": "https://zeabur.com/docs/es-ES/deploy/networking/domain-registration",
             "Reversiones": "https://zeabur.com/docs/es-ES/operations/deployment/rollbacks",
             "Setting Environment Variables": "https://zeabur.com/docs/es-ES/deploy/config/environment-variables",
@@ -1171,6 +1113,7 @@
             "GCP BYOS (Trae tu propia suscripción)": "https://zeabur.com/docs/es-ES/byos/gcp"
         },
         "AI Hub": {
+            "Leer el uso y el costo": "https://zeabur.com/docs/es-ES/ai-hub/usage-and-cost",
             "Usar Zeabur AI Hub en SillyTavern": "https://zeabur.com/docs/es-ES/ai-hub/sillytavern-integration",
             "Usar Zeabur AI Hub en n8n": "https://zeabur.com/docs/es-ES/ai-hub/n8n-integration",
             "Zeabur AI Hub": "https://zeabur.com/docs/es-ES/ai-hub"
@@ -1303,16 +1246,10 @@
         "Advanced": {
             "Builds": "https://zeabur.com/docs/es-ES/advanced/builds"
         },
-        "Billing": {
-            "Patrocinio": "https://zeabur.com/docs/es-ES/billing/sponsor",
-            "Precios": "https://zeabur.com/docs/es-ES/billing-legal"
-        },
+        "Billing": {},
         "Billing Legal": {},
         "Community": {
-            "FAQ y Soporte": "https://zeabur.com/docs/es-ES/community/forum",
             "Programa de Embajadores de Zeabur": "https://zeabur.com/docs/es-ES/community/ambassador-programme",
-            "Programa de Recompensas por Contribución": "https://zeabur.com/docs/es-ES/community/contribution",
-            "Programa de Referidos": "https://zeabur.com/docs/es-ES/community/referral",
             "Zeabur Community Code of Conduct": "https://zeabur.com/docs/es-ES/community/code-of-conduct"
         },
         "Data Management": {
@@ -1327,23 +1264,12 @@
             "Monitoreo": "https://zeabur.com/docs/es-ES/monitoring"
         },
         "Networking": {},
-        "Manage": {
-            "Informe de Seguridad": "https://zeabur.com/docs/es-ES/manage/security-report",
-            "Invitar Miembros": "https://zeabur.com/docs/es-ES/manage/invite",
-            "Métricas": "https://zeabur.com/docs/es-ES/manage/metric",
-            "Presupuesto del Proyecto": "https://zeabur.com/docs/es-ES/manage/budget"
-        },
-        "Infrastructure": {
-            "Despliegue y Servicios": "https://zeabur.com/docs/es-ES/infrastructure"
-        },
+        "Manage": {},
+        "Infrastructure": {},
         "Mesh": {
             "Zeabur Mesh": "https://zeabur.com/docs/es-ES/mesh"
         },
-        "Tutorials": {
-            "Comenzar y Guías Rápidas": "https://zeabur.com/docs/es-ES/tutorials",
-            "Integración con GitHub": "https://zeabur.com/docs/es-ES/tutorials/github",
-            "Migrar desde Vercel": "https://zeabur.com/docs/es-ES/tutorials/v0"
-        },
+        "Tutorials": {},
         "Mcp": {
             "Servidor MCP de Zeabur": "https://zeabur.com/docs/es-ES/mcp"
         },
