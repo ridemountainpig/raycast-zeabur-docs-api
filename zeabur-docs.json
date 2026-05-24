@@ -606,7 +606,7 @@
         },
         "域名": {
             "DNS 记录": "https://zeabur.com/docs/zh-CN/domain/dns",
-            "域名管理": "https://zeabur.com/docs/zh-CN/email/domains",
+            "域名管理": "https://zeabur.com/docs/zh-CN/domain/management",
             "注册人资料": "https://zeabur.com/docs/zh-CN/domain/profiles",
             "注册域名": "https://zeabur.com/docs/zh-CN/domain/register",
             "预备案子域名": "https://zeabur.com/docs/zh-CN/networking/pre-icp-subdomain"
