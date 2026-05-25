@@ -353,7 +353,7 @@
         },
         "網域": {
             "DNS 記錄": "https://zeabur.com/docs/zh-TW/domain/dns",
-            "網域管理": "https://zeabur.com/docs/zh-TW/email/domains",
+            "網域管理": "https://zeabur.com/docs/zh-TW/domain/management",
             "註冊人資料": "https://zeabur.com/docs/zh-TW/domain/profiles",
             "註冊網域": "https://zeabur.com/docs/zh-TW/domain/register",
             "預備案子域名": "https://zeabur.com/docs/zh-TW/networking/pre-icp-subdomain"
@@ -606,7 +606,7 @@
         },
         "域名": {
             "DNS 记录": "https://zeabur.com/docs/zh-CN/domain/dns",
-            "域名管理": "https://zeabur.com/docs/zh-CN/domain/management",
+            "域名管理": "https://zeabur.com/docs/zh-CN/email/domains",
             "注册人资料": "https://zeabur.com/docs/zh-CN/domain/profiles",
             "注册域名": "https://zeabur.com/docs/zh-CN/domain/register",
             "预备案子域名": "https://zeabur.com/docs/zh-CN/networking/pre-icp-subdomain"
@@ -688,7 +688,7 @@
             "Free Plan": "https://zeabur.com/docs/zh-CN/pricing/free-plan",
             "Pro Plan": "https://zeabur.com/docs/zh-CN/pricing/pro-plan",
             "Team Plan（团队方案）": "https://zeabur.com/docs/zh-CN/pricing/team-plan",
-            "定价": "https://zeabur.com/docs/zh-CN/pricing"
+            "定价": "https://zeabur.com/docs/zh-CN/pricing/pricing-plans"
         },
         "订阅与账单": {
             "付款方式": "https://zeabur.com/docs/zh-CN/subscription/payment-methods",
