@@ -211,6 +211,10 @@
             "Redeem Prepaid Card": "https://zeabur.com/docs/en-US/partner/sales-partner/redeem-card",
             "Sales Partner": "https://zeabur.com/docs/en-US/partner/sales-partner"
         },
+        "Community": {
+            "Zeabur Ambassador Programme": "https://zeabur.com/docs/en-US/community/ambassador-programme",
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/en-US/community/code-of-conduct"
+        },
         "Privacy Policy": {
             "Privacy Policy": "https://zeabur.com/docs/en-US/privacy-policy"
         },
@@ -226,10 +230,6 @@
         },
         "Billing": {},
         "Billing Legal": {},
-        "Community": {
-            "Zeabur Ambassador Programme": "https://zeabur.com/docs/en-US/community/ambassador-programme",
-            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/en-US/community/code-of-conduct"
-        },
         "Data Management": {
             "Backup your Service": "https://zeabur.com/docs/en-US/data-management/backup",
             "Config Editor": "https://zeabur.com/docs/en-US/data-management/config-edit",
@@ -353,7 +353,7 @@
         },
         "網域": {
             "DNS 記錄": "https://zeabur.com/docs/zh-TW/domain/dns",
-            "網域管理": "https://zeabur.com/docs/zh-TW/domain/management",
+            "網域管理": "https://zeabur.com/docs/zh-TW/email/domains",
             "註冊人資料": "https://zeabur.com/docs/zh-TW/domain/profiles",
             "註冊網域": "https://zeabur.com/docs/zh-TW/domain/register",
             "預備案子域名": "https://zeabur.com/docs/zh-TW/networking/pre-icp-subdomain"
@@ -463,6 +463,10 @@
             "教育夥伴（Education Partner）": "https://zeabur.com/docs/zh-TW/partner/event-partner",
             "銷售夥伴（Sales Partner）": "https://zeabur.com/docs/zh-TW/partner/sales-partner"
         },
+        "社群": {
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/zh-TW/community/code-of-conduct",
+            "Zeabur 大使計畫": "https://zeabur.com/docs/zh-TW/community/ambassador-programme"
+        },
         "隱私權政策": {
             "隱私權政策": "https://zeabur.com/docs/zh-TW/privacy-policy"
         },
@@ -478,10 +482,6 @@
         },
         "Billing": {},
         "Billing Legal": {},
-        "Community": {
-            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/zh-TW/community/code-of-conduct",
-            "Zeabur 大使計畫": "https://zeabur.com/docs/zh-TW/community/ambassador-programme"
-        },
         "Data Management": {
             "備份服務": "https://zeabur.com/docs/zh-TW/data-management/backup",
             "持久儲存空間": "https://zeabur.com/docs/zh-TW/data-management/volumes",
@@ -688,7 +688,7 @@
             "Free Plan": "https://zeabur.com/docs/zh-CN/pricing/free-plan",
             "Pro Plan": "https://zeabur.com/docs/zh-CN/pricing/pro-plan",
             "Team Plan（团队方案）": "https://zeabur.com/docs/zh-CN/pricing/team-plan",
-            "定价": "https://zeabur.com/docs/zh-CN/pricing/pricing-plans"
+            "定价": "https://zeabur.com/docs/zh-CN/pricing"
         },
         "订阅与账单": {
             "付款方式": "https://zeabur.com/docs/zh-CN/subscription/payment-methods",
@@ -716,6 +716,10 @@
             "教育伙伴（Education Partner）": "https://zeabur.com/docs/zh-CN/partner/event-partner",
             "销售伙伴（Sales Partner）": "https://zeabur.com/docs/zh-CN/partner/sales-partner"
         },
+        "社区": {
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/zh-CN/community/code-of-conduct",
+            "Zeabur 大使计划": "https://zeabur.com/docs/zh-CN/community/ambassador-programme"
+        },
         "隐私政策": {
             "隐私权政策": "https://zeabur.com/docs/zh-CN/privacy-policy"
         },
@@ -734,10 +738,6 @@
         },
         "Billing": {},
         "Billing Legal": {},
-        "Community": {
-            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/zh-CN/community/code-of-conduct",
-            "Zeabur 大使计划": "https://zeabur.com/docs/zh-CN/community/ambassador-programme"
-        },
         "Data Management": {
             "备份服务": "https://zeabur.com/docs/zh-CN/data-management/backup",
             "数据管理": "https://zeabur.com/docs/zh-CN/data-management",
@@ -973,6 +973,10 @@
             "プリペイドカードの引き換え": "https://zeabur.com/docs/ja-JP/partner/sales-partner/redeem-card",
             "教育パートナー (Education Partner)": "https://zeabur.com/docs/ja-JP/partner/event-partner"
         },
+        "コミュニティ": {
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/ja-JP/community/code-of-conduct",
+            "Zeabur アンバサダープログラム": "https://zeabur.com/docs/ja-JP/community/ambassador-programme"
+        },
         "プライバシーポリシー": {
             "プライバシーポリシー": "https://zeabur.com/docs/ja-JP/privacy-policy"
         },
@@ -991,10 +995,6 @@
         },
         "Billing": {},
         "Billing Legal": {},
-        "Community": {
-            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/ja-JP/community/code-of-conduct",
-            "Zeabur アンバサダープログラム": "https://zeabur.com/docs/ja-JP/community/ambassador-programme"
-        },
         "Data Management": {
             "データ管理": "https://zeabur.com/docs/ja-JP/data-management",
             "バックアップの復元": "https://zeabur.com/docs/ja-JP/data-management/restore",
@@ -1230,6 +1230,10 @@
             "Socio Educativo (Education Partner)": "https://zeabur.com/docs/es-ES/partner/event-partner",
             "Socio de Ventas (Sales Partner)": "https://zeabur.com/docs/es-ES/partner/sales-partner"
         },
+        "Comunidad": {
+            "Programa de Embajadores de Zeabur": "https://zeabur.com/docs/es-ES/community/ambassador-programme",
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/es-ES/community/code-of-conduct"
+        },
         "Política de Privacidad": {
             "Política de Privacidad": "https://zeabur.com/docs/es-ES/privacy-policy"
         },
@@ -1248,10 +1252,6 @@
         },
         "Billing": {},
         "Billing Legal": {},
-        "Community": {
-            "Programa de Embajadores de Zeabur": "https://zeabur.com/docs/es-ES/community/ambassador-programme",
-            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/es-ES/community/code-of-conduct"
-        },
         "Data Management": {
             "Copia de Seguridad de tu Servicio": "https://zeabur.com/docs/es-ES/data-management/backup",
             "Editor de Configuración": "https://zeabur.com/docs/es-ES/data-management/config-edit",
