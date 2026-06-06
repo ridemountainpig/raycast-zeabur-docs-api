@@ -110,6 +110,7 @@
             "API Key Management": "https://zeabur.com/docs/en-US/email/api-keys",
             "Email": "https://zeabur.com/docs/en-US/email",
             "Quick Start": "https://zeabur.com/docs/en-US/email/quick-start",
+            "Quotas & Overage Billing": "https://zeabur.com/docs/en-US/email/quotas-and-overage",
             "REST API Reference": "https://zeabur.com/docs/en-US/email/rest-api",
             "Webhook Configuration": "https://zeabur.com/docs/en-US/email/webhooks"
         },
@@ -363,7 +364,8 @@
             "Email": "https://zeabur.com/docs/zh-TW/email",
             "REST API 參考": "https://zeabur.com/docs/zh-TW/email/rest-api",
             "Webhook 設定": "https://zeabur.com/docs/zh-TW/email/webhooks",
-            "快速開始": "https://zeabur.com/docs/zh-TW/email/quick-start"
+            "快速開始": "https://zeabur.com/docs/zh-TW/email/quick-start",
+            "配額與超額計費": "https://zeabur.com/docs/zh-TW/email/quotas-and-overage"
         },
         "Wonder Mesh": {
             "Wonder Mesh": "https://zeabur.com/docs/zh-TW/wonder-mesh",
@@ -616,7 +618,8 @@
             "REST API 参考": "https://zeabur.com/docs/zh-CN/email/rest-api",
             "Webhook 配置": "https://zeabur.com/docs/zh-CN/email/webhooks",
             "Zeabur Email": "https://zeabur.com/docs/zh-CN/email",
-            "快速开始": "https://zeabur.com/docs/zh-CN/email/quick-start"
+            "快速开始": "https://zeabur.com/docs/zh-CN/email/quick-start",
+            "配额与超额计费": "https://zeabur.com/docs/zh-CN/email/quotas-and-overage"
         },
         "Wonder Mesh": {
             "Wonder Mesh": "https://zeabur.com/docs/zh-CN/wonder-mesh",
@@ -873,7 +876,8 @@
             "REST API リファレンス": "https://zeabur.com/docs/ja-JP/email/rest-api",
             "Webhook 設定": "https://zeabur.com/docs/ja-JP/email/webhooks",
             "Zeabur Email": "https://zeabur.com/docs/ja-JP/email",
-            "クイックスタート": "https://zeabur.com/docs/ja-JP/email/quick-start"
+            "クイックスタート": "https://zeabur.com/docs/ja-JP/email/quick-start",
+            "クォータと超過課金": "https://zeabur.com/docs/ja-JP/email/quotas-and-overage"
         },
         "Wonder Mesh": {
             "Wonder Mesh": "https://zeabur.com/docs/ja-JP/wonder-mesh",
@@ -1127,6 +1131,7 @@
         },
         "Email": {
             "Configuración de Webhook": "https://zeabur.com/docs/es-ES/email/webhooks",
+            "Cuotas y Facturación por Excedente": "https://zeabur.com/docs/es-ES/email/quotas-and-overage",
             "Gestión de Claves API": "https://zeabur.com/docs/es-ES/email/api-keys",
             "Inicio Rápido": "https://zeabur.com/docs/es-ES/email/quick-start",
             "Referencia de REST API": "https://zeabur.com/docs/es-ES/email/rest-api",
