@@ -115,6 +115,7 @@
             "Webhook Configuration": "https://zeabur.com/docs/en-US/email/webhooks"
         },
         "Wonder Mesh": {
+            "Public Access via Gateway": "https://zeabur.com/docs/en-US/wonder-mesh/public-access",
             "Uninstall Wonder Mesh": "https://zeabur.com/docs/en-US/wonder-mesh/uninstall",
             "What Does the Install Script Do?": "https://zeabur.com/docs/en-US/wonder-mesh/install-script-details",
             "Wonder Mesh": "https://zeabur.com/docs/en-US/wonder-mesh"
@@ -370,7 +371,8 @@
         "Wonder Mesh": {
             "Wonder Mesh": "https://zeabur.com/docs/zh-TW/wonder-mesh",
             "安裝腳本做了什麼？": "https://zeabur.com/docs/zh-TW/wonder-mesh/install-script-details",
-            "解除安裝 Wonder Mesh": "https://zeabur.com/docs/zh-TW/wonder-mesh/uninstall"
+            "解除安裝 Wonder Mesh": "https://zeabur.com/docs/zh-TW/wonder-mesh/uninstall",
+            "透過閘道器公網存取": "https://zeabur.com/docs/zh-TW/wonder-mesh/public-access"
         },
         "模板": {
             "從模板服務 Fork 程式碼": "https://zeabur.com/docs/zh-TW/template/fork-git-repo-from-template",
@@ -624,7 +626,8 @@
         "Wonder Mesh": {
             "Wonder Mesh": "https://zeabur.com/docs/zh-CN/wonder-mesh",
             "卸载 Wonder Mesh": "https://zeabur.com/docs/zh-CN/wonder-mesh/uninstall",
-            "安装脚本做了什么？": "https://zeabur.com/docs/zh-CN/wonder-mesh/install-script-details"
+            "安装脚本做了什么？": "https://zeabur.com/docs/zh-CN/wonder-mesh/install-script-details",
+            "通过网关公网访问": "https://zeabur.com/docs/zh-CN/wonder-mesh/public-access"
         },
         "模板": {
             "Zeabur 模板目录": "https://zeabur.com/docs/zh-CN/template/template-catalog",
@@ -882,7 +885,8 @@
         "Wonder Mesh": {
             "Wonder Mesh": "https://zeabur.com/docs/ja-JP/wonder-mesh",
             "Wonder Mesh のアンインストール": "https://zeabur.com/docs/ja-JP/wonder-mesh/uninstall",
-            "インストールスクリプトの内容": "https://zeabur.com/docs/ja-JP/wonder-mesh/install-script-details"
+            "インストールスクリプトの内容": "https://zeabur.com/docs/ja-JP/wonder-mesh/install-script-details",
+            "ゲートウェイ経由のパブリックアクセス": "https://zeabur.com/docs/ja-JP/wonder-mesh/public-access"
         },
         "テンプレート": {
             "Zeabur テンプレートカタログ": "https://zeabur.com/docs/ja-JP/template/template-catalog",
@@ -1138,6 +1142,7 @@
             "Zeabur Email": "https://zeabur.com/docs/es-ES/email"
         },
         "Wonder Mesh": {
+            "Acceso público vía Gateway": "https://zeabur.com/docs/es-ES/wonder-mesh/public-access",
             "Desinstalar Wonder Mesh": "https://zeabur.com/docs/es-ES/wonder-mesh/uninstall",
             "Wonder Mesh": "https://zeabur.com/docs/es-ES/wonder-mesh",
             "¿Qué hace el script de instalación?": "https://zeabur.com/docs/es-ES/wonder-mesh/install-script-details"
