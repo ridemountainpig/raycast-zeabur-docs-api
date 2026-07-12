@@ -101,7 +101,7 @@
         },
         "Domain": {
             "DNS Records": "https://zeabur.com/docs/en-US/domain/dns",
-            "Domain Management": "https://zeabur.com/docs/en-US/email/domains",
+            "Domain Management": "https://zeabur.com/docs/en-US/domain/management",
             "Pre-ICP-Filing Subdomain": "https://zeabur.com/docs/en-US/networking/pre-icp-subdomain",
             "Register a Domain": "https://zeabur.com/docs/en-US/domain/register",
             "Registrant Profiles": "https://zeabur.com/docs/en-US/domain/profiles"
@@ -694,7 +694,7 @@
             "Free Plan": "https://zeabur.com/docs/zh-CN/pricing/free-plan",
             "Pro Plan": "https://zeabur.com/docs/zh-CN/pricing/pro-plan",
             "Team Plan（团队方案）": "https://zeabur.com/docs/zh-CN/pricing/team-plan",
-            "定价": "https://zeabur.com/docs/zh-CN/pricing"
+            "定价": "https://zeabur.com/docs/zh-CN/pricing/pricing-plans"
         },
         "订阅与账单": {
             "付款方式": "https://zeabur.com/docs/zh-CN/subscription/payment-methods",
