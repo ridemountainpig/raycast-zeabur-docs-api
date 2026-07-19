@@ -101,7 +101,7 @@
         },
         "Domain": {
             "DNS Records": "https://zeabur.com/docs/en-US/domain/dns",
-            "Domain Management": "https://zeabur.com/docs/en-US/email/domains",
+            "Domain Management": "https://zeabur.com/docs/en-US/domain/management",
             "Pre-ICP-Filing Subdomain": "https://zeabur.com/docs/en-US/networking/pre-icp-subdomain",
             "Register a Domain": "https://zeabur.com/docs/en-US/domain/register",
             "Registrant Profiles": "https://zeabur.com/docs/en-US/domain/profiles"
