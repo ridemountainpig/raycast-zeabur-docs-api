@@ -23,6 +23,7 @@
         "Servers": {
             "Firewall & Security Settings": "https://zeabur.com/docs/en-US/server/firewall",
             "Maintain your Server": "https://zeabur.com/docs/en-US/server/operate",
+            "Operating System": "https://zeabur.com/docs/en-US/server/os",
             "Purchase a Server from Zeabur": "https://zeabur.com/docs/en-US/server/purchase",
             "Register Server": "https://zeabur.com/docs/en-US/server/register",
             "Server": "https://zeabur.com/docs/en-US/server",
@@ -276,6 +277,7 @@
         },
         "伺服器": {
             "伺服器": "https://zeabur.com/docs/zh-TW/server",
+            "作業系統": "https://zeabur.com/docs/zh-TW/server/os",
             "共享叢集（已淘汰）": "https://zeabur.com/docs/zh-TW/server/shared-cluster",
             "從 Zeabur 購買主機": "https://zeabur.com/docs/zh-TW/server/purchase",
             "維護伺服器": "https://zeabur.com/docs/zh-TW/server/operate",
@@ -532,6 +534,7 @@
         "服务器": {
             "从 Zeabur 购买服务器": "https://zeabur.com/docs/zh-CN/server/purchase",
             "共享集群（已停止服务）": "https://zeabur.com/docs/zh-CN/server/shared-cluster",
+            "操作系统": "https://zeabur.com/docs/zh-CN/server/os",
             "服务器": "https://zeabur.com/docs/zh-CN/server",
             "注册服务器": "https://zeabur.com/docs/zh-CN/server/register",
             "维护服务器": "https://zeabur.com/docs/zh-CN/server/operate",
@@ -790,6 +793,7 @@
         },
         "サーバー": {
             "Zeabur からサーバーを購入する": "https://zeabur.com/docs/ja-JP/server/purchase",
+            "オペレーティングシステム": "https://zeabur.com/docs/ja-JP/server/os",
             "サーバー": "https://zeabur.com/docs/ja-JP/server",
             "サーバーのメンテナンス": "https://zeabur.com/docs/ja-JP/server/operate",
             "サーバーの登録": "https://zeabur.com/docs/ja-JP/server/register",
@@ -1053,7 +1057,8 @@
             "Firewall y Configuración de Seguridad": "https://zeabur.com/docs/es-ES/server/firewall",
             "Mantener tu Servidor": "https://zeabur.com/docs/es-ES/server/operate",
             "Registrar Servidor": "https://zeabur.com/docs/es-ES/server/register",
-            "Servidor": "https://zeabur.com/docs/es-ES/server"
+            "Servidor": "https://zeabur.com/docs/es-ES/server",
+            "Sistema operativo": "https://zeabur.com/docs/es-ES/server/os"
         },
         "Clústeres": {
             "Clústeres": "https://zeabur.com/docs/es-ES/cluster",
