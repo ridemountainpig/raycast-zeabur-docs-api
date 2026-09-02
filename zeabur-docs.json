@@ -357,7 +357,7 @@
         },
         "網域": {
             "DNS 記錄": "https://zeabur.com/docs/zh-TW/domain/dns",
-            "網域管理": "https://zeabur.com/docs/zh-TW/domain/management",
+            "網域管理": "https://zeabur.com/docs/zh-TW/email/domains",
             "註冊人資料": "https://zeabur.com/docs/zh-TW/domain/profiles",
             "註冊網域": "https://zeabur.com/docs/zh-TW/domain/register",
             "預備案子域名": "https://zeabur.com/docs/zh-TW/networking/pre-icp-subdomain"
