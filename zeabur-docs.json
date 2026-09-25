@@ -94,12 +94,6 @@
             "AWS BYOS (Bring Your Own Subscription)": "https://zeabur.com/docs/en-US/byos/aws",
             "GCP BYOS (Bring Your Own Subscription)": "https://zeabur.com/docs/en-US/byos/gcp"
         },
-        "AI Hub": {
-            "AI Hub": "https://zeabur.com/docs/en-US/ai-hub",
-            "Reading Usage and Cost": "https://zeabur.com/docs/en-US/ai-hub/usage-and-cost",
-            "Using Zeabur AI Hub in SillyTavern": "https://zeabur.com/docs/en-US/ai-hub/sillytavern-integration",
-            "Using Zeabur AI Hub in n8n": "https://zeabur.com/docs/en-US/ai-hub/n8n-integration"
-        },
         "Domain": {
             "DNS Records": "https://zeabur.com/docs/en-US/domain/dns",
             "Domain Management": "https://zeabur.com/docs/en-US/email/domains",
@@ -348,12 +342,6 @@
         "BYOS": {
             "AWS BYOS（自帶訂閱）": "https://zeabur.com/docs/zh-TW/byos/aws",
             "GCP BYOS（自帶訂閱）": "https://zeabur.com/docs/zh-TW/byos/gcp"
-        },
-        "AI Hub": {
-            "AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub",
-            "在 SillyTavern 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub/sillytavern-integration",
-            "在 n8n 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-TW/ai-hub/n8n-integration",
-            "讀取用量與費用": "https://zeabur.com/docs/zh-TW/ai-hub/usage-and-cost"
         },
         "網域": {
             "DNS 記錄": "https://zeabur.com/docs/zh-TW/domain/dns",
@@ -604,12 +592,6 @@
         "BYOS": {
             "AWS BYOS（自带订阅）": "https://zeabur.com/docs/zh-CN/byos/aws",
             "GCP BYOS（自带订阅）": "https://zeabur.com/docs/zh-CN/byos/gcp"
-        },
-        "AI Hub": {
-            "Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub",
-            "在 SillyTavern 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub/sillytavern-integration",
-            "在 n8n 中使用 Zeabur AI Hub": "https://zeabur.com/docs/zh-CN/ai-hub/n8n-integration",
-            "读取用量与费用": "https://zeabur.com/docs/zh-CN/ai-hub/usage-and-cost"
         },
         "域名": {
             "DNS 记录": "https://zeabur.com/docs/zh-CN/domain/dns",
@@ -865,12 +847,6 @@
             "AWS BYOS（サブスクリプション持ち込み）": "https://zeabur.com/docs/ja-JP/byos/aws",
             "GCP BYOS（サブスクリプション持ち込み）": "https://zeabur.com/docs/ja-JP/byos/gcp"
         },
-        "AI Hub": {
-            "SillyTavern で Zeabur AI Hub を使用する": "https://zeabur.com/docs/ja-JP/ai-hub/sillytavern-integration",
-            "Zeabur AI Hub": "https://zeabur.com/docs/ja-JP/ai-hub",
-            "n8n で Zeabur AI Hub を使用する": "https://zeabur.com/docs/ja-JP/ai-hub/n8n-integration",
-            "使用量と料金の取得": "https://zeabur.com/docs/ja-JP/ai-hub/usage-and-cost"
-        },
         "ドメイン": {
             "DNS レコード": "https://zeabur.com/docs/ja-JP/domain/dns",
             "ICP申請前サブドメイン": "https://zeabur.com/docs/ja-JP/networking/pre-icp-subdomain",
@@ -1124,12 +1100,6 @@
         "BYOS": {
             "AWS BYOS (Trae tu propia suscripción)": "https://zeabur.com/docs/es-ES/byos/aws",
             "GCP BYOS (Trae tu propia suscripción)": "https://zeabur.com/docs/es-ES/byos/gcp"
-        },
-        "AI Hub": {
-            "Leer el uso y el costo": "https://zeabur.com/docs/es-ES/ai-hub/usage-and-cost",
-            "Usar Zeabur AI Hub en SillyTavern": "https://zeabur.com/docs/es-ES/ai-hub/sillytavern-integration",
-            "Usar Zeabur AI Hub en n8n": "https://zeabur.com/docs/es-ES/ai-hub/n8n-integration",
-            "Zeabur AI Hub": "https://zeabur.com/docs/es-ES/ai-hub"
         },
         "Dominio": {
             "Gestión de Dominios": "https://zeabur.com/docs/es-ES/email/domains",
