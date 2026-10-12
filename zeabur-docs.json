@@ -202,9 +202,7 @@
             "Sponsor": "https://zeabur.com/docs/en-US/rewards/sponsor"
         },
         "Partner Program": {
-            "Education Partner": "https://zeabur.com/docs/en-US/partner/event-partner",
             "Partner Program": "https://zeabur.com/docs/en-US/partner",
-            "Redeem Event Code": "https://zeabur.com/docs/en-US/partner/event-partner/redeem-event-code",
             "Redeem Prepaid Card": "https://zeabur.com/docs/en-US/partner/sales-partner/redeem-card",
             "Sales Partner": "https://zeabur.com/docs/en-US/partner/sales-partner"
         },
@@ -451,10 +449,8 @@
             "贊助": "https://zeabur.com/docs/zh-TW/rewards/sponsor"
         },
         "合作夥伴計畫": {
-            "兌換活動碼": "https://zeabur.com/docs/zh-TW/partner/event-partner/redeem-event-code",
             "兌換預付卡": "https://zeabur.com/docs/zh-TW/partner/sales-partner/redeem-card",
             "合作夥伴計畫": "https://zeabur.com/docs/zh-TW/partner",
-            "教育夥伴（Education Partner）": "https://zeabur.com/docs/zh-TW/partner/event-partner",
             "銷售夥伴（Sales Partner）": "https://zeabur.com/docs/zh-TW/partner/sales-partner"
         },
         "社群": {
@@ -701,10 +697,8 @@
             "赞助": "https://zeabur.com/docs/zh-CN/rewards/sponsor"
         },
         "合作伙伴计划": {
-            "兑换活动码": "https://zeabur.com/docs/zh-CN/partner/event-partner/redeem-event-code",
             "兑换预付卡": "https://zeabur.com/docs/zh-CN/partner/sales-partner/redeem-card",
             "合作伙伴计划": "https://zeabur.com/docs/zh-CN/partner",
-            "教育伙伴（Education Partner）": "https://zeabur.com/docs/zh-CN/partner/event-partner",
             "销售伙伴（Sales Partner）": "https://zeabur.com/docs/zh-CN/partner/sales-partner"
         },
         "社区": {
@@ -955,11 +949,9 @@
             "紹介プログラム": "https://zeabur.com/docs/ja-JP/rewards/referral"
         },
         "パートナープログラム": {
-            "イベントコードの引き換え": "https://zeabur.com/docs/ja-JP/partner/event-partner/redeem-event-code",
             "セールスパートナー (Sales Partner)": "https://zeabur.com/docs/ja-JP/partner/sales-partner",
             "パートナープログラム": "https://zeabur.com/docs/ja-JP/partner",
-            "プリペイドカードの引き換え": "https://zeabur.com/docs/ja-JP/partner/sales-partner/redeem-card",
-            "教育パートナー (Education Partner)": "https://zeabur.com/docs/ja-JP/partner/event-partner"
+            "プリペイドカードの引き換え": "https://zeabur.com/docs/ja-JP/partner/sales-partner/redeem-card"
         },
         "コミュニティ": {
             "Zeabur Community Code of Conduct": "https://zeabur.com/docs/ja-JP/community/code-of-conduct",
@@ -1209,10 +1201,8 @@
             "Recompensas y Referidos": "https://zeabur.com/docs/es-ES/rewards"
         },
         "Programa de Socios": {
-            "Canjear Código de Evento": "https://zeabur.com/docs/es-ES/partner/event-partner/redeem-event-code",
             "Canjear Tarjeta Prepago": "https://zeabur.com/docs/es-ES/partner/sales-partner/redeem-card",
             "Programa de Socios": "https://zeabur.com/docs/es-ES/partner",
-            "Socio Educativo (Education Partner)": "https://zeabur.com/docs/es-ES/partner/event-partner",
             "Socio de Ventas (Sales Partner)": "https://zeabur.com/docs/es-ES/partner/sales-partner"
         },
         "Comunidad": {
