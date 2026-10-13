@@ -18,5 +18,9 @@
     {
         "locale": "es-ES",
         "name": "Español"
+    },
+    {
+        "locale": "id-ID",
+        "name": "Bahasa Indonesia"
     }
 ]

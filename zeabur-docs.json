@@ -207,7 +207,6 @@
             "Sales Partner": "https://zeabur.com/docs/en-US/partner/sales-partner"
         },
         "Community": {
-            "Zeabur Ambassador Programme": "https://zeabur.com/docs/en-US/community/ambassador-programme",
             "Zeabur Community Code of Conduct": "https://zeabur.com/docs/en-US/community/code-of-conduct"
         },
         "Privacy Policy": {
@@ -454,8 +453,7 @@
             "銷售夥伴（Sales Partner）": "https://zeabur.com/docs/zh-TW/partner/sales-partner"
         },
         "社群": {
-            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/zh-TW/community/code-of-conduct",
-            "Zeabur 大使計畫": "https://zeabur.com/docs/zh-TW/community/ambassador-programme"
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/zh-TW/community/code-of-conduct"
         },
         "隱私權政策": {
             "隱私權政策": "https://zeabur.com/docs/zh-TW/privacy-policy"
@@ -702,8 +700,7 @@
             "销售伙伴（Sales Partner）": "https://zeabur.com/docs/zh-CN/partner/sales-partner"
         },
         "社区": {
-            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/zh-CN/community/code-of-conduct",
-            "Zeabur 大使计划": "https://zeabur.com/docs/zh-CN/community/ambassador-programme"
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/zh-CN/community/code-of-conduct"
         },
         "隐私政策": {
             "隐私权政策": "https://zeabur.com/docs/zh-CN/privacy-policy"
@@ -954,8 +951,7 @@
             "プリペイドカードの引き換え": "https://zeabur.com/docs/ja-JP/partner/sales-partner/redeem-card"
         },
         "コミュニティ": {
-            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/ja-JP/community/code-of-conduct",
-            "Zeabur アンバサダープログラム": "https://zeabur.com/docs/ja-JP/community/ambassador-programme"
+            "Zeabur Community Code of Conduct": "https://zeabur.com/docs/ja-JP/community/code-of-conduct"
         },
         "プライバシーポリシー": {
             "プライバシーポリシー": "https://zeabur.com/docs/ja-JP/privacy-policy"
@@ -1206,7 +1202,6 @@
             "Socio de Ventas (Sales Partner)": "https://zeabur.com/docs/es-ES/partner/sales-partner"
         },
         "Comunidad": {
-            "Programa de Embajadores de Zeabur": "https://zeabur.com/docs/es-ES/community/ambassador-programme",
             "Zeabur Community Code of Conduct": "https://zeabur.com/docs/es-ES/community/code-of-conduct"
         },
         "Política de Privacidad": {
@@ -1247,6 +1242,252 @@
         "Tutorials": {},
         "Mcp": {
             "Servidor MCP de Zeabur": "https://zeabur.com/docs/es-ES/mcp"
+        },
+        "Index": {}
+    },
+    "id-ID": {
+        "Memulai": {
+            "Cara Bermigrasi dari Emergent ke Zeabur": "https://zeabur.com/docs/id-ID/get-started/migration/emergent",
+            "Cara Men-deploy Proyek Bolt.new Anda ke Web dengan Zeabur": "https://zeabur.com/docs/id-ID/get-started/migration/bolt",
+            "Cara Men-deploy Proyek Lovable.dev Anda ke Web dengan Zeabur": "https://zeabur.com/docs/id-ID/get-started/migration/lovable",
+            "Cara Men-deploy Proyek Replit Anda ke Web dengan Zeabur": "https://zeabur.com/docs/id-ID/get-started/migration/replit",
+            "Cara Mengekspor Proyek Google AI Studio Anda ke GitHub": "https://zeabur.com/docs/id-ID/get-started/migration/aistudio",
+            "Dapatkan Bantuan": "https://zeabur.com/docs/id-ID/get-started/faq-support/help",
+            "FAQ & Dukungan": "https://zeabur.com/docs/id-ID/get-started/faq-support",
+            "Ikhtisar Platform": "https://zeabur.com/docs/id-ID/get-started/platform-overview",
+            "Memulai": "https://zeabur.com/docs/id-ID/wonder-mesh/get-started",
+            "Memulai & Panduan Cepat": "https://zeabur.com/docs/id-ID/get-started",
+            "Migrasi dari Fly.io": "https://zeabur.com/docs/id-ID/get-started/migration/fly-io",
+            "Migrasi dari Heroku": "https://zeabur.com/docs/id-ID/get-started/migration/heroku",
+            "Migrasi dari Railway": "https://zeabur.com/docs/id-ID/get-started/migration/railway",
+            "Migrasi dari Vercel": "https://zeabur.com/docs/id-ID/get-started/migration/vercel",
+            "Mulai Cepat": "https://zeabur.com/docs/id-ID/get-started/quick-start",
+            "Mulai Sesuai Kebutuhan": "https://zeabur.com/docs/id-ID/get-started/start-by-need",
+            "Praktik Terbaik": "https://zeabur.com/docs/id-ID/get-started/best-practices",
+            "Verifikasi Akun Anda": "https://zeabur.com/docs/id-ID/get-started/faq-support/verify"
+        },
+        "Server": {
+            "Beli Server dari Zeabur": "https://zeabur.com/docs/id-ID/server/purchase",
+            "Cluster Bersama (Usang)": "https://zeabur.com/docs/id-ID/server/shared-cluster",
+            "Daftarkan Server": "https://zeabur.com/docs/id-ID/server/register",
+            "Pemeliharaan Server Anda": "https://zeabur.com/docs/id-ID/server/operate",
+            "Pengaturan Firewall & Keamanan": "https://zeabur.com/docs/id-ID/server/firewall",
+            "Server": "https://zeabur.com/docs/id-ID/server",
+            "Sistem Operasi": "https://zeabur.com/docs/id-ID/server/os"
+        },
+        "Kluster": {
+            "Beli Kluster": "https://zeabur.com/docs/id-ID/cluster/purchase",
+            "Hubungkan Kluster Kubernetes yang Sudah Ada": "https://zeabur.com/docs/id-ID/cluster/bind",
+            "Kluster": "https://zeabur.com/docs/id-ID/cluster"
+        },
+        "Deploy": {
+            "Arsitektur Ketersediaan Tinggi": "https://zeabur.com/docs/id-ID/deploy/networking/high-availability",
+            "Buat Layanan": "https://zeabur.com/docs/id-ID/deploy/create/create-service",
+            "Buat Proyek": "https://zeabur.com/docs/id-ID/deploy/create/create-project",
+            "Buat Proyek & Layanan": "https://zeabur.com/docs/id-ID/deploy/create",
+            "Build": "https://zeabur.com/docs/id-ID/deploy/how-deploys-work",
+            "Deploy Layanan dengan Ekstensi Raycast": "https://zeabur.com/docs/id-ID/deploy/methods/deploy-with-raycast-extension",
+            "Deploy Layanan dengan Ekstensi VS Code": "https://zeabur.com/docs/id-ID/deploy/methods/deploy-with-vscode-extension",
+            "Deploy Proyek Gemini Canvas": "https://zeabur.com/docs/id-ID/deploy/methods/deploy-with-chrome-extension/gemini",
+            "Deploy dengan Dockerfile": "https://zeabur.com/docs/id-ID/deploy/methods/dockerfile",
+            "Deployment & Layanan Inti": "https://zeabur.com/docs/id-ID/deploy",
+            "Direktori Root Kustom": "https://zeabur.com/docs/id-ID/deploy/config/root-directory",
+            "Docker image Kustom": "https://zeabur.com/docs/id-ID/deploy/methods/custom-docker-image",
+            "Ekspor Proyek": "https://zeabur.com/docs/id-ID/deploy/manage/export-project",
+            "Ekstensi Chrome": "https://zeabur.com/docs/id-ID/deploy/methods/deploy-with-chrome-extension",
+            "Gateway": "https://zeabur.com/docs/id-ID/deploy/networking/gateway",
+            "Integrasi GitHub": "https://zeabur.com/docs/id-ID/deploy/methods/github-integration",
+            "Jalankan Perintah": "https://zeabur.com/docs/id-ID/deploy/config/command-execution",
+            "Jaringan": "https://zeabur.com/docs/id-ID/deploy/networking",
+            "Jaringan Privat": "https://zeabur.com/docs/id-ID/deploy/networking/private-networking",
+            "Jaringan Publik": "https://zeabur.com/docs/id-ID/deploy/networking/public-networking",
+            "Konfigurasi Layanan": "https://zeabur.com/docs/id-ID/deploy/config",
+            "Manajemen Deployment": "https://zeabur.com/docs/id-ID/operations/deployment",
+            "Manajemen Proyek": "https://zeabur.com/docs/id-ID/deploy/manage",
+            "Mengatur Environment Variables": "https://zeabur.com/docs/id-ID/deploy/config/environment-variables",
+            "Metode Deployment": "https://zeabur.com/docs/id-ID/deploy/methods",
+            "Migrasi Proyek": "https://zeabur.com/docs/id-ID/deploy/manage/migrate-project",
+            "Penanganan File Besar": "https://zeabur.com/docs/id-ID/deploy/large-files",
+            "Pendaftaran Domain": "https://zeabur.com/docs/id-ID/deploy/networking/domain-registration",
+            "Perbarui Referensi Image Layanan Docker": "https://zeabur.com/docs/id-ID/deploy/manage/update-image-reference",
+            "Rollback": "https://zeabur.com/docs/id-ID/operations/deployment/rollbacks",
+            "Salin Proyek": "https://zeabur.com/docs/id-ID/deploy/manage/copy-project",
+            "Spesifikasi Build": "https://zeabur.com/docs/id-ID/deploy/config/build-spec",
+            "Tangguhkan Layanan": "https://zeabur.com/docs/id-ID/operations/deployment/suspend-service",
+            "Tombol Deploy": "https://zeabur.com/docs/id-ID/deploy/methods/deploy-button",
+            "Watch Paths": "https://zeabur.com/docs/id-ID/deploy/config/watch-paths"
+        },
+        "Operasional": {
+            "Anggaran Proyek": "https://zeabur.com/docs/id-ID/operations/resources/project-budget",
+            "Backup & Pemulihan": "https://zeabur.com/docs/id-ID/operations/data/backup-restore",
+            "Editor Konfigurasi": "https://zeabur.com/docs/id-ID/operations/data/config-file-management",
+            "Health Check": "https://zeabur.com/docs/id-ID/operations/monitoring/health-checks",
+            "Konfigurasi Sumber Daya": "https://zeabur.com/docs/id-ID/operations/resources",
+            "Laporan Keamanan": "https://zeabur.com/docs/id-ID/operations/team/security-report",
+            "Logging & Streaming": "https://zeabur.com/docs/id-ID/operations/monitoring/logging",
+            "Manajemen Data": "https://zeabur.com/docs/id-ID/operations/data",
+            "Manajemen File": "https://zeabur.com/docs/id-ID/operations/data/file-management",
+            "Manajemen Tim": "https://zeabur.com/docs/id-ID/operations/team",
+            "Metrik": "https://zeabur.com/docs/id-ID/operations/monitoring/metrics",
+            "Operasional & Alat Developer": "https://zeabur.com/docs/id-ID/operations",
+            "Pemakaian Layanan": "https://zeabur.com/docs/id-ID/operations/resources/service-usage",
+            "Pemantauan": "https://zeabur.com/docs/id-ID/operations/monitoring",
+            "Scaling": "https://zeabur.com/docs/id-ID/operations/resources/scaling",
+            "Undang Anggota": "https://zeabur.com/docs/id-ID/operations/team/invite-member",
+            "Volume": "https://zeabur.com/docs/id-ID/operations/data/volumes"
+        },
+        "BYOS": {
+            "AWS BYOS (Bring Your Own Subscription)": "https://zeabur.com/docs/id-ID/byos/aws",
+            "GCP BYOS (Bring Your Own Subscription)": "https://zeabur.com/docs/id-ID/byos/gcp"
+        },
+        "Domain": {
+            "Daftarkan Domain": "https://zeabur.com/docs/id-ID/domain/register",
+            "Manajemen Domain": "https://zeabur.com/docs/id-ID/email/domains",
+            "Profil Pendaftar": "https://zeabur.com/docs/id-ID/domain/profiles",
+            "Record DNS": "https://zeabur.com/docs/id-ID/domain/dns",
+            "Subdomain Pra-Pendaftaran ICP": "https://zeabur.com/docs/id-ID/networking/pre-icp-subdomain"
+        },
+        "Email": {
+            "Email": "https://zeabur.com/docs/id-ID/email",
+            "Konfigurasi Webhook": "https://zeabur.com/docs/id-ID/email/webhooks",
+            "Kuota & Tagihan Kelebihan": "https://zeabur.com/docs/id-ID/email/quotas-and-overage",
+            "Manajemen API Key": "https://zeabur.com/docs/id-ID/email/api-keys",
+            "Mulai Cepat": "https://zeabur.com/docs/id-ID/email/quick-start",
+            "Referensi REST API": "https://zeabur.com/docs/id-ID/email/rest-api"
+        },
+        "Wonder Mesh": {
+            "Akses Publik melalui Gateway": "https://zeabur.com/docs/id-ID/wonder-mesh/public-access",
+            "Apa yang Dilakukan Skrip Instalasi?": "https://zeabur.com/docs/id-ID/wonder-mesh/install-script-details",
+            "Hapus Instalasi Wonder Mesh": "https://zeabur.com/docs/id-ID/wonder-mesh/uninstall",
+            "Wonder Mesh": "https://zeabur.com/docs/id-ID/wonder-mesh"
+        },
+        "Template": {
+            "Fork Kode dari Layanan Template": "https://zeabur.com/docs/id-ID/template/fork-git-repo-from-template",
+            "Format Template": "https://zeabur.com/docs/id-ID/template/template-format",
+            "Katalog Template": "https://zeabur.com/docs/id-ID/template/template-catalog",
+            "Pemeliharaan & Pembaruan Template": "https://zeabur.com/docs/id-ID/template/maintain-template",
+            "Template": "https://zeabur.com/docs/id-ID/template"
+        },
+        "Integrasi": {
+            "Hubungkan AI IDE": "https://zeabur.com/docs/id-ID/integrations/insforge/connect-ai-ide",
+            "InsForge": "https://zeabur.com/docs/id-ID/integrations/insforge/overview",
+            "Integrasi": "https://zeabur.com/docs/id-ID/integrations",
+            "Mulai Cepat": "https://zeabur.com/docs/id-ID/integrations/insforge/quick-start",
+            "Pemakaian & Tagihan": "https://zeabur.com/docs/id-ID/integrations/insforge/usage-and-billing"
+        },
+        "Developer Tools": {
+            "API Publik": "https://zeabur.com/docs/id-ID/developer/public-api",
+            "Claude Code Skills": "https://zeabur.com/docs/id-ID/developer/claude-code-skills",
+            "Membuat dan Menggunakan API Key": "https://zeabur.com/docs/id-ID/developer/api-keys",
+            "Panduan Koneksi WebSocket": "https://zeabur.com/docs/id-ID/developer/websocket-guide",
+            "Sumber Daya Developer": "https://zeabur.com/docs/id-ID/developer",
+            "Zeabur CLI": "https://zeabur.com/docs/id-ID/developer/cli"
+        },
+        "Framework": {
+            "Bun": "https://zeabur.com/docs/id-ID/guides/bun",
+            "Deploy Aplikasi .NET": "https://zeabur.com/docs/id-ID/guides/dotnet",
+            "Deploy Aplikasi Deno dengan TypeScript": "https://zeabur.com/docs/id-ID/guides/deno/typescript",
+            "Deploy Aplikasi ElysiaJS": "https://zeabur.com/docs/id-ID/guides/bun/elysiajs",
+            "Deploy Aplikasi Express": "https://zeabur.com/docs/id-ID/guides/nodejs/express",
+            "Deploy Aplikasi Fresh": "https://zeabur.com/docs/id-ID/guides/deno/fresh",
+            "Deploy Aplikasi Go": "https://zeabur.com/docs/id-ID/guides/go",
+            "Deploy Aplikasi NestJS": "https://zeabur.com/docs/id-ID/guides/nodejs/nestjs",
+            "Deploy Aplikasi Node.js": "https://zeabur.com/docs/id-ID/guides/nodejs",
+            "Deploy Aplikasi Nue": "https://zeabur.com/docs/id-ID/guides/nodejs/nue",
+            "Deploy Aplikasi Nuxt": "https://zeabur.com/docs/id-ID/guides/nodejs/nuxt",
+            "Deploy Aplikasi PHP": "https://zeabur.com/docs/id-ID/guides/php",
+            "Deploy Aplikasi Rust": "https://zeabur.com/docs/id-ID/guides/rust",
+            "Deploy Astro di Zeabur": "https://zeabur.com/docs/id-ID/guides/nodejs/astro",
+            "Deploy Django": "https://zeabur.com/docs/id-ID/guides/python/django",
+            "Deploy Flask": "https://zeabur.com/docs/id-ID/guides/python/flask",
+            "Deploy Flutter di Zeabur": "https://zeabur.com/docs/id-ID/guides/dart/flutter",
+            "Deploy Halaman Web Statis": "https://zeabur.com/docs/id-ID/guides/static",
+            "Deploy Laravel": "https://zeabur.com/docs/id-ID/guides/php/laravel",
+            "Deploy Next.js": "https://zeabur.com/docs/id-ID/guides/nodejs/nextjs",
+            "Deploy Proyek Java": "https://zeabur.com/docs/id-ID/guides/java",
+            "Deploy Proyek Python": "https://zeabur.com/docs/id-ID/guides/python",
+            "Deploy Proyek Qwik": "https://zeabur.com/docs/id-ID/guides/nodejs/qwik",
+            "Deploy Proyek Reflex": "https://zeabur.com/docs/id-ID/guides/python/reflex",
+            "Deploy Proyek Vapor": "https://zeabur.com/docs/id-ID/guides/swift/vapor",
+            "Deploy Remix": "https://zeabur.com/docs/id-ID/guides/nodejs/remix",
+            "Deploy Spring Boot": "https://zeabur.com/docs/id-ID/guides/java/spring-boot",
+            "Deploy Svelte Kit": "https://zeabur.com/docs/id-ID/guides/nodejs/svelte-kit",
+            "Deploy Umi": "https://zeabur.com/docs/id-ID/guides/nodejs/umi",
+            "Deploy Vite": "https://zeabur.com/docs/id-ID/guides/nodejs/vite",
+            "Deploy Waku": "https://zeabur.com/docs/id-ID/guides/nodejs/waku",
+            "Framework": "https://zeabur.com/docs/id-ID/guides",
+            "Hono": "https://zeabur.com/docs/id-ID/guides/bun/hono",
+            "Hugo": "https://zeabur.com/docs/id-ID/guides/static/hugo",
+            "MkDocs": "https://zeabur.com/docs/id-ID/guides/static/mkdocs",
+            "Panduan Deployment Symfony": "https://zeabur.com/docs/id-ID/guides/php/symfony"
+        },
+        "Harga": {
+            "Dev Plan (Paket Developer)": "https://zeabur.com/docs/id-ID/pricing/dev-plan",
+            "Free Plan": "https://zeabur.com/docs/id-ID/pricing/free-plan",
+            "Harga": "https://zeabur.com/docs/id-ID/pricing",
+            "Pro Plan": "https://zeabur.com/docs/id-ID/pricing/pro-plan",
+            "Team Plan": "https://zeabur.com/docs/id-ID/pricing/team-plan"
+        },
+        "Langganan & Tagihan": {
+            "Faktur": "https://zeabur.com/docs/id-ID/subscription/invoicing",
+            "Kebijakan Pengembalian Dana": "https://zeabur.com/docs/id-ID/subscription/refund-policy",
+            "Langganan": "https://zeabur.com/docs/id-ID/subscription",
+            "Metode Pembayaran": "https://zeabur.com/docs/id-ID/subscription/payment-methods"
+        },
+        "Tim": {
+            "Buat Tim": "https://zeabur.com/docs/id-ID/team/create-team",
+            "Kelola anggota": "https://zeabur.com/docs/id-ID/team/manage-members",
+            "Tagihan Tim": "https://zeabur.com/docs/id-ID/team/billing",
+            "Tim": "https://zeabur.com/docs/id-ID/team",
+            "Transfer kepemilikan ke Tim": "https://zeabur.com/docs/id-ID/team/transfer-ownership"
+        },
+        "Hadiah & Referral": {
+            "Hadiah & Referral": "https://zeabur.com/docs/id-ID/rewards",
+            "Program Hadiah Kontribusi": "https://zeabur.com/docs/id-ID/rewards/contribution",
+            "Program Referral": "https://zeabur.com/docs/id-ID/rewards/referral",
+            "Sponsor": "https://zeabur.com/docs/id-ID/rewards/sponsor"
+        },
+        "Program Partner": {
+            "Program Partner": "https://zeabur.com/docs/id-ID/partner",
+            "Sales Partner": "https://zeabur.com/docs/id-ID/partner/sales-partner",
+            "Tukarkan Kartu Prabayar": "https://zeabur.com/docs/id-ID/partner/sales-partner/redeem-card"
+        },
+        "Komunitas": {
+            "Kode Etik Komunitas Zeabur": "https://zeabur.com/docs/id-ID/community/code-of-conduct"
+        },
+        "Kebijakan Privasi": {
+            "Kebijakan Privasi": "https://zeabur.com/docs/id-ID/privacy-policy"
+        },
+        "Praktik Keamanan": {
+            "Praktik Keamanan": "https://zeabur.com/docs/id-ID/security-practices"
+        },
+        "Kepatuhan": {
+            "Pedoman Pelaporan Penyalahgunaan": "https://zeabur.com/docs/id-ID/compliance/abuse-report",
+            "Pedoman Penggunaan Wajar": "https://zeabur.com/docs/id-ID/compliance/fair-use-guidelines"
+        },
+        "Ketentuan Layanan": {
+            "Ketentuan Layanan": "https://zeabur.com/docs/id-ID/terms-of-service"
+        },
+        "Billing": {},
+        "Billing Legal": {},
+        "Data Management": {
+            "Backup Layanan Anda": "https://zeabur.com/docs/id-ID/data-management/backup",
+            "Editor Konfigurasi": "https://zeabur.com/docs/id-ID/data-management/config-edit",
+            "Manajemen Data": "https://zeabur.com/docs/id-ID/data-management",
+            "Pulihkan Backup": "https://zeabur.com/docs/id-ID/data-management/restore",
+            "Volume": "https://zeabur.com/docs/id-ID/data-management/volumes"
+        },
+        "Monitoring": {
+            "Monitoring": "https://zeabur.com/docs/id-ID/monitoring"
+        },
+        "Networking": {},
+        "Manage": {},
+        "Mesh": {
+            "Zeabur Mesh": "https://zeabur.com/docs/id-ID/mesh"
+        },
+        "Tutorials": {},
+        "Mcp": {
+            "Zeabur MCP Server": "https://zeabur.com/docs/id-ID/mcp"
         },
         "Index": {}
     }
