@@ -1342,7 +1342,7 @@
         },
         "Domain": {
             "Daftarkan Domain": "https://zeabur.com/docs/id-ID/domain/register",
-            "Manajemen Domain": "https://zeabur.com/docs/id-ID/email/domains",
+            "Manajemen Domain": "https://zeabur.com/docs/id-ID/domain/management",
             "Profil Pendaftar": "https://zeabur.com/docs/id-ID/domain/profiles",
             "Record DNS": "https://zeabur.com/docs/id-ID/domain/dns",
             "Subdomain Pra-Pendaftaran ICP": "https://zeabur.com/docs/id-ID/networking/pre-icp-subdomain"
